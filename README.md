@@ -55,3 +55,68 @@ Flight delays are a critical challenge in the aviation industry, affecting passe
     1. Regression: Predict exact delays.<br>
     2. Classification: Predict delay categories or binary outcomes.<br>
 • Submit results to Kaggle for evaluation<br>
+
+# Deliverables
+## 1. Cleaned Dataset:
+Preprocessed and feature-engineered datasets.
+
+## 2. Report:
+Detailed analysis, model performance metrics, and findings.
+
+## 3. Submission File:
+Predictions in the Kaggle-required format.
+
+## 4. Source Code:
+Python implementation of preprocessing, analysis, and modeling.
+
+# Key Features
+## 1. Data Preprocessing:
+Handle missing values, format time fields, and engineer features.
+
+## 2. EDA:
+Analyze and visualize delay patterns and correlations.
+
+## 3. Predictive Modeling:
+• Binary Classification<br>
+• Mutli-class Classification<br>
+• Regression<br>
+
+## 4. Model Optimization:
+Grid search, cross-validation, and performance comparison.
+
+## 5. Kaggle Submission:
+Structured output for competition evaluation.
+
+# Technologies Used
+## Programming Language:
+Python
+
+## Libraries:
+### Data Pocessing:
+Pandas, Numpy
+
+### Visulaizations:
+Matplotlib, Seaborn
+
+### Machine Learning
+Scikit-learn
+
+## Tools:
+Jupyter Notebook, Kaggle
+
+# Evaluation Metrics
+## Classification:
+• Accuracy<br>
+• Precision, Recall, F1-Score<br>
+• Confusion Matrix<br>
+
+## Regression:
+• Mean Absolute Error (MAE)<br>
+• Root Mean Square Error (RMSE)<br>
+
+# Submission Format
+Final test predictions must includes:
+• Flight Number<br>
+• Status ("on-time" or "delayed" for binary classification)<br>
+• Predicted delay category (for multi-class classification)<br>
+• Predicted delay duration (for regression)<br>
