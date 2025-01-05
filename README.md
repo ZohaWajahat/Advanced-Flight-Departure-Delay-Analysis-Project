@@ -36,8 +36,8 @@ Flight delays are a critical challenge in the aviation industry, affecting passe
 Predict whether a flight is "on-time" or "delayed."
 
 ##### 2. Multi-class Classification
-Categorize delays into:
-• No Delay (0 min)<br>
+Categorize delays into:<br>
+</t>• No Delay (0 min)<br>
 • Short Delay (<45 min)<br>
 • Moderate Delay (45–175 min)<br>
 • Long Delay (>175 min)<br>
