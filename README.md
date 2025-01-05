@@ -14,7 +14,7 @@ Flight delays are a critical challenge in the aviation industry, affecting passe
 • Submit results to Kaggle competitions for evaluation.<br>
 
 ## Phases
-### Data Preprocessing and Feature Engineering
+### 1. Data Preprocessing and Feature Engineering
 #### Data Integration:
 • Combine flight and weather datasets for analysis.<br>
 
@@ -26,3 +26,21 @@ Flight delays are a critical challenge in the aviation industry, affecting passe
 • Extract temporal features (e.g., day of the week, hour of the day).<br>
 • Merge relevant weather attributes (e.g., temperature, wind speed).<br>
 
+### 2. Exploratory Data Analysis (EDA)
+• Visualize delay distributions, temporal patterns, and category-wise trends.<br>
+• Perform correlation analysis between weather and flight data.<br>
+
+### 3. Predictive Modeling
+#### Classificarion Tasks
+##### 1. Binary Classification
+Predict whether a flight is "on-time" or "delayed."
+
+##### 2. Multi-class Classification
+Categorize delays into:
+• No Delay (0 min)<br>
+• Short Delay (<45 min)<br>
+• Moderate Delay (45–175 min)<br>
+• Long Delay (>175 min)<br>
+
+### Regression Task
+• Predict the exact delay duration in minutes.
