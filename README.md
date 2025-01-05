@@ -37,7 +37,7 @@ Predict whether a flight is "on-time" or "delayed."
 
 ##### 2. Multi-class Classification
 Categorize delays into:<br>
-</t>• No Delay (0 min)<br>
+<\t>• No Delay (0 min)<br>
 • Short Delay (<45 min)<br>
 • Moderate Delay (45–175 min)<br>
 • Long Delay (>175 min)<br>
