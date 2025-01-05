@@ -1,0 +1,12915 @@
+ID,Delay
+1,delayed
+2,delayed
+3,delayed
+4,delayed
+5,delayed
+6,delayed
+7,delayed
+8,delayed
+9,delayed
+10,delayed
+11,delayed
+12,delayed
+13,on time
+14,delayed
+15,on time
+16,delayed
+17,on time
+18,on time
+19,on time
+20,on time
+21,delayed
+22,on time
+23,delayed
+24,on time
+25,delayed
+26,on time
+27,delayed
+28,on time
+29,on time
+30,delayed
+31,delayed
+32,delayed
+33,delayed
+34,delayed
+35,delayed
+36,delayed
+37,delayed
+38,on time
+39,delayed
+40,on time
+41,on time
+42,on time
+43,on time
+44,on time
+45,on time
+46,on time
+47,on time
+48,on time
+49,on time
+50,on time
+51,on time
+52,on time
+53,on time
+54,on time
+55,on time
+56,on time
+57,on time
+58,on time
+59,on time
+60,on time
+61,on time
+62,on time
+63,on time
+64,on time
+65,on time
+66,on time
+67,on time
+68,on time
+69,on time
+70,on time
+71,on time
+72,on time
+73,on time
+74,on time
+75,on time
+76,on time
+77,on time
+78,on time
+79,on time
+80,on time
+81,on time
+82,on time
+83,on time
+84,on time
+85,on time
+86,on time
+87,on time
+88,on time
+89,on time
+90,on time
+91,on time
+92,on time
+93,on time
+94,on time
+95,on time
+96,on time
+97,on time
+98,on time
+99,on time
+100,delayed
+101,on time
+102,on time
+103,on time
+104,on time
+105,on time
+106,on time
+107,on time
+108,on time
+109,on time
+110,on time
+111,on time
+112,on time
+113,on time
+114,on time
+115,on time
+116,on time
+117,on time
+118,on time
+119,on time
+120,delayed
+121,delayed
+122,delayed
+123,delayed
+124,delayed
+125,delayed
+126,delayed
+127,delayed
+128,delayed
+129,delayed
+130,delayed
+131,delayed
+132,delayed
+133,delayed
+134,delayed
+135,delayed
+136,on time
+137,on time
+138,delayed
+139,delayed
+140,delayed
+141,on time
+142,on time
+143,on time
+144,on time
+145,delayed
+146,on time
+147,on time
+148,on time
+149,on time
+150,on time
+151,on time
+152,on time
+153,delayed
+154,on time
+155,delayed
+156,on time
+157,on time
+158,delayed
+159,on time
+160,on time
+161,on time
+162,on time
+163,on time
+164,on time
+165,on time
+166,delayed
+167,on time
+168,on time
+169,on time
+170,delayed
+171,on time
+172,on time
+173,on time
+174,on time
+175,on time
+176,on time
+177,on time
+178,on time
+179,on time
+180,on time
+181,on time
+182,on time
+183,on time
+184,on time
+185,on time
+186,on time
+187,on time
+188,on time
+189,on time
+190,on time
+191,on time
+192,on time
+193,on time
+194,on time
+195,on time
+196,on time
+197,on time
+198,on time
+199,on time
+200,on time
+201,on time
+202,on time
+203,on time
+204,on time
+205,on time
+206,on time
+207,on time
+208,on time
+209,on time
+210,on time
+211,on time
+212,on time
+213,on time
+214,on time
+215,on time
+216,on time
+217,on time
+218,on time
+219,on time
+220,on time
+221,on time
+222,on time
+223,on time
+224,on time
+225,on time
+226,on time
+227,on time
+228,on time
+229,on time
+230,on time
+231,on time
+232,on time
+233,on time
+234,on time
+235,on time
+236,on time
+237,on time
+238,on time
+239,on time
+240,on time
+241,on time
+242,on time
+243,on time
+244,on time
+245,on time
+246,on time
+247,on time
+248,on time
+249,on time
+250,on time
+251,on time
+252,on time
+253,on time
+254,on time
+255,on time
+256,on time
+257,on time
+258,on time
+259,on time
+260,on time
+261,on time
+262,on time
+263,on time
+264,on time
+265,on time
+266,on time
+267,on time
+268,on time
+269,on time
+270,on time
+271,on time
+272,on time
+273,on time
+274,on time
+275,on time
+276,on time
+277,on time
+278,on time
+279,on time
+280,on time
+281,on time
+282,on time
+283,on time
+284,on time
+285,on time
+286,on time
+287,on time
+288,on time
+289,on time
+290,on time
+291,on time
+292,on time
+293,on time
+294,on time
+295,on time
+296,on time
+297,on time
+298,on time
+299,on time
+300,on time
+301,on time
+302,on time
+303,on time
+304,on time
+305,on time
+306,on time
+307,on time
+308,on time
+309,on time
+310,on time
+311,on time
+312,on time
+313,on time
+314,on time
+315,on time
+316,on time
+317,on time
+318,on time
+319,on time
+320,delayed
+321,delayed
+322,on time
+323,on time
+324,on time
+325,on time
+326,on time
+327,on time
+328,on time
+329,on time
+330,on time
+331,on time
+332,on time
+333,on time
+334,on time
+335,on time
+336,on time
+337,on time
+338,delayed
+339,on time
+340,delayed
+341,on time
+342,on time
+343,on time
+344,on time
+345,on time
+346,on time
+347,on time
+348,on time
+349,on time
+350,on time
+351,on time
+352,on time
+353,on time
+354,on time
+355,on time
+356,on time
+357,on time
+358,on time
+359,on time
+360,on time
+361,on time
+362,on time
+363,on time
+364,on time
+365,on time
+366,on time
+367,on time
+368,on time
+369,on time
+370,on time
+371,on time
+372,on time
+373,on time
+374,on time
+375,on time
+376,on time
+377,on time
+378,on time
+379,on time
+380,on time
+381,on time
+382,on time
+383,on time
+384,on time
+385,on time
+386,on time
+387,on time
+388,on time
+389,on time
+390,on time
+391,on time
+392,delayed
+393,on time
+394,delayed
+395,on time
+396,delayed
+397,on time
+398,on time
+399,on time
+400,on time
+401,delayed
+402,delayed
+403,on time
+404,on time
+405,on time
+406,on time
+407,on time
+408,on time
+409,on time
+410,on time
+411,on time
+412,on time
+413,on time
+414,on time
+415,on time
+416,on time
+417,on time
+418,on time
+419,on time
+420,on time
+421,on time
+422,on time
+423,on time
+424,on time
+425,on time
+426,on time
+427,on time
+428,on time
+429,on time
+430,on time
+431,on time
+432,on time
+433,delayed
+434,delayed
+435,delayed
+436,delayed
+437,on time
+438,delayed
+439,delayed
+440,delayed
+441,delayed
+442,delayed
+443,on time
+444,on time
+445,delayed
+446,delayed
+447,on time
+448,on time
+449,on time
+450,on time
+451,on time
+452,on time
+453,on time
+454,delayed
+455,on time
+456,on time
+457,on time
+458,on time
+459,on time
+460,on time
+461,delayed
+462,on time
+463,on time
+464,on time
+465,on time
+466,delayed
+467,on time
+468,delayed
+469,on time
+470,delayed
+471,on time
+472,delayed
+473,on time
+474,on time
+475,on time
+476,on time
+477,on time
+478,on time
+479,on time
+480,on time
+481,on time
+482,on time
+483,on time
+484,on time
+485,on time
+486,on time
+487,on time
+488,on time
+489,on time
+490,on time
+491,on time
+492,on time
+493,on time
+494,on time
+495,on time
+496,on time
+497,on time
+498,on time
+499,on time
+500,on time
+501,on time
+502,on time
+503,on time
+504,on time
+505,on time
+506,on time
+507,on time
+508,on time
+509,on time
+510,on time
+511,on time
+512,on time
+513,on time
+514,on time
+515,on time
+516,on time
+517,on time
+518,on time
+519,on time
+520,on time
+521,on time
+522,on time
+523,on time
+524,on time
+525,on time
+526,on time
+527,on time
+528,on time
+529,on time
+530,on time
+531,on time
+532,on time
+533,on time
+534,on time
+535,on time
+536,on time
+537,on time
+538,on time
+539,on time
+540,delayed
+541,delayed
+542,delayed
+543,delayed
+544,delayed
+545,delayed
+546,delayed
+547,delayed
+548,delayed
+549,delayed
+550,delayed
+551,delayed
+552,delayed
+553,delayed
+554,delayed
+555,delayed
+556,delayed
+557,delayed
+558,on time
+559,on time
+560,delayed
+561,on time
+562,delayed
+563,delayed
+564,delayed
+565,delayed
+566,delayed
+567,on time
+568,delayed
+569,delayed
+570,delayed
+571,delayed
+572,delayed
+573,delayed
+574,delayed
+575,delayed
+576,delayed
+577,delayed
+578,delayed
+579,delayed
+580,delayed
+581,delayed
+582,delayed
+583,delayed
+584,delayed
+585,on time
+586,delayed
+587,delayed
+588,on time
+589,on time
+590,on time
+591,on time
+592,on time
+593,on time
+594,on time
+595,on time
+596,delayed
+597,on time
+598,on time
+599,on time
+600,delayed
+601,on time
+602,on time
+603,delayed
+604,delayed
+605,delayed
+606,delayed
+607,delayed
+608,delayed
+609,delayed
+610,delayed
+611,delayed
+612,delayed
+613,delayed
+614,delayed
+615,delayed
+616,delayed
+617,delayed
+618,delayed
+619,delayed
+620,delayed
+621,delayed
+622,on time
+623,delayed
+624,on time
+625,delayed
+626,delayed
+627,delayed
+628,delayed
+629,delayed
+630,delayed
+631,delayed
+632,delayed
+633,delayed
+634,delayed
+635,delayed
+636,delayed
+637,delayed
+638,delayed
+639,delayed
+640,delayed
+641,delayed
+642,delayed
+643,delayed
+644,delayed
+645,delayed
+646,delayed
+647,delayed
+648,delayed
+649,delayed
+650,delayed
+651,delayed
+652,delayed
+653,delayed
+654,delayed
+655,delayed
+656,delayed
+657,delayed
+658,delayed
+659,delayed
+660,delayed
+661,delayed
+662,delayed
+663,delayed
+664,delayed
+665,delayed
+666,delayed
+667,on time
+668,on time
+669,delayed
+670,delayed
+671,delayed
+672,delayed
+673,delayed
+674,delayed
+675,delayed
+676,delayed
+677,delayed
+678,delayed
+679,on time
+680,delayed
+681,delayed
+682,delayed
+683,delayed
+684,on time
+685,on time
+686,on time
+687,on time
+688,on time
+689,on time
+690,on time
+691,on time
+692,on time
+693,on time
+694,on time
+695,on time
+696,on time
+697,on time
+698,on time
+699,on time
+700,on time
+701,on time
+702,on time
+703,on time
+704,on time
+705,on time
+706,on time
+707,on time
+708,on time
+709,on time
+710,on time
+711,on time
+712,on time
+713,on time
+714,on time
+715,on time
+716,on time
+717,on time
+718,on time
+719,on time
+720,on time
+721,on time
+722,on time
+723,on time
+724,on time
+725,on time
+726,on time
+727,on time
+728,on time
+729,on time
+730,on time
+731,on time
+732,on time
+733,on time
+734,on time
+735,on time
+736,on time
+737,on time
+738,on time
+739,on time
+740,on time
+741,on time
+742,on time
+743,on time
+744,on time
+745,on time
+746,on time
+747,on time
+748,on time
+749,on time
+750,on time
+751,on time
+752,delayed
+753,delayed
+754,delayed
+755,delayed
+756,on time
+757,delayed
+758,on time
+759,delayed
+760,delayed
+761,on time
+762,delayed
+763,delayed
+764,delayed
+765,delayed
+766,delayed
+767,on time
+768,on time
+769,delayed
+770,on time
+771,on time
+772,delayed
+773,on time
+774,on time
+775,on time
+776,delayed
+777,on time
+778,on time
+779,on time
+780,on time
+781,on time
+782,delayed
+783,on time
+784,delayed
+785,on time
+786,on time
+787,on time
+788,on time
+789,on time
+790,on time
+791,on time
+792,on time
+793,on time
+794,on time
+795,on time
+796,on time
+797,on time
+798,on time
+799,on time
+800,on time
+801,on time
+802,on time
+803,on time
+804,on time
+805,on time
+806,on time
+807,on time
+808,on time
+809,on time
+810,on time
+811,on time
+812,on time
+813,on time
+814,on time
+815,on time
+816,on time
+817,on time
+818,on time
+819,on time
+820,on time
+821,on time
+822,on time
+823,on time
+824,on time
+825,on time
+826,on time
+827,on time
+828,on time
+829,on time
+830,on time
+831,on time
+832,on time
+833,on time
+834,on time
+835,on time
+836,on time
+837,on time
+838,on time
+839,on time
+840,on time
+841,on time
+842,on time
+843,on time
+844,on time
+845,on time
+846,on time
+847,on time
+848,on time
+849,on time
+850,on time
+851,on time
+852,on time
+853,on time
+854,on time
+855,delayed
+856,delayed
+857,delayed
+858,delayed
+859,delayed
+860,delayed
+861,delayed
+862,delayed
+863,delayed
+864,delayed
+865,delayed
+866,on time
+867,on time
+868,on time
+869,on time
+870,on time
+871,on time
+872,on time
+873,on time
+874,on time
+875,on time
+876,on time
+877,on time
+878,on time
+879,on time
+880,on time
+881,on time
+882,on time
+883,on time
+884,on time
+885,on time
+886,on time
+887,on time
+888,on time
+889,on time
+890,on time
+891,on time
+892,on time
+893,on time
+894,on time
+895,on time
+896,on time
+897,on time
+898,on time
+899,on time
+900,delayed
+901,delayed
+902,delayed
+903,delayed
+904,delayed
+905,delayed
+906,delayed
+907,delayed
+908,delayed
+909,delayed
+910,delayed
+911,delayed
+912,delayed
+913,on time
+914,delayed
+915,delayed
+916,delayed
+917,on time
+918,delayed
+919,delayed
+920,on time
+921,on time
+922,on time
+923,on time
+924,on time
+925,on time
+926,on time
+927,on time
+928,on time
+929,on time
+930,on time
+931,on time
+932,on time
+933,on time
+934,on time
+935,on time
+936,delayed
+937,delayed
+938,delayed
+939,on time
+940,delayed
+941,delayed
+942,delayed
+943,on time
+944,delayed
+945,delayed
+946,delayed
+947,on time
+948,delayed
+949,on time
+950,on time
+951,on time
+952,on time
+953,on time
+954,on time
+955,on time
+956,on time
+957,on time
+958,on time
+959,on time
+960,on time
+961,on time
+962,on time
+963,on time
+964,on time
+965,on time
+966,delayed
+967,delayed
+968,delayed
+969,delayed
+970,delayed
+971,delayed
+972,delayed
+973,delayed
+974,delayed
+975,delayed
+976,delayed
+977,delayed
+978,on time
+979,delayed
+980,delayed
+981,delayed
+982,delayed
+983,delayed
+984,delayed
+985,delayed
+986,delayed
+987,delayed
+988,delayed
+989,delayed
+990,delayed
+991,delayed
+992,delayed
+993,delayed
+994,delayed
+995,delayed
+996,on time
+997,on time
+998,on time
+999,on time
+1000,on time
+1001,on time
+1002,on time
+1003,on time
+1004,on time
+1005,on time
+1006,on time
+1007,on time
+1008,on time
+1009,on time
+1010,on time
+1011,on time
+1012,on time
+1013,on time
+1014,on time
+1015,on time
+1016,on time
+1017,on time
+1018,on time
+1019,on time
+1020,on time
+1021,on time
+1022,on time
+1023,on time
+1024,on time
+1025,on time
+1026,on time
+1027,on time
+1028,on time
+1029,on time
+1030,delayed
+1031,delayed
+1032,on time
+1033,on time
+1034,on time
+1035,on time
+1036,on time
+1037,delayed
+1038,on time
+1039,on time
+1040,on time
+1041,on time
+1042,on time
+1043,on time
+1044,on time
+1045,on time
+1046,on time
+1047,on time
+1048,on time
+1049,on time
+1050,on time
+1051,on time
+1052,on time
+1053,on time
+1054,on time
+1055,on time
+1056,on time
+1057,on time
+1058,on time
+1059,on time
+1060,on time
+1061,on time
+1062,on time
+1063,on time
+1064,on time
+1065,on time
+1066,on time
+1067,on time
+1068,on time
+1069,on time
+1070,on time
+1071,on time
+1072,on time
+1073,on time
+1074,on time
+1075,on time
+1076,on time
+1077,on time
+1078,on time
+1079,on time
+1080,on time
+1081,on time
+1082,on time
+1083,on time
+1084,on time
+1085,on time
+1086,on time
+1087,on time
+1088,on time
+1089,on time
+1090,on time
+1091,on time
+1092,on time
+1093,on time
+1094,on time
+1095,on time
+1096,on time
+1097,on time
+1098,on time
+1099,on time
+1100,on time
+1101,on time
+1102,on time
+1103,on time
+1104,delayed
+1105,delayed
+1106,delayed
+1107,delayed
+1108,delayed
+1109,delayed
+1110,delayed
+1111,delayed
+1112,delayed
+1113,on time
+1114,on time
+1115,delayed
+1116,on time
+1117,delayed
+1118,on time
+1119,on time
+1120,on time
+1121,on time
+1122,on time
+1123,on time
+1124,on time
+1125,on time
+1126,on time
+1127,on time
+1128,on time
+1129,on time
+1130,on time
+1131,delayed
+1132,on time
+1133,on time
+1134,delayed
+1135,delayed
+1136,on time
+1137,on time
+1138,delayed
+1139,on time
+1140,on time
+1141,delayed
+1142,delayed
+1143,delayed
+1144,delayed
+1145,on time
+1146,delayed
+1147,on time
+1148,on time
+1149,on time
+1150,delayed
+1151,on time
+1152,delayed
+1153,on time
+1154,on time
+1155,delayed
+1156,on time
+1157,delayed
+1158,delayed
+1159,delayed
+1160,on time
+1161,delayed
+1162,on time
+1163,delayed
+1164,on time
+1165,on time
+1166,delayed
+1167,delayed
+1168,on time
+1169,on time
+1170,delayed
+1171,delayed
+1172,on time
+1173,on time
+1174,delayed
+1175,on time
+1176,on time
+1177,on time
+1178,on time
+1179,on time
+1180,on time
+1181,on time
+1182,on time
+1183,on time
+1184,on time
+1185,on time
+1186,on time
+1187,on time
+1188,on time
+1189,on time
+1190,on time
+1191,on time
+1192,on time
+1193,on time
+1194,on time
+1195,on time
+1196,on time
+1197,on time
+1198,on time
+1199,on time
+1200,on time
+1201,on time
+1202,on time
+1203,on time
+1204,on time
+1205,on time
+1206,on time
+1207,on time
+1208,on time
+1209,on time
+1210,on time
+1211,on time
+1212,on time
+1213,delayed
+1214,delayed
+1215,delayed
+1216,delayed
+1217,on time
+1218,delayed
+1219,delayed
+1220,delayed
+1221,delayed
+1222,delayed
+1223,on time
+1224,on time
+1225,on time
+1226,on time
+1227,on time
+1228,on time
+1229,on time
+1230,on time
+1231,on time
+1232,on time
+1233,delayed
+1234,delayed
+1235,delayed
+1236,on time
+1237,on time
+1238,on time
+1239,delayed
+1240,on time
+1241,on time
+1242,delayed
+1243,delayed
+1244,delayed
+1245,delayed
+1246,delayed
+1247,delayed
+1248,delayed
+1249,delayed
+1250,on time
+1251,delayed
+1252,on time
+1253,on time
+1254,on time
+1255,delayed
+1256,on time
+1257,on time
+1258,on time
+1259,on time
+1260,on time
+1261,on time
+1262,on time
+1263,on time
+1264,on time
+1265,on time
+1266,on time
+1267,on time
+1268,on time
+1269,on time
+1270,on time
+1271,on time
+1272,on time
+1273,on time
+1274,on time
+1275,on time
+1276,on time
+1277,on time
+1278,on time
+1279,on time
+1280,on time
+1281,on time
+1282,on time
+1283,on time
+1284,on time
+1285,on time
+1286,on time
+1287,on time
+1288,on time
+1289,delayed
+1290,on time
+1291,on time
+1292,on time
+1293,on time
+1294,on time
+1295,delayed
+1296,on time
+1297,delayed
+1298,on time
+1299,delayed
+1300,on time
+1301,on time
+1302,on time
+1303,on time
+1304,on time
+1305,on time
+1306,on time
+1307,on time
+1308,on time
+1309,on time
+1310,on time
+1311,delayed
+1312,on time
+1313,on time
+1314,on time
+1315,on time
+1316,on time
+1317,on time
+1318,on time
+1319,on time
+1320,on time
+1321,on time
+1322,on time
+1323,on time
+1324,on time
+1325,on time
+1326,on time
+1327,on time
+1328,on time
+1329,delayed
+1330,delayed
+1331,delayed
+1332,delayed
+1333,delayed
+1334,delayed
+1335,delayed
+1336,delayed
+1337,delayed
+1338,delayed
+1339,delayed
+1340,delayed
+1341,delayed
+1342,delayed
+1343,delayed
+1344,delayed
+1345,delayed
+1346,delayed
+1347,delayed
+1348,delayed
+1349,delayed
+1350,delayed
+1351,delayed
+1352,delayed
+1353,delayed
+1354,delayed
+1355,delayed
+1356,delayed
+1357,delayed
+1358,delayed
+1359,delayed
+1360,delayed
+1361,delayed
+1362,delayed
+1363,delayed
+1364,delayed
+1365,delayed
+1366,delayed
+1367,delayed
+1368,on time
+1369,on time
+1370,on time
+1371,on time
+1372,on time
+1373,on time
+1374,on time
+1375,on time
+1376,on time
+1377,on time
+1378,on time
+1379,on time
+1380,on time
+1381,on time
+1382,on time
+1383,on time
+1384,on time
+1385,on time
+1386,on time
+1387,on time
+1388,on time
+1389,on time
+1390,on time
+1391,on time
+1392,on time
+1393,on time
+1394,on time
+1395,on time
+1396,on time
+1397,on time
+1398,on time
+1399,on time
+1400,on time
+1401,on time
+1402,on time
+1403,on time
+1404,on time
+1405,on time
+1406,on time
+1407,on time
+1408,on time
+1409,on time
+1410,on time
+1411,on time
+1412,on time
+1413,on time
+1414,on time
+1415,on time
+1416,on time
+1417,on time
+1418,on time
+1419,on time
+1420,on time
+1421,on time
+1422,on time
+1423,on time
+1424,on time
+1425,on time
+1426,on time
+1427,on time
+1428,on time
+1429,on time
+1430,on time
+1431,on time
+1432,on time
+1433,on time
+1434,on time
+1435,on time
+1436,on time
+1437,on time
+1438,on time
+1439,on time
+1440,on time
+1441,on time
+1442,on time
+1443,on time
+1444,on time
+1445,on time
+1446,on time
+1447,on time
+1448,on time
+1449,on time
+1450,on time
+1451,on time
+1452,on time
+1453,on time
+1454,on time
+1455,on time
+1456,on time
+1457,on time
+1458,on time
+1459,on time
+1460,on time
+1461,on time
+1462,on time
+1463,on time
+1464,on time
+1465,delayed
+1466,delayed
+1467,delayed
+1468,delayed
+1469,delayed
+1470,delayed
+1471,delayed
+1472,delayed
+1473,delayed
+1474,delayed
+1475,delayed
+1476,delayed
+1477,delayed
+1478,delayed
+1479,delayed
+1480,delayed
+1481,delayed
+1482,delayed
+1483,delayed
+1484,delayed
+1485,delayed
+1486,delayed
+1487,delayed
+1488,delayed
+1489,delayed
+1490,delayed
+1491,delayed
+1492,delayed
+1493,on time
+1494,on time
+1495,on time
+1496,on time
+1497,on time
+1498,on time
+1499,on time
+1500,on time
+1501,on time
+1502,on time
+1503,on time
+1504,on time
+1505,on time
+1506,on time
+1507,on time
+1508,on time
+1509,on time
+1510,on time
+1511,on time
+1512,on time
+1513,on time
+1514,on time
+1515,on time
+1516,on time
+1517,on time
+1518,on time
+1519,on time
+1520,on time
+1521,on time
+1522,on time
+1523,on time
+1524,on time
+1525,on time
+1526,on time
+1527,on time
+1528,on time
+1529,on time
+1530,on time
+1531,on time
+1532,on time
+1533,on time
+1534,on time
+1535,on time
+1536,on time
+1537,on time
+1538,on time
+1539,on time
+1540,on time
+1541,on time
+1542,on time
+1543,on time
+1544,on time
+1545,on time
+1546,on time
+1547,on time
+1548,on time
+1549,on time
+1550,on time
+1551,on time
+1552,on time
+1553,on time
+1554,on time
+1555,on time
+1556,on time
+1557,on time
+1558,on time
+1559,on time
+1560,on time
+1561,on time
+1562,on time
+1563,on time
+1564,on time
+1565,on time
+1566,on time
+1567,on time
+1568,on time
+1569,on time
+1570,on time
+1571,on time
+1572,on time
+1573,on time
+1574,on time
+1575,on time
+1576,delayed
+1577,on time
+1578,on time
+1579,on time
+1580,on time
+1581,on time
+1582,delayed
+1583,delayed
+1584,on time
+1585,on time
+1586,on time
+1587,delayed
+1588,delayed
+1589,on time
+1590,on time
+1591,on time
+1592,on time
+1593,on time
+1594,on time
+1595,on time
+1596,on time
+1597,on time
+1598,on time
+1599,on time
+1600,on time
+1601,on time
+1602,on time
+1603,on time
+1604,on time
+1605,on time
+1606,on time
+1607,on time
+1608,on time
+1609,on time
+1610,on time
+1611,on time
+1612,on time
+1613,delayed
+1614,delayed
+1615,delayed
+1616,delayed
+1617,on time
+1618,delayed
+1619,delayed
+1620,on time
+1621,on time
+1622,delayed
+1623,on time
+1624,on time
+1625,on time
+1626,on time
+1627,on time
+1628,delayed
+1629,on time
+1630,on time
+1631,delayed
+1632,on time
+1633,on time
+1634,on time
+1635,delayed
+1636,delayed
+1637,on time
+1638,on time
+1639,delayed
+1640,on time
+1641,delayed
+1642,delayed
+1643,delayed
+1644,delayed
+1645,delayed
+1646,delayed
+1647,delayed
+1648,delayed
+1649,delayed
+1650,delayed
+1651,delayed
+1652,delayed
+1653,delayed
+1654,delayed
+1655,delayed
+1656,delayed
+1657,on time
+1658,on time
+1659,delayed
+1660,delayed
+1661,delayed
+1662,delayed
+1663,delayed
+1664,delayed
+1665,on time
+1666,on time
+1667,on time
+1668,on time
+1669,delayed
+1670,delayed
+1671,delayed
+1672,delayed
+1673,on time
+1674,delayed
+1675,delayed
+1676,delayed
+1677,delayed
+1678,delayed
+1679,delayed
+1680,delayed
+1681,delayed
+1682,delayed
+1683,delayed
+1684,delayed
+1685,delayed
+1686,delayed
+1687,delayed
+1688,delayed
+1689,delayed
+1690,delayed
+1691,delayed
+1692,delayed
+1693,delayed
+1694,delayed
+1695,delayed
+1696,delayed
+1697,delayed
+1698,delayed
+1699,delayed
+1700,delayed
+1701,delayed
+1702,delayed
+1703,delayed
+1704,delayed
+1705,delayed
+1706,delayed
+1707,delayed
+1708,delayed
+1709,delayed
+1710,delayed
+1711,delayed
+1712,delayed
+1713,delayed
+1714,delayed
+1715,delayed
+1716,delayed
+1717,delayed
+1718,delayed
+1719,delayed
+1720,delayed
+1721,on time
+1722,on time
+1723,on time
+1724,on time
+1725,on time
+1726,on time
+1727,delayed
+1728,delayed
+1729,on time
+1730,on time
+1731,on time
+1732,on time
+1733,on time
+1734,on time
+1735,on time
+1736,on time
+1737,on time
+1738,on time
+1739,on time
+1740,on time
+1741,on time
+1742,on time
+1743,on time
+1744,on time
+1745,on time
+1746,on time
+1747,on time
+1748,on time
+1749,on time
+1750,on time
+1751,on time
+1752,on time
+1753,delayed
+1754,delayed
+1755,delayed
+1756,delayed
+1757,delayed
+1758,delayed
+1759,delayed
+1760,delayed
+1761,delayed
+1762,delayed
+1763,delayed
+1764,delayed
+1765,delayed
+1766,delayed
+1767,delayed
+1768,delayed
+1769,delayed
+1770,delayed
+1771,delayed
+1772,delayed
+1773,delayed
+1774,delayed
+1775,delayed
+1776,delayed
+1777,delayed
+1778,delayed
+1779,delayed
+1780,delayed
+1781,delayed
+1782,delayed
+1783,delayed
+1784,delayed
+1785,delayed
+1786,delayed
+1787,delayed
+1788,delayed
+1789,delayed
+1790,delayed
+1791,delayed
+1792,delayed
+1793,delayed
+1794,delayed
+1795,delayed
+1796,delayed
+1797,delayed
+1798,delayed
+1799,delayed
+1800,delayed
+1801,delayed
+1802,delayed
+1803,delayed
+1804,delayed
+1805,delayed
+1806,delayed
+1807,delayed
+1808,delayed
+1809,delayed
+1810,delayed
+1811,delayed
+1812,delayed
+1813,delayed
+1814,delayed
+1815,delayed
+1816,delayed
+1817,delayed
+1818,delayed
+1819,delayed
+1820,delayed
+1821,delayed
+1822,on time
+1823,on time
+1824,on time
+1825,on time
+1826,on time
+1827,on time
+1828,on time
+1829,on time
+1830,on time
+1831,on time
+1832,on time
+1833,on time
+1834,on time
+1835,on time
+1836,on time
+1837,on time
+1838,on time
+1839,on time
+1840,on time
+1841,on time
+1842,on time
+1843,on time
+1844,on time
+1845,on time
+1846,on time
+1847,on time
+1848,on time
+1849,on time
+1850,on time
+1851,on time
+1852,on time
+1853,on time
+1854,on time
+1855,on time
+1856,on time
+1857,on time
+1858,on time
+1859,on time
+1860,on time
+1861,on time
+1862,on time
+1863,on time
+1864,on time
+1865,on time
+1866,on time
+1867,on time
+1868,on time
+1869,on time
+1870,on time
+1871,on time
+1872,on time
+1873,on time
+1874,on time
+1875,on time
+1876,on time
+1877,on time
+1878,on time
+1879,on time
+1880,on time
+1881,on time
+1882,on time
+1883,on time
+1884,on time
+1885,on time
+1886,on time
+1887,on time
+1888,on time
+1889,on time
+1890,on time
+1891,on time
+1892,on time
+1893,on time
+1894,on time
+1895,delayed
+1896,on time
+1897,on time
+1898,on time
+1899,on time
+1900,on time
+1901,on time
+1902,on time
+1903,delayed
+1904,delayed
+1905,delayed
+1906,on time
+1907,delayed
+1908,on time
+1909,delayed
+1910,delayed
+1911,delayed
+1912,on time
+1913,on time
+1914,on time
+1915,on time
+1916,on time
+1917,on time
+1918,on time
+1919,on time
+1920,on time
+1921,on time
+1922,on time
+1923,on time
+1924,on time
+1925,on time
+1926,on time
+1927,on time
+1928,on time
+1929,on time
+1930,on time
+1931,on time
+1932,on time
+1933,on time
+1934,on time
+1935,on time
+1936,on time
+1937,on time
+1938,delayed
+1939,delayed
+1940,delayed
+1941,delayed
+1942,delayed
+1943,on time
+1944,delayed
+1945,delayed
+1946,delayed
+1947,delayed
+1948,on time
+1949,on time
+1950,delayed
+1951,on time
+1952,on time
+1953,on time
+1954,on time
+1955,on time
+1956,delayed
+1957,on time
+1958,delayed
+1959,delayed
+1960,on time
+1961,delayed
+1962,on time
+1963,delayed
+1964,delayed
+1965,delayed
+1966,delayed
+1967,on time
+1968,on time
+1969,on time
+1970,on time
+1971,on time
+1972,on time
+1973,on time
+1974,on time
+1975,on time
+1976,on time
+1977,on time
+1978,on time
+1979,on time
+1980,on time
+1981,on time
+1982,on time
+1983,on time
+1984,on time
+1985,on time
+1986,on time
+1987,on time
+1988,delayed
+1989,on time
+1990,on time
+1991,delayed
+1992,delayed
+1993,on time
+1994,delayed
+1995,on time
+1996,on time
+1997,on time
+1998,on time
+1999,on time
+2000,on time
+2001,on time
+2002,on time
+2003,on time
+2004,on time
+2005,on time
+2006,on time
+2007,on time
+2008,on time
+2009,on time
+2010,on time
+2011,on time
+2012,on time
+2013,on time
+2014,on time
+2015,on time
+2016,on time
+2017,on time
+2018,on time
+2019,on time
+2020,on time
+2021,on time
+2022,on time
+2023,on time
+2024,on time
+2025,on time
+2026,delayed
+2027,on time
+2028,delayed
+2029,on time
+2030,on time
+2031,on time
+2032,delayed
+2033,on time
+2034,on time
+2035,on time
+2036,on time
+2037,on time
+2038,on time
+2039,on time
+2040,on time
+2041,on time
+2042,on time
+2043,on time
+2044,on time
+2045,on time
+2046,on time
+2047,on time
+2048,on time
+2049,on time
+2050,on time
+2051,on time
+2052,on time
+2053,on time
+2054,on time
+2055,on time
+2056,on time
+2057,on time
+2058,on time
+2059,on time
+2060,on time
+2061,on time
+2062,on time
+2063,on time
+2064,on time
+2065,on time
+2066,on time
+2067,on time
+2068,on time
+2069,on time
+2070,on time
+2071,on time
+2072,on time
+2073,on time
+2074,on time
+2075,on time
+2076,on time
+2077,on time
+2078,on time
+2079,on time
+2080,on time
+2081,on time
+2082,on time
+2083,on time
+2084,on time
+2085,on time
+2086,on time
+2087,on time
+2088,on time
+2089,on time
+2090,on time
+2091,on time
+2092,on time
+2093,on time
+2094,on time
+2095,on time
+2096,on time
+2097,on time
+2098,on time
+2099,on time
+2100,on time
+2101,on time
+2102,on time
+2103,on time
+2104,on time
+2105,on time
+2106,on time
+2107,on time
+2108,on time
+2109,on time
+2110,on time
+2111,on time
+2112,on time
+2113,on time
+2114,on time
+2115,on time
+2116,on time
+2117,on time
+2118,on time
+2119,on time
+2120,on time
+2121,on time
+2122,on time
+2123,delayed
+2124,delayed
+2125,delayed
+2126,delayed
+2127,delayed
+2128,delayed
+2129,delayed
+2130,delayed
+2131,delayed
+2132,on time
+2133,delayed
+2134,on time
+2135,on time
+2136,on time
+2137,on time
+2138,on time
+2139,on time
+2140,delayed
+2141,delayed
+2142,on time
+2143,delayed
+2144,on time
+2145,delayed
+2146,delayed
+2147,on time
+2148,delayed
+2149,on time
+2150,delayed
+2151,delayed
+2152,delayed
+2153,delayed
+2154,delayed
+2155,delayed
+2156,delayed
+2157,delayed
+2158,delayed
+2159,on time
+2160,on time
+2161,on time
+2162,on time
+2163,on time
+2164,on time
+2165,on time
+2166,on time
+2167,on time
+2168,on time
+2169,on time
+2170,on time
+2171,on time
+2172,on time
+2173,on time
+2174,on time
+2175,on time
+2176,on time
+2177,on time
+2178,on time
+2179,on time
+2180,on time
+2181,on time
+2182,on time
+2183,on time
+2184,on time
+2185,on time
+2186,on time
+2187,on time
+2188,on time
+2189,on time
+2190,on time
+2191,on time
+2192,on time
+2193,on time
+2194,on time
+2195,delayed
+2196,delayed
+2197,delayed
+2198,delayed
+2199,delayed
+2200,delayed
+2201,delayed
+2202,delayed
+2203,delayed
+2204,delayed
+2205,delayed
+2206,delayed
+2207,on time
+2208,on time
+2209,on time
+2210,on time
+2211,delayed
+2212,on time
+2213,on time
+2214,on time
+2215,on time
+2216,on time
+2217,on time
+2218,on time
+2219,on time
+2220,delayed
+2221,on time
+2222,delayed
+2223,on time
+2224,on time
+2225,on time
+2226,on time
+2227,on time
+2228,on time
+2229,on time
+2230,on time
+2231,on time
+2232,on time
+2233,on time
+2234,on time
+2235,on time
+2236,on time
+2237,on time
+2238,on time
+2239,on time
+2240,on time
+2241,on time
+2242,on time
+2243,on time
+2244,on time
+2245,on time
+2246,on time
+2247,on time
+2248,on time
+2249,on time
+2250,on time
+2251,on time
+2252,on time
+2253,on time
+2254,on time
+2255,on time
+2256,on time
+2257,on time
+2258,on time
+2259,on time
+2260,on time
+2261,on time
+2262,on time
+2263,on time
+2264,on time
+2265,on time
+2266,on time
+2267,on time
+2268,on time
+2269,on time
+2270,on time
+2271,on time
+2272,on time
+2273,on time
+2274,on time
+2275,on time
+2276,on time
+2277,on time
+2278,on time
+2279,on time
+2280,on time
+2281,on time
+2282,on time
+2283,on time
+2284,on time
+2285,on time
+2286,on time
+2287,on time
+2288,on time
+2289,on time
+2290,on time
+2291,on time
+2292,on time
+2293,on time
+2294,on time
+2295,on time
+2296,on time
+2297,on time
+2298,on time
+2299,on time
+2300,on time
+2301,on time
+2302,on time
+2303,on time
+2304,on time
+2305,on time
+2306,on time
+2307,on time
+2308,on time
+2309,on time
+2310,on time
+2311,on time
+2312,on time
+2313,on time
+2314,on time
+2315,on time
+2316,on time
+2317,on time
+2318,on time
+2319,on time
+2320,on time
+2321,on time
+2322,on time
+2323,on time
+2324,on time
+2325,on time
+2326,on time
+2327,on time
+2328,on time
+2329,on time
+2330,on time
+2331,on time
+2332,on time
+2333,on time
+2334,on time
+2335,on time
+2336,on time
+2337,on time
+2338,on time
+2339,on time
+2340,on time
+2341,on time
+2342,on time
+2343,on time
+2344,on time
+2345,on time
+2346,on time
+2347,on time
+2348,on time
+2349,on time
+2350,on time
+2351,on time
+2352,on time
+2353,on time
+2354,on time
+2355,on time
+2356,on time
+2357,on time
+2358,on time
+2359,on time
+2360,on time
+2361,on time
+2362,on time
+2363,on time
+2364,on time
+2365,on time
+2366,on time
+2367,on time
+2368,on time
+2369,on time
+2370,on time
+2371,on time
+2372,on time
+2373,on time
+2374,on time
+2375,on time
+2376,on time
+2377,on time
+2378,on time
+2379,on time
+2380,on time
+2381,on time
+2382,on time
+2383,on time
+2384,on time
+2385,on time
+2386,on time
+2387,on time
+2388,on time
+2389,on time
+2390,on time
+2391,on time
+2392,on time
+2393,on time
+2394,on time
+2395,on time
+2396,on time
+2397,on time
+2398,on time
+2399,on time
+2400,on time
+2401,on time
+2402,on time
+2403,on time
+2404,on time
+2405,on time
+2406,on time
+2407,on time
+2408,on time
+2409,on time
+2410,on time
+2411,on time
+2412,on time
+2413,on time
+2414,on time
+2415,on time
+2416,on time
+2417,on time
+2418,on time
+2419,on time
+2420,on time
+2421,on time
+2422,on time
+2423,on time
+2424,on time
+2425,on time
+2426,on time
+2427,on time
+2428,on time
+2429,on time
+2430,on time
+2431,on time
+2432,on time
+2433,on time
+2434,on time
+2435,on time
+2436,on time
+2437,on time
+2438,on time
+2439,on time
+2440,delayed
+2441,delayed
+2442,delayed
+2443,delayed
+2444,delayed
+2445,delayed
+2446,delayed
+2447,delayed
+2448,delayed
+2449,delayed
+2450,delayed
+2451,delayed
+2452,delayed
+2453,delayed
+2454,delayed
+2455,delayed
+2456,delayed
+2457,delayed
+2458,delayed
+2459,delayed
+2460,delayed
+2461,delayed
+2462,delayed
+2463,delayed
+2464,delayed
+2465,delayed
+2466,delayed
+2467,delayed
+2468,delayed
+2469,delayed
+2470,delayed
+2471,delayed
+2472,delayed
+2473,delayed
+2474,delayed
+2475,delayed
+2476,delayed
+2477,delayed
+2478,delayed
+2479,delayed
+2480,delayed
+2481,delayed
+2482,delayed
+2483,delayed
+2484,on time
+2485,delayed
+2486,on time
+2487,on time
+2488,on time
+2489,delayed
+2490,delayed
+2491,delayed
+2492,delayed
+2493,delayed
+2494,delayed
+2495,delayed
+2496,delayed
+2497,delayed
+2498,delayed
+2499,delayed
+2500,delayed
+2501,delayed
+2502,delayed
+2503,delayed
+2504,delayed
+2505,delayed
+2506,delayed
+2507,delayed
+2508,delayed
+2509,delayed
+2510,delayed
+2511,on time
+2512,delayed
+2513,delayed
+2514,on time
+2515,delayed
+2516,delayed
+2517,delayed
+2518,delayed
+2519,on time
+2520,delayed
+2521,delayed
+2522,delayed
+2523,delayed
+2524,delayed
+2525,delayed
+2526,delayed
+2527,delayed
+2528,delayed
+2529,delayed
+2530,delayed
+2531,on time
+2532,on time
+2533,on time
+2534,on time
+2535,on time
+2536,on time
+2537,on time
+2538,on time
+2539,on time
+2540,on time
+2541,on time
+2542,on time
+2543,on time
+2544,delayed
+2545,on time
+2546,on time
+2547,delayed
+2548,on time
+2549,on time
+2550,on time
+2551,on time
+2552,on time
+2553,on time
+2554,on time
+2555,on time
+2556,delayed
+2557,on time
+2558,delayed
+2559,on time
+2560,on time
+2561,on time
+2562,on time
+2563,delayed
+2564,on time
+2565,on time
+2566,on time
+2567,on time
+2568,on time
+2569,on time
+2570,delayed
+2571,delayed
+2572,delayed
+2573,delayed
+2574,delayed
+2575,delayed
+2576,delayed
+2577,delayed
+2578,delayed
+2579,delayed
+2580,delayed
+2581,delayed
+2582,delayed
+2583,delayed
+2584,delayed
+2585,delayed
+2586,delayed
+2587,delayed
+2588,delayed
+2589,delayed
+2590,delayed
+2591,delayed
+2592,delayed
+2593,delayed
+2594,delayed
+2595,delayed
+2596,delayed
+2597,delayed
+2598,delayed
+2599,delayed
+2600,delayed
+2601,delayed
+2602,delayed
+2603,delayed
+2604,delayed
+2605,delayed
+2606,delayed
+2607,delayed
+2608,delayed
+2609,delayed
+2610,delayed
+2611,delayed
+2612,delayed
+2613,delayed
+2614,delayed
+2615,on time
+2616,on time
+2617,on time
+2618,on time
+2619,on time
+2620,on time
+2621,on time
+2622,on time
+2623,on time
+2624,on time
+2625,on time
+2626,delayed
+2627,delayed
+2628,delayed
+2629,delayed
+2630,delayed
+2631,delayed
+2632,delayed
+2633,delayed
+2634,delayed
+2635,on time
+2636,on time
+2637,on time
+2638,on time
+2639,on time
+2640,on time
+2641,on time
+2642,on time
+2643,on time
+2644,on time
+2645,on time
+2646,delayed
+2647,delayed
+2648,delayed
+2649,delayed
+2650,delayed
+2651,delayed
+2652,delayed
+2653,delayed
+2654,delayed
+2655,delayed
+2656,delayed
+2657,delayed
+2658,delayed
+2659,delayed
+2660,on time
+2661,delayed
+2662,on time
+2663,on time
+2664,on time
+2665,on time
+2666,on time
+2667,on time
+2668,on time
+2669,on time
+2670,on time
+2671,on time
+2672,delayed
+2673,delayed
+2674,delayed
+2675,on time
+2676,delayed
+2677,delayed
+2678,delayed
+2679,delayed
+2680,delayed
+2681,delayed
+2682,delayed
+2683,delayed
+2684,delayed
+2685,on time
+2686,delayed
+2687,on time
+2688,delayed
+2689,delayed
+2690,on time
+2691,on time
+2692,delayed
+2693,delayed
+2694,delayed
+2695,on time
+2696,on time
+2697,on time
+2698,on time
+2699,delayed
+2700,on time
+2701,on time
+2702,on time
+2703,on time
+2704,on time
+2705,delayed
+2706,on time
+2707,delayed
+2708,on time
+2709,on time
+2710,on time
+2711,on time
+2712,on time
+2713,on time
+2714,on time
+2715,on time
+2716,on time
+2717,on time
+2718,on time
+2719,on time
+2720,on time
+2721,on time
+2722,on time
+2723,on time
+2724,on time
+2725,on time
+2726,on time
+2727,on time
+2728,on time
+2729,on time
+2730,on time
+2731,on time
+2732,on time
+2733,on time
+2734,on time
+2735,on time
+2736,on time
+2737,on time
+2738,on time
+2739,on time
+2740,on time
+2741,on time
+2742,on time
+2743,on time
+2744,on time
+2745,on time
+2746,on time
+2747,on time
+2748,on time
+2749,on time
+2750,on time
+2751,on time
+2752,on time
+2753,on time
+2754,delayed
+2755,delayed
+2756,delayed
+2757,delayed
+2758,on time
+2759,delayed
+2760,delayed
+2761,delayed
+2762,delayed
+2763,delayed
+2764,delayed
+2765,delayed
+2766,on time
+2767,on time
+2768,delayed
+2769,delayed
+2770,delayed
+2771,delayed
+2772,delayed
+2773,on time
+2774,delayed
+2775,on time
+2776,on time
+2777,delayed
+2778,delayed
+2779,delayed
+2780,delayed
+2781,delayed
+2782,delayed
+2783,delayed
+2784,on time
+2785,on time
+2786,on time
+2787,on time
+2788,delayed
+2789,on time
+2790,delayed
+2791,on time
+2792,on time
+2793,on time
+2794,on time
+2795,on time
+2796,on time
+2797,on time
+2798,on time
+2799,on time
+2800,on time
+2801,on time
+2802,on time
+2803,on time
+2804,on time
+2805,on time
+2806,on time
+2807,on time
+2808,on time
+2809,on time
+2810,on time
+2811,on time
+2812,on time
+2813,on time
+2814,on time
+2815,on time
+2816,on time
+2817,on time
+2818,on time
+2819,on time
+2820,on time
+2821,on time
+2822,on time
+2823,on time
+2824,on time
+2825,on time
+2826,on time
+2827,on time
+2828,delayed
+2829,delayed
+2830,on time
+2831,on time
+2832,on time
+2833,on time
+2834,on time
+2835,on time
+2836,on time
+2837,on time
+2838,on time
+2839,on time
+2840,on time
+2841,on time
+2842,on time
+2843,on time
+2844,on time
+2845,on time
+2846,on time
+2847,on time
+2848,on time
+2849,on time
+2850,on time
+2851,on time
+2852,on time
+2853,on time
+2854,on time
+2855,on time
+2856,on time
+2857,on time
+2858,on time
+2859,on time
+2860,on time
+2861,on time
+2862,on time
+2863,on time
+2864,on time
+2865,on time
+2866,on time
+2867,on time
+2868,on time
+2869,on time
+2870,on time
+2871,on time
+2872,on time
+2873,on time
+2874,on time
+2875,on time
+2876,on time
+2877,on time
+2878,delayed
+2879,delayed
+2880,delayed
+2881,delayed
+2882,delayed
+2883,on time
+2884,on time
+2885,on time
+2886,delayed
+2887,on time
+2888,delayed
+2889,on time
+2890,on time
+2891,on time
+2892,delayed
+2893,delayed
+2894,delayed
+2895,on time
+2896,on time
+2897,on time
+2898,on time
+2899,delayed
+2900,on time
+2901,on time
+2902,on time
+2903,on time
+2904,delayed
+2905,on time
+2906,on time
+2907,on time
+2908,on time
+2909,on time
+2910,on time
+2911,on time
+2912,on time
+2913,on time
+2914,on time
+2915,on time
+2916,on time
+2917,on time
+2918,on time
+2919,on time
+2920,on time
+2921,on time
+2922,on time
+2923,on time
+2924,on time
+2925,on time
+2926,on time
+2927,on time
+2928,on time
+2929,on time
+2930,on time
+2931,on time
+2932,delayed
+2933,on time
+2934,on time
+2935,on time
+2936,delayed
+2937,on time
+2938,on time
+2939,on time
+2940,on time
+2941,on time
+2942,on time
+2943,on time
+2944,on time
+2945,on time
+2946,on time
+2947,on time
+2948,on time
+2949,on time
+2950,on time
+2951,on time
+2952,on time
+2953,on time
+2954,on time
+2955,on time
+2956,on time
+2957,on time
+2958,on time
+2959,on time
+2960,on time
+2961,on time
+2962,on time
+2963,on time
+2964,on time
+2965,on time
+2966,on time
+2967,on time
+2968,on time
+2969,on time
+2970,on time
+2971,on time
+2972,on time
+2973,on time
+2974,on time
+2975,on time
+2976,on time
+2977,on time
+2978,on time
+2979,on time
+2980,on time
+2981,on time
+2982,on time
+2983,on time
+2984,on time
+2985,on time
+2986,on time
+2987,on time
+2988,on time
+2989,on time
+2990,on time
+2991,on time
+2992,on time
+2993,on time
+2994,on time
+2995,on time
+2996,on time
+2997,on time
+2998,on time
+2999,on time
+3000,on time
+3001,on time
+3002,on time
+3003,on time
+3004,on time
+3005,on time
+3006,on time
+3007,on time
+3008,on time
+3009,on time
+3010,on time
+3011,on time
+3012,on time
+3013,on time
+3014,on time
+3015,on time
+3016,on time
+3017,on time
+3018,on time
+3019,on time
+3020,on time
+3021,on time
+3022,on time
+3023,on time
+3024,on time
+3025,on time
+3026,on time
+3027,on time
+3028,on time
+3029,on time
+3030,on time
+3031,on time
+3032,on time
+3033,on time
+3034,on time
+3035,on time
+3036,on time
+3037,on time
+3038,on time
+3039,on time
+3040,on time
+3041,on time
+3042,on time
+3043,on time
+3044,on time
+3045,on time
+3046,on time
+3047,on time
+3048,on time
+3049,on time
+3050,on time
+3051,on time
+3052,on time
+3053,on time
+3054,on time
+3055,on time
+3056,on time
+3057,on time
+3058,on time
+3059,on time
+3060,on time
+3061,on time
+3062,on time
+3063,on time
+3064,on time
+3065,on time
+3066,on time
+3067,delayed
+3068,on time
+3069,on time
+3070,on time
+3071,on time
+3072,on time
+3073,on time
+3074,on time
+3075,on time
+3076,on time
+3077,on time
+3078,on time
+3079,on time
+3080,on time
+3081,on time
+3082,delayed
+3083,on time
+3084,on time
+3085,delayed
+3086,on time
+3087,delayed
+3088,on time
+3089,on time
+3090,on time
+3091,on time
+3092,on time
+3093,on time
+3094,on time
+3095,on time
+3096,on time
+3097,on time
+3098,on time
+3099,on time
+3100,on time
+3101,on time
+3102,on time
+3103,on time
+3104,on time
+3105,on time
+3106,on time
+3107,on time
+3108,on time
+3109,on time
+3110,on time
+3111,on time
+3112,on time
+3113,on time
+3114,on time
+3115,on time
+3116,on time
+3117,on time
+3118,on time
+3119,on time
+3120,on time
+3121,on time
+3122,on time
+3123,on time
+3124,on time
+3125,on time
+3126,on time
+3127,delayed
+3128,delayed
+3129,delayed
+3130,delayed
+3131,delayed
+3132,delayed
+3133,delayed
+3134,delayed
+3135,delayed
+3136,delayed
+3137,delayed
+3138,delayed
+3139,delayed
+3140,delayed
+3141,delayed
+3142,delayed
+3143,delayed
+3144,delayed
+3145,delayed
+3146,delayed
+3147,delayed
+3148,delayed
+3149,delayed
+3150,delayed
+3151,delayed
+3152,delayed
+3153,delayed
+3154,on time
+3155,delayed
+3156,delayed
+3157,delayed
+3158,on time
+3159,delayed
+3160,delayed
+3161,delayed
+3162,delayed
+3163,on time
+3164,on time
+3165,on time
+3166,delayed
+3167,on time
+3168,delayed
+3169,delayed
+3170,delayed
+3171,on time
+3172,on time
+3173,on time
+3174,delayed
+3175,delayed
+3176,on time
+3177,delayed
+3178,delayed
+3179,on time
+3180,delayed
+3181,delayed
+3182,on time
+3183,delayed
+3184,on time
+3185,delayed
+3186,on time
+3187,delayed
+3188,delayed
+3189,delayed
+3190,on time
+3191,on time
+3192,on time
+3193,on time
+3194,on time
+3195,delayed
+3196,on time
+3197,delayed
+3198,delayed
+3199,delayed
+3200,on time
+3201,delayed
+3202,on time
+3203,delayed
+3204,on time
+3205,on time
+3206,on time
+3207,delayed
+3208,on time
+3209,on time
+3210,on time
+3211,delayed
+3212,delayed
+3213,on time
+3214,delayed
+3215,delayed
+3216,delayed
+3217,delayed
+3218,on time
+3219,delayed
+3220,on time
+3221,on time
+3222,on time
+3223,on time
+3224,on time
+3225,on time
+3226,on time
+3227,on time
+3228,delayed
+3229,on time
+3230,on time
+3231,on time
+3232,on time
+3233,on time
+3234,on time
+3235,on time
+3236,on time
+3237,on time
+3238,delayed
+3239,on time
+3240,on time
+3241,on time
+3242,on time
+3243,on time
+3244,on time
+3245,on time
+3246,on time
+3247,delayed
+3248,delayed
+3249,delayed
+3250,delayed
+3251,delayed
+3252,delayed
+3253,delayed
+3254,delayed
+3255,delayed
+3256,delayed
+3257,delayed
+3258,delayed
+3259,delayed
+3260,delayed
+3261,delayed
+3262,delayed
+3263,delayed
+3264,delayed
+3265,delayed
+3266,delayed
+3267,delayed
+3268,delayed
+3269,delayed
+3270,delayed
+3271,delayed
+3272,delayed
+3273,delayed
+3274,delayed
+3275,delayed
+3276,delayed
+3277,delayed
+3278,delayed
+3279,delayed
+3280,delayed
+3281,delayed
+3282,delayed
+3283,delayed
+3284,delayed
+3285,delayed
+3286,delayed
+3287,delayed
+3288,delayed
+3289,delayed
+3290,on time
+3291,on time
+3292,on time
+3293,on time
+3294,on time
+3295,on time
+3296,on time
+3297,on time
+3298,on time
+3299,on time
+3300,on time
+3301,on time
+3302,on time
+3303,on time
+3304,on time
+3305,on time
+3306,on time
+3307,on time
+3308,on time
+3309,on time
+3310,on time
+3311,on time
+3312,on time
+3313,on time
+3314,on time
+3315,on time
+3316,on time
+3317,on time
+3318,on time
+3319,on time
+3320,on time
+3321,on time
+3322,on time
+3323,on time
+3324,on time
+3325,on time
+3326,on time
+3327,on time
+3328,on time
+3329,on time
+3330,on time
+3331,on time
+3332,on time
+3333,on time
+3334,on time
+3335,on time
+3336,on time
+3337,on time
+3338,on time
+3339,on time
+3340,on time
+3341,on time
+3342,on time
+3343,on time
+3344,on time
+3345,on time
+3346,on time
+3347,on time
+3348,on time
+3349,on time
+3350,on time
+3351,on time
+3352,on time
+3353,on time
+3354,on time
+3355,on time
+3356,on time
+3357,on time
+3358,on time
+3359,on time
+3360,delayed
+3361,delayed
+3362,delayed
+3363,delayed
+3364,delayed
+3365,delayed
+3366,delayed
+3367,delayed
+3368,delayed
+3369,delayed
+3370,delayed
+3371,delayed
+3372,delayed
+3373,delayed
+3374,delayed
+3375,delayed
+3376,delayed
+3377,delayed
+3378,delayed
+3379,on time
+3380,on time
+3381,delayed
+3382,delayed
+3383,on time
+3384,on time
+3385,on time
+3386,on time
+3387,on time
+3388,delayed
+3389,on time
+3390,on time
+3391,delayed
+3392,on time
+3393,on time
+3394,delayed
+3395,on time
+3396,delayed
+3397,delayed
+3398,on time
+3399,delayed
+3400,on time
+3401,delayed
+3402,on time
+3403,delayed
+3404,delayed
+3405,delayed
+3406,delayed
+3407,delayed
+3408,delayed
+3409,delayed
+3410,delayed
+3411,delayed
+3412,delayed
+3413,delayed
+3414,delayed
+3415,delayed
+3416,delayed
+3417,on time
+3418,on time
+3419,delayed
+3420,delayed
+3421,delayed
+3422,delayed
+3423,delayed
+3424,delayed
+3425,delayed
+3426,delayed
+3427,delayed
+3428,delayed
+3429,delayed
+3430,on time
+3431,delayed
+3432,on time
+3433,on time
+3434,on time
+3435,on time
+3436,on time
+3437,on time
+3438,on time
+3439,on time
+3440,on time
+3441,on time
+3442,on time
+3443,on time
+3444,on time
+3445,on time
+3446,on time
+3447,on time
+3448,on time
+3449,on time
+3450,on time
+3451,on time
+3452,on time
+3453,on time
+3454,on time
+3455,on time
+3456,on time
+3457,on time
+3458,on time
+3459,on time
+3460,on time
+3461,on time
+3462,on time
+3463,on time
+3464,on time
+3465,on time
+3466,on time
+3467,on time
+3468,on time
+3469,on time
+3470,on time
+3471,delayed
+3472,on time
+3473,on time
+3474,delayed
+3475,on time
+3476,delayed
+3477,on time
+3478,delayed
+3479,delayed
+3480,delayed
+3481,delayed
+3482,delayed
+3483,delayed
+3484,delayed
+3485,delayed
+3486,delayed
+3487,delayed
+3488,delayed
+3489,delayed
+3490,delayed
+3491,delayed
+3492,delayed
+3493,delayed
+3494,delayed
+3495,delayed
+3496,delayed
+3497,delayed
+3498,delayed
+3499,delayed
+3500,delayed
+3501,delayed
+3502,delayed
+3503,delayed
+3504,delayed
+3505,delayed
+3506,delayed
+3507,delayed
+3508,delayed
+3509,delayed
+3510,delayed
+3511,delayed
+3512,delayed
+3513,delayed
+3514,delayed
+3515,delayed
+3516,delayed
+3517,delayed
+3518,delayed
+3519,delayed
+3520,delayed
+3521,delayed
+3522,delayed
+3523,delayed
+3524,delayed
+3525,delayed
+3526,delayed
+3527,delayed
+3528,delayed
+3529,delayed
+3530,delayed
+3531,delayed
+3532,delayed
+3533,delayed
+3534,delayed
+3535,delayed
+3536,delayed
+3537,delayed
+3538,delayed
+3539,delayed
+3540,delayed
+3541,delayed
+3542,delayed
+3543,delayed
+3544,delayed
+3545,delayed
+3546,delayed
+3547,delayed
+3548,delayed
+3549,delayed
+3550,delayed
+3551,delayed
+3552,delayed
+3553,delayed
+3554,delayed
+3555,delayed
+3556,delayed
+3557,delayed
+3558,delayed
+3559,delayed
+3560,delayed
+3561,delayed
+3562,delayed
+3563,delayed
+3564,delayed
+3565,delayed
+3566,on time
+3567,on time
+3568,on time
+3569,on time
+3570,on time
+3571,on time
+3572,on time
+3573,on time
+3574,on time
+3575,on time
+3576,on time
+3577,on time
+3578,on time
+3579,on time
+3580,on time
+3581,on time
+3582,on time
+3583,on time
+3584,on time
+3585,on time
+3586,on time
+3587,on time
+3588,on time
+3589,on time
+3590,on time
+3591,on time
+3592,delayed
+3593,on time
+3594,on time
+3595,on time
+3596,on time
+3597,on time
+3598,on time
+3599,on time
+3600,on time
+3601,delayed
+3602,delayed
+3603,delayed
+3604,on time
+3605,delayed
+3606,delayed
+3607,delayed
+3608,on time
+3609,on time
+3610,on time
+3611,on time
+3612,on time
+3613,on time
+3614,on time
+3615,on time
+3616,on time
+3617,on time
+3618,on time
+3619,on time
+3620,on time
+3621,on time
+3622,on time
+3623,on time
+3624,on time
+3625,on time
+3626,on time
+3627,on time
+3628,on time
+3629,on time
+3630,on time
+3631,on time
+3632,on time
+3633,on time
+3634,on time
+3635,on time
+3636,on time
+3637,on time
+3638,on time
+3639,on time
+3640,on time
+3641,on time
+3642,on time
+3643,on time
+3644,on time
+3645,on time
+3646,on time
+3647,on time
+3648,on time
+3649,on time
+3650,on time
+3651,on time
+3652,on time
+3653,on time
+3654,on time
+3655,on time
+3656,on time
+3657,on time
+3658,on time
+3659,on time
+3660,on time
+3661,on time
+3662,delayed
+3663,on time
+3664,on time
+3665,on time
+3666,on time
+3667,on time
+3668,on time
+3669,delayed
+3670,on time
+3671,delayed
+3672,delayed
+3673,delayed
+3674,on time
+3675,on time
+3676,delayed
+3677,on time
+3678,delayed
+3679,on time
+3680,on time
+3681,on time
+3682,delayed
+3683,on time
+3684,delayed
+3685,on time
+3686,on time
+3687,on time
+3688,on time
+3689,on time
+3690,on time
+3691,on time
+3692,on time
+3693,delayed
+3694,delayed
+3695,delayed
+3696,delayed
+3697,delayed
+3698,delayed
+3699,delayed
+3700,delayed
+3701,delayed
+3702,on time
+3703,on time
+3704,delayed
+3705,delayed
+3706,on time
+3707,on time
+3708,on time
+3709,on time
+3710,on time
+3711,delayed
+3712,on time
+3713,on time
+3714,on time
+3715,on time
+3716,on time
+3717,on time
+3718,on time
+3719,on time
+3720,on time
+3721,on time
+3722,on time
+3723,on time
+3724,delayed
+3725,on time
+3726,on time
+3727,on time
+3728,on time
+3729,on time
+3730,on time
+3731,on time
+3732,on time
+3733,on time
+3734,on time
+3735,on time
+3736,on time
+3737,on time
+3738,on time
+3739,on time
+3740,delayed
+3741,on time
+3742,on time
+3743,on time
+3744,on time
+3745,on time
+3746,on time
+3747,on time
+3748,on time
+3749,on time
+3750,on time
+3751,on time
+3752,on time
+3753,on time
+3754,on time
+3755,on time
+3756,on time
+3757,on time
+3758,on time
+3759,on time
+3760,on time
+3761,on time
+3762,on time
+3763,on time
+3764,on time
+3765,on time
+3766,on time
+3767,on time
+3768,on time
+3769,delayed
+3770,delayed
+3771,on time
+3772,delayed
+3773,delayed
+3774,delayed
+3775,delayed
+3776,on time
+3777,delayed
+3778,delayed
+3779,on time
+3780,delayed
+3781,on time
+3782,delayed
+3783,delayed
+3784,on time
+3785,on time
+3786,on time
+3787,delayed
+3788,delayed
+3789,delayed
+3790,delayed
+3791,delayed
+3792,delayed
+3793,delayed
+3794,delayed
+3795,delayed
+3796,delayed
+3797,delayed
+3798,delayed
+3799,delayed
+3800,delayed
+3801,delayed
+3802,delayed
+3803,delayed
+3804,delayed
+3805,delayed
+3806,delayed
+3807,delayed
+3808,delayed
+3809,delayed
+3810,delayed
+3811,delayed
+3812,delayed
+3813,delayed
+3814,delayed
+3815,delayed
+3816,delayed
+3817,delayed
+3818,on time
+3819,delayed
+3820,delayed
+3821,delayed
+3822,delayed
+3823,delayed
+3824,delayed
+3825,delayed
+3826,on time
+3827,on time
+3828,on time
+3829,on time
+3830,on time
+3831,on time
+3832,on time
+3833,on time
+3834,on time
+3835,on time
+3836,on time
+3837,on time
+3838,on time
+3839,on time
+3840,on time
+3841,on time
+3842,on time
+3843,on time
+3844,on time
+3845,on time
+3846,on time
+3847,on time
+3848,on time
+3849,on time
+3850,on time
+3851,on time
+3852,on time
+3853,on time
+3854,on time
+3855,on time
+3856,on time
+3857,on time
+3858,on time
+3859,on time
+3860,on time
+3861,on time
+3862,on time
+3863,on time
+3864,on time
+3865,on time
+3866,on time
+3867,on time
+3868,on time
+3869,on time
+3870,on time
+3871,on time
+3872,on time
+3873,on time
+3874,on time
+3875,on time
+3876,on time
+3877,on time
+3878,on time
+3879,on time
+3880,on time
+3881,on time
+3882,on time
+3883,on time
+3884,on time
+3885,on time
+3886,on time
+3887,on time
+3888,on time
+3889,on time
+3890,on time
+3891,on time
+3892,on time
+3893,on time
+3894,on time
+3895,on time
+3896,on time
+3897,on time
+3898,on time
+3899,on time
+3900,on time
+3901,on time
+3902,on time
+3903,on time
+3904,on time
+3905,on time
+3906,on time
+3907,on time
+3908,on time
+3909,on time
+3910,on time
+3911,on time
+3912,on time
+3913,on time
+3914,on time
+3915,on time
+3916,on time
+3917,on time
+3918,on time
+3919,on time
+3920,on time
+3921,on time
+3922,on time
+3923,on time
+3924,on time
+3925,on time
+3926,on time
+3927,on time
+3928,on time
+3929,on time
+3930,on time
+3931,on time
+3932,on time
+3933,on time
+3934,on time
+3935,on time
+3936,on time
+3937,on time
+3938,on time
+3939,on time
+3940,on time
+3941,on time
+3942,on time
+3943,on time
+3944,on time
+3945,on time
+3946,on time
+3947,on time
+3948,on time
+3949,on time
+3950,on time
+3951,on time
+3952,on time
+3953,on time
+3954,on time
+3955,on time
+3956,on time
+3957,on time
+3958,on time
+3959,on time
+3960,on time
+3961,on time
+3962,on time
+3963,on time
+3964,on time
+3965,on time
+3966,on time
+3967,on time
+3968,on time
+3969,on time
+3970,on time
+3971,on time
+3972,on time
+3973,on time
+3974,on time
+3975,on time
+3976,on time
+3977,on time
+3978,on time
+3979,on time
+3980,on time
+3981,on time
+3982,on time
+3983,on time
+3984,on time
+3985,on time
+3986,on time
+3987,delayed
+3988,delayed
+3989,on time
+3990,on time
+3991,on time
+3992,on time
+3993,on time
+3994,on time
+3995,on time
+3996,on time
+3997,on time
+3998,on time
+3999,on time
+4000,on time
+4001,on time
+4002,on time
+4003,on time
+4004,on time
+4005,on time
+4006,on time
+4007,on time
+4008,on time
+4009,on time
+4010,on time
+4011,on time
+4012,on time
+4013,on time
+4014,on time
+4015,on time
+4016,on time
+4017,on time
+4018,on time
+4019,on time
+4020,on time
+4021,on time
+4022,on time
+4023,on time
+4024,on time
+4025,on time
+4026,on time
+4027,on time
+4028,delayed
+4029,delayed
+4030,delayed
+4031,delayed
+4032,delayed
+4033,delayed
+4034,delayed
+4035,delayed
+4036,delayed
+4037,delayed
+4038,delayed
+4039,delayed
+4040,delayed
+4041,delayed
+4042,delayed
+4043,delayed
+4044,delayed
+4045,delayed
+4046,delayed
+4047,delayed
+4048,on time
+4049,delayed
+4050,delayed
+4051,delayed
+4052,delayed
+4053,delayed
+4054,on time
+4055,on time
+4056,delayed
+4057,on time
+4058,delayed
+4059,on time
+4060,delayed
+4061,on time
+4062,on time
+4063,on time
+4064,on time
+4065,on time
+4066,on time
+4067,on time
+4068,on time
+4069,on time
+4070,on time
+4071,on time
+4072,on time
+4073,on time
+4074,on time
+4075,on time
+4076,on time
+4077,on time
+4078,on time
+4079,on time
+4080,on time
+4081,on time
+4082,on time
+4083,on time
+4084,on time
+4085,on time
+4086,on time
+4087,on time
+4088,on time
+4089,on time
+4090,on time
+4091,on time
+4092,on time
+4093,on time
+4094,on time
+4095,on time
+4096,on time
+4097,on time
+4098,on time
+4099,on time
+4100,on time
+4101,on time
+4102,on time
+4103,on time
+4104,on time
+4105,on time
+4106,on time
+4107,on time
+4108,on time
+4109,on time
+4110,on time
+4111,on time
+4112,on time
+4113,on time
+4114,on time
+4115,on time
+4116,on time
+4117,on time
+4118,on time
+4119,on time
+4120,on time
+4121,on time
+4122,on time
+4123,on time
+4124,on time
+4125,on time
+4126,on time
+4127,on time
+4128,on time
+4129,on time
+4130,on time
+4131,on time
+4132,on time
+4133,on time
+4134,on time
+4135,on time
+4136,on time
+4137,on time
+4138,on time
+4139,on time
+4140,on time
+4141,on time
+4142,on time
+4143,on time
+4144,on time
+4145,on time
+4146,on time
+4147,on time
+4148,on time
+4149,on time
+4150,on time
+4151,on time
+4152,on time
+4153,on time
+4154,on time
+4155,on time
+4156,on time
+4157,on time
+4158,on time
+4159,on time
+4160,on time
+4161,on time
+4162,on time
+4163,on time
+4164,on time
+4165,on time
+4166,on time
+4167,on time
+4168,on time
+4169,on time
+4170,on time
+4171,on time
+4172,on time
+4173,on time
+4174,on time
+4175,on time
+4176,on time
+4177,on time
+4178,on time
+4179,on time
+4180,on time
+4181,on time
+4182,on time
+4183,on time
+4184,on time
+4185,on time
+4186,on time
+4187,on time
+4188,on time
+4189,on time
+4190,on time
+4191,on time
+4192,on time
+4193,on time
+4194,on time
+4195,on time
+4196,on time
+4197,on time
+4198,on time
+4199,on time
+4200,on time
+4201,on time
+4202,on time
+4203,on time
+4204,delayed
+4205,delayed
+4206,delayed
+4207,delayed
+4208,delayed
+4209,delayed
+4210,delayed
+4211,delayed
+4212,delayed
+4213,delayed
+4214,delayed
+4215,delayed
+4216,delayed
+4217,delayed
+4218,delayed
+4219,delayed
+4220,delayed
+4221,delayed
+4222,delayed
+4223,delayed
+4224,delayed
+4225,delayed
+4226,delayed
+4227,delayed
+4228,delayed
+4229,delayed
+4230,delayed
+4231,delayed
+4232,delayed
+4233,delayed
+4234,delayed
+4235,delayed
+4236,on time
+4237,on time
+4238,on time
+4239,on time
+4240,on time
+4241,on time
+4242,on time
+4243,on time
+4244,on time
+4245,on time
+4246,on time
+4247,on time
+4248,on time
+4249,on time
+4250,on time
+4251,on time
+4252,delayed
+4253,on time
+4254,delayed
+4255,on time
+4256,on time
+4257,delayed
+4258,on time
+4259,on time
+4260,on time
+4261,on time
+4262,on time
+4263,on time
+4264,on time
+4265,on time
+4266,on time
+4267,on time
+4268,on time
+4269,on time
+4270,on time
+4271,on time
+4272,on time
+4273,on time
+4274,on time
+4275,on time
+4276,on time
+4277,on time
+4278,on time
+4279,on time
+4280,on time
+4281,on time
+4282,on time
+4283,on time
+4284,on time
+4285,on time
+4286,delayed
+4287,delayed
+4288,delayed
+4289,delayed
+4290,delayed
+4291,delayed
+4292,delayed
+4293,delayed
+4294,delayed
+4295,on time
+4296,delayed
+4297,delayed
+4298,delayed
+4299,delayed
+4300,delayed
+4301,delayed
+4302,delayed
+4303,delayed
+4304,delayed
+4305,delayed
+4306,delayed
+4307,delayed
+4308,delayed
+4309,delayed
+4310,delayed
+4311,delayed
+4312,delayed
+4313,delayed
+4314,delayed
+4315,delayed
+4316,delayed
+4317,delayed
+4318,on time
+4319,delayed
+4320,delayed
+4321,delayed
+4322,delayed
+4323,delayed
+4324,delayed
+4325,delayed
+4326,delayed
+4327,delayed
+4328,delayed
+4329,delayed
+4330,delayed
+4331,delayed
+4332,delayed
+4333,on time
+4334,delayed
+4335,delayed
+4336,on time
+4337,on time
+4338,delayed
+4339,delayed
+4340,delayed
+4341,delayed
+4342,delayed
+4343,delayed
+4344,delayed
+4345,delayed
+4346,delayed
+4347,delayed
+4348,on time
+4349,delayed
+4350,on time
+4351,delayed
+4352,delayed
+4353,delayed
+4354,delayed
+4355,delayed
+4356,delayed
+4357,delayed
+4358,delayed
+4359,on time
+4360,delayed
+4361,delayed
+4362,delayed
+4363,on time
+4364,delayed
+4365,on time
+4366,on time
+4367,delayed
+4368,delayed
+4369,delayed
+4370,delayed
+4371,delayed
+4372,delayed
+4373,delayed
+4374,delayed
+4375,delayed
+4376,delayed
+4377,delayed
+4378,delayed
+4379,delayed
+4380,delayed
+4381,on time
+4382,delayed
+4383,delayed
+4384,delayed
+4385,delayed
+4386,delayed
+4387,delayed
+4388,delayed
+4389,delayed
+4390,delayed
+4391,delayed
+4392,delayed
+4393,on time
+4394,delayed
+4395,delayed
+4396,delayed
+4397,delayed
+4398,delayed
+4399,delayed
+4400,delayed
+4401,delayed
+4402,delayed
+4403,delayed
+4404,delayed
+4405,delayed
+4406,delayed
+4407,delayed
+4408,delayed
+4409,delayed
+4410,delayed
+4411,delayed
+4412,delayed
+4413,delayed
+4414,delayed
+4415,delayed
+4416,delayed
+4417,on time
+4418,delayed
+4419,delayed
+4420,delayed
+4421,delayed
+4422,delayed
+4423,delayed
+4424,delayed
+4425,delayed
+4426,delayed
+4427,delayed
+4428,delayed
+4429,delayed
+4430,on time
+4431,delayed
+4432,delayed
+4433,delayed
+4434,delayed
+4435,delayed
+4436,delayed
+4437,delayed
+4438,delayed
+4439,delayed
+4440,delayed
+4441,delayed
+4442,delayed
+4443,delayed
+4444,delayed
+4445,delayed
+4446,delayed
+4447,delayed
+4448,delayed
+4449,delayed
+4450,delayed
+4451,delayed
+4452,delayed
+4453,delayed
+4454,delayed
+4455,on time
+4456,on time
+4457,on time
+4458,on time
+4459,on time
+4460,on time
+4461,on time
+4462,on time
+4463,on time
+4464,on time
+4465,on time
+4466,on time
+4467,on time
+4468,on time
+4469,on time
+4470,on time
+4471,on time
+4472,on time
+4473,on time
+4474,on time
+4475,on time
+4476,on time
+4477,on time
+4478,on time
+4479,on time
+4480,on time
+4481,on time
+4482,on time
+4483,on time
+4484,on time
+4485,delayed
+4486,on time
+4487,delayed
+4488,delayed
+4489,delayed
+4490,on time
+4491,on time
+4492,delayed
+4493,delayed
+4494,delayed
+4495,delayed
+4496,delayed
+4497,on time
+4498,on time
+4499,on time
+4500,on time
+4501,on time
+4502,on time
+4503,delayed
+4504,on time
+4505,on time
+4506,on time
+4507,delayed
+4508,on time
+4509,on time
+4510,on time
+4511,on time
+4512,on time
+4513,on time
+4514,on time
+4515,on time
+4516,on time
+4517,on time
+4518,on time
+4519,on time
+4520,on time
+4521,on time
+4522,on time
+4523,on time
+4524,on time
+4525,on time
+4526,on time
+4527,on time
+4528,on time
+4529,on time
+4530,on time
+4531,delayed
+4532,on time
+4533,on time
+4534,on time
+4535,on time
+4536,on time
+4537,on time
+4538,on time
+4539,on time
+4540,on time
+4541,on time
+4542,delayed
+4543,on time
+4544,on time
+4545,on time
+4546,on time
+4547,on time
+4548,on time
+4549,on time
+4550,on time
+4551,on time
+4552,delayed
+4553,on time
+4554,on time
+4555,on time
+4556,on time
+4557,on time
+4558,on time
+4559,on time
+4560,on time
+4561,on time
+4562,on time
+4563,on time
+4564,on time
+4565,on time
+4566,on time
+4567,on time
+4568,delayed
+4569,delayed
+4570,delayed
+4571,delayed
+4572,delayed
+4573,on time
+4574,delayed
+4575,on time
+4576,on time
+4577,delayed
+4578,on time
+4579,on time
+4580,on time
+4581,on time
+4582,on time
+4583,delayed
+4584,delayed
+4585,delayed
+4586,on time
+4587,on time
+4588,delayed
+4589,on time
+4590,on time
+4591,on time
+4592,on time
+4593,on time
+4594,on time
+4595,on time
+4596,on time
+4597,on time
+4598,delayed
+4599,on time
+4600,on time
+4601,on time
+4602,delayed
+4603,delayed
+4604,delayed
+4605,delayed
+4606,delayed
+4607,delayed
+4608,delayed
+4609,delayed
+4610,delayed
+4611,delayed
+4612,delayed
+4613,delayed
+4614,on time
+4615,on time
+4616,delayed
+4617,on time
+4618,delayed
+4619,delayed
+4620,on time
+4621,delayed
+4622,on time
+4623,delayed
+4624,on time
+4625,delayed
+4626,on time
+4627,delayed
+4628,on time
+4629,on time
+4630,delayed
+4631,delayed
+4632,on time
+4633,on time
+4634,on time
+4635,on time
+4636,on time
+4637,on time
+4638,on time
+4639,on time
+4640,on time
+4641,on time
+4642,on time
+4643,on time
+4644,on time
+4645,on time
+4646,on time
+4647,on time
+4648,on time
+4649,on time
+4650,on time
+4651,on time
+4652,on time
+4653,on time
+4654,on time
+4655,on time
+4656,on time
+4657,on time
+4658,on time
+4659,on time
+4660,on time
+4661,on time
+4662,on time
+4663,on time
+4664,on time
+4665,on time
+4666,on time
+4667,on time
+4668,on time
+4669,on time
+4670,on time
+4671,on time
+4672,on time
+4673,on time
+4674,on time
+4675,on time
+4676,on time
+4677,on time
+4678,on time
+4679,delayed
+4680,delayed
+4681,on time
+4682,delayed
+4683,on time
+4684,on time
+4685,on time
+4686,on time
+4687,on time
+4688,on time
+4689,on time
+4690,on time
+4691,on time
+4692,on time
+4693,on time
+4694,on time
+4695,on time
+4696,on time
+4697,on time
+4698,on time
+4699,on time
+4700,on time
+4701,on time
+4702,on time
+4703,on time
+4704,on time
+4705,on time
+4706,on time
+4707,on time
+4708,on time
+4709,on time
+4710,on time
+4711,on time
+4712,on time
+4713,on time
+4714,on time
+4715,on time
+4716,on time
+4717,on time
+4718,on time
+4719,on time
+4720,on time
+4721,on time
+4722,on time
+4723,on time
+4724,on time
+4725,on time
+4726,on time
+4727,on time
+4728,on time
+4729,on time
+4730,on time
+4731,on time
+4732,on time
+4733,on time
+4734,on time
+4735,on time
+4736,delayed
+4737,delayed
+4738,delayed
+4739,delayed
+4740,on time
+4741,delayed
+4742,delayed
+4743,delayed
+4744,delayed
+4745,delayed
+4746,delayed
+4747,delayed
+4748,delayed
+4749,delayed
+4750,delayed
+4751,delayed
+4752,delayed
+4753,delayed
+4754,delayed
+4755,delayed
+4756,on time
+4757,delayed
+4758,delayed
+4759,delayed
+4760,delayed
+4761,delayed
+4762,delayed
+4763,on time
+4764,on time
+4765,on time
+4766,delayed
+4767,delayed
+4768,delayed
+4769,delayed
+4770,delayed
+4771,on time
+4772,on time
+4773,on time
+4774,on time
+4775,on time
+4776,on time
+4777,on time
+4778,on time
+4779,on time
+4780,delayed
+4781,on time
+4782,on time
+4783,delayed
+4784,on time
+4785,on time
+4786,on time
+4787,delayed
+4788,on time
+4789,delayed
+4790,delayed
+4791,delayed
+4792,on time
+4793,delayed
+4794,on time
+4795,on time
+4796,on time
+4797,on time
+4798,delayed
+4799,on time
+4800,delayed
+4801,on time
+4802,delayed
+4803,on time
+4804,delayed
+4805,on time
+4806,on time
+4807,on time
+4808,delayed
+4809,delayed
+4810,delayed
+4811,delayed
+4812,delayed
+4813,delayed
+4814,delayed
+4815,delayed
+4816,delayed
+4817,delayed
+4818,on time
+4819,delayed
+4820,delayed
+4821,delayed
+4822,delayed
+4823,delayed
+4824,delayed
+4825,delayed
+4826,delayed
+4827,delayed
+4828,delayed
+4829,delayed
+4830,delayed
+4831,delayed
+4832,delayed
+4833,delayed
+4834,delayed
+4835,delayed
+4836,delayed
+4837,delayed
+4838,delayed
+4839,delayed
+4840,delayed
+4841,delayed
+4842,delayed
+4843,delayed
+4844,delayed
+4845,delayed
+4846,delayed
+4847,delayed
+4848,delayed
+4849,delayed
+4850,delayed
+4851,delayed
+4852,on time
+4853,on time
+4854,on time
+4855,on time
+4856,on time
+4857,on time
+4858,on time
+4859,on time
+4860,on time
+4861,on time
+4862,on time
+4863,on time
+4864,on time
+4865,on time
+4866,on time
+4867,on time
+4868,on time
+4869,on time
+4870,on time
+4871,on time
+4872,on time
+4873,on time
+4874,on time
+4875,on time
+4876,on time
+4877,on time
+4878,on time
+4879,on time
+4880,on time
+4881,delayed
+4882,delayed
+4883,delayed
+4884,delayed
+4885,delayed
+4886,delayed
+4887,delayed
+4888,delayed
+4889,delayed
+4890,delayed
+4891,delayed
+4892,delayed
+4893,delayed
+4894,delayed
+4895,delayed
+4896,delayed
+4897,delayed
+4898,delayed
+4899,delayed
+4900,delayed
+4901,delayed
+4902,delayed
+4903,on time
+4904,delayed
+4905,delayed
+4906,delayed
+4907,delayed
+4908,delayed
+4909,delayed
+4910,delayed
+4911,delayed
+4912,delayed
+4913,delayed
+4914,delayed
+4915,on time
+4916,on time
+4917,delayed
+4918,delayed
+4919,delayed
+4920,delayed
+4921,delayed
+4922,delayed
+4923,on time
+4924,delayed
+4925,delayed
+4926,delayed
+4927,delayed
+4928,delayed
+4929,delayed
+4930,delayed
+4931,delayed
+4932,delayed
+4933,delayed
+4934,delayed
+4935,on time
+4936,delayed
+4937,on time
+4938,on time
+4939,on time
+4940,delayed
+4941,on time
+4942,on time
+4943,delayed
+4944,on time
+4945,on time
+4946,on time
+4947,delayed
+4948,delayed
+4949,on time
+4950,on time
+4951,on time
+4952,on time
+4953,on time
+4954,on time
+4955,on time
+4956,on time
+4957,on time
+4958,on time
+4959,on time
+4960,on time
+4961,on time
+4962,on time
+4963,on time
+4964,on time
+4965,on time
+4966,on time
+4967,on time
+4968,on time
+4969,on time
+4970,on time
+4971,on time
+4972,on time
+4973,on time
+4974,on time
+4975,on time
+4976,on time
+4977,on time
+4978,on time
+4979,on time
+4980,on time
+4981,on time
+4982,on time
+4983,on time
+4984,on time
+4985,on time
+4986,on time
+4987,on time
+4988,on time
+4989,on time
+4990,on time
+4991,on time
+4992,on time
+4993,on time
+4994,on time
+4995,on time
+4996,on time
+4997,on time
+4998,on time
+4999,on time
+5000,on time
+5001,on time
+5002,on time
+5003,on time
+5004,on time
+5005,on time
+5006,on time
+5007,on time
+5008,on time
+5009,on time
+5010,on time
+5011,on time
+5012,on time
+5013,on time
+5014,on time
+5015,on time
+5016,on time
+5017,on time
+5018,on time
+5019,on time
+5020,on time
+5021,on time
+5022,on time
+5023,on time
+5024,on time
+5025,on time
+5026,on time
+5027,on time
+5028,on time
+5029,on time
+5030,on time
+5031,on time
+5032,on time
+5033,on time
+5034,on time
+5035,on time
+5036,on time
+5037,on time
+5038,on time
+5039,on time
+5040,on time
+5041,on time
+5042,on time
+5043,on time
+5044,on time
+5045,on time
+5046,on time
+5047,on time
+5048,on time
+5049,on time
+5050,on time
+5051,on time
+5052,on time
+5053,on time
+5054,on time
+5055,on time
+5056,on time
+5057,on time
+5058,on time
+5059,on time
+5060,on time
+5061,on time
+5062,on time
+5063,on time
+5064,on time
+5065,on time
+5066,on time
+5067,on time
+5068,on time
+5069,on time
+5070,on time
+5071,on time
+5072,on time
+5073,on time
+5074,on time
+5075,on time
+5076,on time
+5077,on time
+5078,on time
+5079,on time
+5080,on time
+5081,on time
+5082,on time
+5083,on time
+5084,on time
+5085,on time
+5086,on time
+5087,on time
+5088,on time
+5089,on time
+5090,delayed
+5091,delayed
+5092,delayed
+5093,on time
+5094,on time
+5095,on time
+5096,on time
+5097,delayed
+5098,on time
+5099,on time
+5100,on time
+5101,delayed
+5102,delayed
+5103,on time
+5104,on time
+5105,on time
+5106,delayed
+5107,on time
+5108,on time
+5109,on time
+5110,delayed
+5111,delayed
+5112,on time
+5113,on time
+5114,delayed
+5115,on time
+5116,on time
+5117,delayed
+5118,on time
+5119,on time
+5120,delayed
+5121,on time
+5122,delayed
+5123,delayed
+5124,on time
+5125,delayed
+5126,delayed
+5127,on time
+5128,delayed
+5129,on time
+5130,on time
+5131,on time
+5132,on time
+5133,on time
+5134,on time
+5135,on time
+5136,on time
+5137,on time
+5138,on time
+5139,on time
+5140,on time
+5141,on time
+5142,on time
+5143,on time
+5144,on time
+5145,on time
+5146,on time
+5147,on time
+5148,on time
+5149,on time
+5150,delayed
+5151,on time
+5152,on time
+5153,on time
+5154,on time
+5155,on time
+5156,on time
+5157,on time
+5158,on time
+5159,on time
+5160,on time
+5161,on time
+5162,on time
+5163,on time
+5164,on time
+5165,on time
+5166,on time
+5167,on time
+5168,on time
+5169,on time
+5170,on time
+5171,on time
+5172,on time
+5173,on time
+5174,on time
+5175,on time
+5176,on time
+5177,on time
+5178,on time
+5179,on time
+5180,on time
+5181,on time
+5182,on time
+5183,on time
+5184,on time
+5185,on time
+5186,on time
+5187,on time
+5188,on time
+5189,on time
+5190,on time
+5191,on time
+5192,on time
+5193,on time
+5194,on time
+5195,on time
+5196,on time
+5197,on time
+5198,delayed
+5199,on time
+5200,on time
+5201,on time
+5202,on time
+5203,on time
+5204,on time
+5205,on time
+5206,on time
+5207,on time
+5208,on time
+5209,on time
+5210,on time
+5211,on time
+5212,on time
+5213,on time
+5214,on time
+5215,on time
+5216,on time
+5217,on time
+5218,on time
+5219,on time
+5220,on time
+5221,on time
+5222,on time
+5223,on time
+5224,on time
+5225,on time
+5226,on time
+5227,on time
+5228,on time
+5229,on time
+5230,on time
+5231,on time
+5232,on time
+5233,on time
+5234,on time
+5235,on time
+5236,on time
+5237,delayed
+5238,on time
+5239,on time
+5240,on time
+5241,on time
+5242,on time
+5243,on time
+5244,on time
+5245,on time
+5246,on time
+5247,on time
+5248,on time
+5249,on time
+5250,on time
+5251,on time
+5252,on time
+5253,on time
+5254,on time
+5255,on time
+5256,on time
+5257,on time
+5258,on time
+5259,on time
+5260,on time
+5261,on time
+5262,on time
+5263,on time
+5264,on time
+5265,on time
+5266,on time
+5267,on time
+5268,on time
+5269,on time
+5270,on time
+5271,on time
+5272,on time
+5273,on time
+5274,on time
+5275,on time
+5276,on time
+5277,on time
+5278,on time
+5279,on time
+5280,on time
+5281,on time
+5282,on time
+5283,on time
+5284,on time
+5285,on time
+5286,on time
+5287,on time
+5288,on time
+5289,on time
+5290,on time
+5291,on time
+5292,on time
+5293,on time
+5294,on time
+5295,on time
+5296,on time
+5297,on time
+5298,on time
+5299,on time
+5300,on time
+5301,on time
+5302,on time
+5303,on time
+5304,on time
+5305,on time
+5306,on time
+5307,on time
+5308,on time
+5309,on time
+5310,on time
+5311,on time
+5312,on time
+5313,on time
+5314,on time
+5315,on time
+5316,on time
+5317,on time
+5318,on time
+5319,on time
+5320,on time
+5321,on time
+5322,on time
+5323,on time
+5324,on time
+5325,on time
+5326,on time
+5327,on time
+5328,on time
+5329,on time
+5330,on time
+5331,on time
+5332,on time
+5333,on time
+5334,on time
+5335,on time
+5336,on time
+5337,on time
+5338,on time
+5339,on time
+5340,on time
+5341,on time
+5342,on time
+5343,on time
+5344,on time
+5345,on time
+5346,on time
+5347,on time
+5348,on time
+5349,on time
+5350,on time
+5351,on time
+5352,on time
+5353,on time
+5354,on time
+5355,on time
+5356,on time
+5357,on time
+5358,on time
+5359,on time
+5360,on time
+5361,on time
+5362,on time
+5363,on time
+5364,on time
+5365,on time
+5366,on time
+5367,on time
+5368,on time
+5369,on time
+5370,delayed
+5371,delayed
+5372,delayed
+5373,delayed
+5374,on time
+5375,delayed
+5376,delayed
+5377,on time
+5378,delayed
+5379,delayed
+5380,on time
+5381,delayed
+5382,delayed
+5383,delayed
+5384,delayed
+5385,delayed
+5386,delayed
+5387,delayed
+5388,delayed
+5389,delayed
+5390,delayed
+5391,delayed
+5392,delayed
+5393,delayed
+5394,delayed
+5395,delayed
+5396,delayed
+5397,delayed
+5398,delayed
+5399,delayed
+5400,delayed
+5401,delayed
+5402,delayed
+5403,delayed
+5404,delayed
+5405,delayed
+5406,delayed
+5407,delayed
+5408,delayed
+5409,delayed
+5410,delayed
+5411,delayed
+5412,delayed
+5413,on time
+5414,on time
+5415,on time
+5416,on time
+5417,on time
+5418,on time
+5419,on time
+5420,on time
+5421,on time
+5422,on time
+5423,on time
+5424,on time
+5425,on time
+5426,on time
+5427,on time
+5428,on time
+5429,on time
+5430,on time
+5431,on time
+5432,on time
+5433,on time
+5434,on time
+5435,on time
+5436,on time
+5437,on time
+5438,on time
+5439,on time
+5440,on time
+5441,on time
+5442,on time
+5443,on time
+5444,on time
+5445,on time
+5446,on time
+5447,on time
+5448,on time
+5449,on time
+5450,on time
+5451,on time
+5452,on time
+5453,on time
+5454,on time
+5455,on time
+5456,on time
+5457,on time
+5458,on time
+5459,on time
+5460,on time
+5461,on time
+5462,on time
+5463,on time
+5464,on time
+5465,on time
+5466,on time
+5467,on time
+5468,on time
+5469,on time
+5470,on time
+5471,on time
+5472,on time
+5473,on time
+5474,on time
+5475,on time
+5476,on time
+5477,delayed
+5478,delayed
+5479,delayed
+5480,delayed
+5481,delayed
+5482,delayed
+5483,delayed
+5484,delayed
+5485,delayed
+5486,delayed
+5487,on time
+5488,on time
+5489,on time
+5490,on time
+5491,on time
+5492,on time
+5493,on time
+5494,on time
+5495,delayed
+5496,on time
+5497,delayed
+5498,on time
+5499,delayed
+5500,on time
+5501,on time
+5502,on time
+5503,on time
+5504,on time
+5505,on time
+5506,delayed
+5507,on time
+5508,delayed
+5509,on time
+5510,on time
+5511,on time
+5512,delayed
+5513,delayed
+5514,delayed
+5515,delayed
+5516,delayed
+5517,delayed
+5518,delayed
+5519,delayed
+5520,delayed
+5521,delayed
+5522,delayed
+5523,delayed
+5524,delayed
+5525,delayed
+5526,delayed
+5527,delayed
+5528,delayed
+5529,delayed
+5530,delayed
+5531,delayed
+5532,delayed
+5533,delayed
+5534,delayed
+5535,delayed
+5536,delayed
+5537,delayed
+5538,delayed
+5539,delayed
+5540,on time
+5541,on time
+5542,on time
+5543,on time
+5544,on time
+5545,on time
+5546,on time
+5547,on time
+5548,on time
+5549,on time
+5550,on time
+5551,on time
+5552,on time
+5553,on time
+5554,on time
+5555,delayed
+5556,delayed
+5557,on time
+5558,delayed
+5559,delayed
+5560,delayed
+5561,delayed
+5562,delayed
+5563,on time
+5564,delayed
+5565,delayed
+5566,delayed
+5567,delayed
+5568,delayed
+5569,delayed
+5570,delayed
+5571,on time
+5572,delayed
+5573,on time
+5574,on time
+5575,on time
+5576,on time
+5577,on time
+5578,on time
+5579,on time
+5580,on time
+5581,on time
+5582,on time
+5583,on time
+5584,on time
+5585,on time
+5586,on time
+5587,on time
+5588,on time
+5589,on time
+5590,on time
+5591,on time
+5592,on time
+5593,on time
+5594,on time
+5595,on time
+5596,on time
+5597,on time
+5598,on time
+5599,on time
+5600,on time
+5601,on time
+5602,on time
+5603,on time
+5604,on time
+5605,on time
+5606,on time
+5607,on time
+5608,on time
+5609,on time
+5610,on time
+5611,on time
+5612,on time
+5613,on time
+5614,on time
+5615,on time
+5616,on time
+5617,on time
+5618,on time
+5619,on time
+5620,on time
+5621,on time
+5622,on time
+5623,on time
+5624,on time
+5625,on time
+5626,on time
+5627,on time
+5628,on time
+5629,on time
+5630,on time
+5631,on time
+5632,on time
+5633,on time
+5634,on time
+5635,on time
+5636,on time
+5637,on time
+5638,on time
+5639,on time
+5640,on time
+5641,on time
+5642,on time
+5643,on time
+5644,on time
+5645,on time
+5646,on time
+5647,on time
+5648,on time
+5649,on time
+5650,on time
+5651,on time
+5652,on time
+5653,delayed
+5654,delayed
+5655,delayed
+5656,on time
+5657,delayed
+5658,delayed
+5659,on time
+5660,delayed
+5661,delayed
+5662,delayed
+5663,on time
+5664,on time
+5665,delayed
+5666,delayed
+5667,delayed
+5668,delayed
+5669,delayed
+5670,delayed
+5671,delayed
+5672,delayed
+5673,delayed
+5674,delayed
+5675,delayed
+5676,delayed
+5677,delayed
+5678,delayed
+5679,delayed
+5680,delayed
+5681,delayed
+5682,delayed
+5683,delayed
+5684,delayed
+5685,delayed
+5686,delayed
+5687,delayed
+5688,delayed
+5689,delayed
+5690,delayed
+5691,delayed
+5692,delayed
+5693,delayed
+5694,delayed
+5695,delayed
+5696,delayed
+5697,delayed
+5698,delayed
+5699,delayed
+5700,delayed
+5701,delayed
+5702,delayed
+5703,on time
+5704,on time
+5705,on time
+5706,on time
+5707,on time
+5708,on time
+5709,on time
+5710,on time
+5711,on time
+5712,on time
+5713,delayed
+5714,on time
+5715,on time
+5716,on time
+5717,on time
+5718,on time
+5719,on time
+5720,on time
+5721,delayed
+5722,on time
+5723,on time
+5724,on time
+5725,delayed
+5726,delayed
+5727,delayed
+5728,delayed
+5729,delayed
+5730,delayed
+5731,delayed
+5732,delayed
+5733,delayed
+5734,delayed
+5735,on time
+5736,delayed
+5737,delayed
+5738,delayed
+5739,delayed
+5740,delayed
+5741,delayed
+5742,delayed
+5743,delayed
+5744,delayed
+5745,delayed
+5746,delayed
+5747,delayed
+5748,delayed
+5749,delayed
+5750,delayed
+5751,delayed
+5752,delayed
+5753,delayed
+5754,on time
+5755,on time
+5756,on time
+5757,on time
+5758,delayed
+5759,on time
+5760,on time
+5761,on time
+5762,on time
+5763,delayed
+5764,on time
+5765,on time
+5766,on time
+5767,on time
+5768,on time
+5769,delayed
+5770,on time
+5771,on time
+5772,on time
+5773,on time
+5774,on time
+5775,on time
+5776,on time
+5777,on time
+5778,on time
+5779,on time
+5780,on time
+5781,on time
+5782,on time
+5783,on time
+5784,on time
+5785,on time
+5786,on time
+5787,on time
+5788,on time
+5789,on time
+5790,on time
+5791,on time
+5792,on time
+5793,on time
+5794,on time
+5795,on time
+5796,on time
+5797,on time
+5798,on time
+5799,on time
+5800,on time
+5801,on time
+5802,on time
+5803,on time
+5804,on time
+5805,on time
+5806,on time
+5807,on time
+5808,on time
+5809,on time
+5810,on time
+5811,on time
+5812,on time
+5813,on time
+5814,on time
+5815,on time
+5816,on time
+5817,on time
+5818,delayed
+5819,delayed
+5820,delayed
+5821,delayed
+5822,delayed
+5823,delayed
+5824,delayed
+5825,delayed
+5826,delayed
+5827,delayed
+5828,delayed
+5829,delayed
+5830,delayed
+5831,delayed
+5832,delayed
+5833,delayed
+5834,delayed
+5835,delayed
+5836,delayed
+5837,delayed
+5838,delayed
+5839,delayed
+5840,delayed
+5841,delayed
+5842,delayed
+5843,delayed
+5844,on time
+5845,delayed
+5846,delayed
+5847,delayed
+5848,delayed
+5849,delayed
+5850,delayed
+5851,delayed
+5852,delayed
+5853,delayed
+5854,delayed
+5855,delayed
+5856,delayed
+5857,delayed
+5858,delayed
+5859,delayed
+5860,delayed
+5861,on time
+5862,on time
+5863,delayed
+5864,on time
+5865,on time
+5866,on time
+5867,delayed
+5868,on time
+5869,on time
+5870,on time
+5871,on time
+5872,on time
+5873,on time
+5874,on time
+5875,on time
+5876,on time
+5877,on time
+5878,on time
+5879,on time
+5880,on time
+5881,on time
+5882,on time
+5883,on time
+5884,on time
+5885,on time
+5886,on time
+5887,on time
+5888,on time
+5889,on time
+5890,on time
+5891,on time
+5892,on time
+5893,on time
+5894,on time
+5895,on time
+5896,on time
+5897,on time
+5898,on time
+5899,on time
+5900,on time
+5901,on time
+5902,on time
+5903,on time
+5904,on time
+5905,on time
+5906,on time
+5907,on time
+5908,on time
+5909,on time
+5910,on time
+5911,on time
+5912,on time
+5913,on time
+5914,on time
+5915,on time
+5916,on time
+5917,on time
+5918,on time
+5919,on time
+5920,on time
+5921,on time
+5922,on time
+5923,on time
+5924,on time
+5925,on time
+5926,on time
+5927,on time
+5928,on time
+5929,on time
+5930,on time
+5931,on time
+5932,on time
+5933,on time
+5934,on time
+5935,on time
+5936,on time
+5937,on time
+5938,on time
+5939,on time
+5940,on time
+5941,on time
+5942,on time
+5943,on time
+5944,on time
+5945,on time
+5946,on time
+5947,on time
+5948,on time
+5949,on time
+5950,on time
+5951,on time
+5952,on time
+5953,on time
+5954,on time
+5955,on time
+5956,on time
+5957,delayed
+5958,delayed
+5959,on time
+5960,on time
+5961,on time
+5962,on time
+5963,on time
+5964,on time
+5965,on time
+5966,delayed
+5967,on time
+5968,on time
+5969,delayed
+5970,on time
+5971,on time
+5972,delayed
+5973,delayed
+5974,delayed
+5975,on time
+5976,delayed
+5977,on time
+5978,delayed
+5979,delayed
+5980,delayed
+5981,on time
+5982,on time
+5983,on time
+5984,on time
+5985,on time
+5986,on time
+5987,on time
+5988,on time
+5989,on time
+5990,on time
+5991,on time
+5992,delayed
+5993,on time
+5994,on time
+5995,on time
+5996,on time
+5997,on time
+5998,on time
+5999,delayed
+6000,on time
+6001,on time
+6002,on time
+6003,delayed
+6004,on time
+6005,on time
+6006,on time
+6007,on time
+6008,on time
+6009,on time
+6010,on time
+6011,on time
+6012,on time
+6013,on time
+6014,on time
+6015,on time
+6016,on time
+6017,on time
+6018,on time
+6019,on time
+6020,on time
+6021,on time
+6022,on time
+6023,delayed
+6024,on time
+6025,on time
+6026,on time
+6027,on time
+6028,on time
+6029,on time
+6030,on time
+6031,delayed
+6032,on time
+6033,on time
+6034,delayed
+6035,on time
+6036,on time
+6037,on time
+6038,on time
+6039,on time
+6040,on time
+6041,on time
+6042,on time
+6043,on time
+6044,on time
+6045,on time
+6046,on time
+6047,on time
+6048,on time
+6049,on time
+6050,on time
+6051,on time
+6052,on time
+6053,on time
+6054,on time
+6055,on time
+6056,on time
+6057,on time
+6058,on time
+6059,on time
+6060,on time
+6061,on time
+6062,on time
+6063,on time
+6064,on time
+6065,on time
+6066,on time
+6067,on time
+6068,on time
+6069,on time
+6070,on time
+6071,on time
+6072,on time
+6073,on time
+6074,on time
+6075,on time
+6076,on time
+6077,on time
+6078,on time
+6079,on time
+6080,on time
+6081,on time
+6082,on time
+6083,on time
+6084,on time
+6085,on time
+6086,on time
+6087,on time
+6088,on time
+6089,on time
+6090,on time
+6091,on time
+6092,on time
+6093,on time
+6094,on time
+6095,on time
+6096,on time
+6097,on time
+6098,on time
+6099,on time
+6100,on time
+6101,on time
+6102,on time
+6103,on time
+6104,on time
+6105,on time
+6106,on time
+6107,on time
+6108,on time
+6109,on time
+6110,on time
+6111,on time
+6112,on time
+6113,on time
+6114,on time
+6115,on time
+6116,on time
+6117,on time
+6118,on time
+6119,on time
+6120,on time
+6121,on time
+6122,on time
+6123,on time
+6124,on time
+6125,on time
+6126,on time
+6127,on time
+6128,on time
+6129,on time
+6130,on time
+6131,on time
+6132,on time
+6133,on time
+6134,on time
+6135,on time
+6136,on time
+6137,on time
+6138,on time
+6139,on time
+6140,on time
+6141,on time
+6142,on time
+6143,on time
+6144,on time
+6145,on time
+6146,on time
+6147,on time
+6148,on time
+6149,on time
+6150,on time
+6151,delayed
+6152,delayed
+6153,delayed
+6154,delayed
+6155,delayed
+6156,on time
+6157,on time
+6158,on time
+6159,on time
+6160,on time
+6161,on time
+6162,on time
+6163,on time
+6164,on time
+6165,on time
+6166,on time
+6167,on time
+6168,on time
+6169,on time
+6170,on time
+6171,on time
+6172,delayed
+6173,delayed
+6174,on time
+6175,on time
+6176,on time
+6177,on time
+6178,delayed
+6179,delayed
+6180,on time
+6181,on time
+6182,on time
+6183,on time
+6184,on time
+6185,on time
+6186,on time
+6187,on time
+6188,delayed
+6189,on time
+6190,on time
+6191,on time
+6192,on time
+6193,on time
+6194,on time
+6195,on time
+6196,on time
+6197,on time
+6198,on time
+6199,on time
+6200,on time
+6201,on time
+6202,on time
+6203,on time
+6204,on time
+6205,on time
+6206,on time
+6207,on time
+6208,on time
+6209,on time
+6210,on time
+6211,on time
+6212,on time
+6213,on time
+6214,delayed
+6215,on time
+6216,on time
+6217,on time
+6218,delayed
+6219,on time
+6220,delayed
+6221,delayed
+6222,delayed
+6223,on time
+6224,delayed
+6225,delayed
+6226,delayed
+6227,delayed
+6228,delayed
+6229,on time
+6230,on time
+6231,on time
+6232,on time
+6233,on time
+6234,on time
+6235,on time
+6236,on time
+6237,on time
+6238,on time
+6239,on time
+6240,on time
+6241,on time
+6242,on time
+6243,on time
+6244,on time
+6245,on time
+6246,on time
+6247,on time
+6248,on time
+6249,on time
+6250,delayed
+6251,on time
+6252,delayed
+6253,delayed
+6254,on time
+6255,on time
+6256,delayed
+6257,delayed
+6258,on time
+6259,delayed
+6260,on time
+6261,delayed
+6262,delayed
+6263,delayed
+6264,delayed
+6265,delayed
+6266,delayed
+6267,delayed
+6268,on time
+6269,delayed
+6270,delayed
+6271,delayed
+6272,delayed
+6273,delayed
+6274,delayed
+6275,delayed
+6276,delayed
+6277,delayed
+6278,delayed
+6279,delayed
+6280,delayed
+6281,delayed
+6282,delayed
+6283,delayed
+6284,delayed
+6285,delayed
+6286,on time
+6287,delayed
+6288,delayed
+6289,delayed
+6290,on time
+6291,delayed
+6292,on time
+6293,delayed
+6294,on time
+6295,delayed
+6296,on time
+6297,delayed
+6298,on time
+6299,delayed
+6300,on time
+6301,delayed
+6302,delayed
+6303,on time
+6304,on time
+6305,on time
+6306,on time
+6307,on time
+6308,on time
+6309,on time
+6310,delayed
+6311,on time
+6312,on time
+6313,on time
+6314,on time
+6315,on time
+6316,on time
+6317,delayed
+6318,on time
+6319,delayed
+6320,delayed
+6321,delayed
+6322,on time
+6323,delayed
+6324,on time
+6325,on time
+6326,on time
+6327,on time
+6328,on time
+6329,on time
+6330,on time
+6331,on time
+6332,on time
+6333,on time
+6334,on time
+6335,on time
+6336,on time
+6337,on time
+6338,on time
+6339,on time
+6340,on time
+6341,on time
+6342,on time
+6343,on time
+6344,on time
+6345,on time
+6346,on time
+6347,on time
+6348,on time
+6349,on time
+6350,on time
+6351,on time
+6352,on time
+6353,on time
+6354,on time
+6355,on time
+6356,on time
+6357,on time
+6358,on time
+6359,on time
+6360,on time
+6361,on time
+6362,on time
+6363,on time
+6364,on time
+6365,on time
+6366,on time
+6367,on time
+6368,on time
+6369,on time
+6370,on time
+6371,on time
+6372,on time
+6373,on time
+6374,on time
+6375,on time
+6376,on time
+6377,on time
+6378,on time
+6379,on time
+6380,on time
+6381,on time
+6382,on time
+6383,on time
+6384,on time
+6385,on time
+6386,on time
+6387,on time
+6388,on time
+6389,on time
+6390,on time
+6391,on time
+6392,on time
+6393,on time
+6394,delayed
+6395,delayed
+6396,delayed
+6397,delayed
+6398,delayed
+6399,delayed
+6400,delayed
+6401,delayed
+6402,on time
+6403,on time
+6404,delayed
+6405,delayed
+6406,delayed
+6407,on time
+6408,on time
+6409,on time
+6410,on time
+6411,delayed
+6412,delayed
+6413,delayed
+6414,delayed
+6415,delayed
+6416,delayed
+6417,delayed
+6418,delayed
+6419,delayed
+6420,delayed
+6421,delayed
+6422,delayed
+6423,delayed
+6424,delayed
+6425,delayed
+6426,delayed
+6427,delayed
+6428,delayed
+6429,delayed
+6430,delayed
+6431,delayed
+6432,delayed
+6433,delayed
+6434,delayed
+6435,delayed
+6436,delayed
+6437,delayed
+6438,delayed
+6439,delayed
+6440,delayed
+6441,delayed
+6442,delayed
+6443,delayed
+6444,delayed
+6445,delayed
+6446,delayed
+6447,delayed
+6448,delayed
+6449,delayed
+6450,delayed
+6451,delayed
+6452,delayed
+6453,delayed
+6454,delayed
+6455,delayed
+6456,delayed
+6457,delayed
+6458,delayed
+6459,delayed
+6460,delayed
+6461,delayed
+6462,delayed
+6463,delayed
+6464,delayed
+6465,delayed
+6466,delayed
+6467,delayed
+6468,delayed
+6469,delayed
+6470,delayed
+6471,delayed
+6472,on time
+6473,delayed
+6474,delayed
+6475,delayed
+6476,on time
+6477,delayed
+6478,delayed
+6479,on time
+6480,on time
+6481,on time
+6482,on time
+6483,on time
+6484,on time
+6485,on time
+6486,on time
+6487,delayed
+6488,delayed
+6489,delayed
+6490,on time
+6491,delayed
+6492,on time
+6493,delayed
+6494,delayed
+6495,delayed
+6496,on time
+6497,on time
+6498,delayed
+6499,delayed
+6500,delayed
+6501,delayed
+6502,delayed
+6503,delayed
+6504,delayed
+6505,delayed
+6506,delayed
+6507,delayed
+6508,delayed
+6509,delayed
+6510,delayed
+6511,delayed
+6512,delayed
+6513,delayed
+6514,delayed
+6515,delayed
+6516,delayed
+6517,delayed
+6518,delayed
+6519,delayed
+6520,delayed
+6521,delayed
+6522,delayed
+6523,delayed
+6524,delayed
+6525,delayed
+6526,delayed
+6527,delayed
+6528,delayed
+6529,delayed
+6530,delayed
+6531,delayed
+6532,delayed
+6533,delayed
+6534,on time
+6535,on time
+6536,on time
+6537,on time
+6538,on time
+6539,on time
+6540,on time
+6541,on time
+6542,on time
+6543,on time
+6544,on time
+6545,on time
+6546,on time
+6547,on time
+6548,on time
+6549,on time
+6550,on time
+6551,on time
+6552,on time
+6553,on time
+6554,on time
+6555,on time
+6556,on time
+6557,on time
+6558,on time
+6559,on time
+6560,on time
+6561,on time
+6562,on time
+6563,on time
+6564,on time
+6565,on time
+6566,on time
+6567,on time
+6568,on time
+6569,on time
+6570,on time
+6571,on time
+6572,on time
+6573,on time
+6574,on time
+6575,on time
+6576,on time
+6577,on time
+6578,on time
+6579,on time
+6580,on time
+6581,on time
+6582,on time
+6583,on time
+6584,on time
+6585,on time
+6586,on time
+6587,on time
+6588,on time
+6589,on time
+6590,on time
+6591,on time
+6592,on time
+6593,on time
+6594,on time
+6595,on time
+6596,on time
+6597,on time
+6598,on time
+6599,on time
+6600,on time
+6601,on time
+6602,on time
+6603,delayed
+6604,delayed
+6605,delayed
+6606,delayed
+6607,delayed
+6608,delayed
+6609,delayed
+6610,delayed
+6611,delayed
+6612,delayed
+6613,delayed
+6614,delayed
+6615,delayed
+6616,on time
+6617,on time
+6618,on time
+6619,delayed
+6620,delayed
+6621,on time
+6622,on time
+6623,on time
+6624,delayed
+6625,on time
+6626,delayed
+6627,on time
+6628,on time
+6629,on time
+6630,on time
+6631,delayed
+6632,delayed
+6633,delayed
+6634,delayed
+6635,delayed
+6636,delayed
+6637,delayed
+6638,delayed
+6639,on time
+6640,delayed
+6641,delayed
+6642,delayed
+6643,delayed
+6644,delayed
+6645,delayed
+6646,delayed
+6647,delayed
+6648,on time
+6649,on time
+6650,delayed
+6651,delayed
+6652,on time
+6653,delayed
+6654,on time
+6655,on time
+6656,on time
+6657,on time
+6658,on time
+6659,on time
+6660,on time
+6661,on time
+6662,on time
+6663,on time
+6664,on time
+6665,on time
+6666,on time
+6667,on time
+6668,on time
+6669,on time
+6670,on time
+6671,on time
+6672,on time
+6673,on time
+6674,on time
+6675,on time
+6676,on time
+6677,on time
+6678,on time
+6679,on time
+6680,on time
+6681,on time
+6682,on time
+6683,on time
+6684,on time
+6685,on time
+6686,on time
+6687,on time
+6688,on time
+6689,on time
+6690,on time
+6691,on time
+6692,on time
+6693,on time
+6694,on time
+6695,on time
+6696,on time
+6697,on time
+6698,on time
+6699,on time
+6700,on time
+6701,on time
+6702,on time
+6703,on time
+6704,on time
+6705,on time
+6706,on time
+6707,on time
+6708,on time
+6709,on time
+6710,on time
+6711,on time
+6712,on time
+6713,on time
+6714,on time
+6715,on time
+6716,on time
+6717,on time
+6718,on time
+6719,on time
+6720,on time
+6721,on time
+6722,on time
+6723,on time
+6724,on time
+6725,on time
+6726,on time
+6727,on time
+6728,on time
+6729,on time
+6730,on time
+6731,on time
+6732,on time
+6733,on time
+6734,on time
+6735,on time
+6736,on time
+6737,on time
+6738,on time
+6739,on time
+6740,on time
+6741,on time
+6742,on time
+6743,on time
+6744,on time
+6745,on time
+6746,on time
+6747,on time
+6748,on time
+6749,on time
+6750,on time
+6751,on time
+6752,on time
+6753,on time
+6754,on time
+6755,on time
+6756,on time
+6757,on time
+6758,on time
+6759,on time
+6760,on time
+6761,on time
+6762,on time
+6763,on time
+6764,on time
+6765,on time
+6766,on time
+6767,on time
+6768,on time
+6769,on time
+6770,on time
+6771,on time
+6772,on time
+6773,on time
+6774,on time
+6775,on time
+6776,on time
+6777,on time
+6778,on time
+6779,on time
+6780,on time
+6781,on time
+6782,on time
+6783,on time
+6784,on time
+6785,on time
+6786,on time
+6787,on time
+6788,on time
+6789,on time
+6790,on time
+6791,on time
+6792,on time
+6793,on time
+6794,on time
+6795,on time
+6796,on time
+6797,on time
+6798,on time
+6799,on time
+6800,on time
+6801,on time
+6802,on time
+6803,on time
+6804,on time
+6805,on time
+6806,on time
+6807,on time
+6808,on time
+6809,on time
+6810,on time
+6811,on time
+6812,on time
+6813,on time
+6814,on time
+6815,on time
+6816,on time
+6817,on time
+6818,on time
+6819,on time
+6820,on time
+6821,on time
+6822,on time
+6823,on time
+6824,on time
+6825,on time
+6826,on time
+6827,on time
+6828,on time
+6829,on time
+6830,on time
+6831,on time
+6832,on time
+6833,on time
+6834,on time
+6835,on time
+6836,on time
+6837,on time
+6838,on time
+6839,on time
+6840,on time
+6841,on time
+6842,on time
+6843,on time
+6844,on time
+6845,on time
+6846,on time
+6847,on time
+6848,on time
+6849,on time
+6850,on time
+6851,on time
+6852,on time
+6853,on time
+6854,on time
+6855,on time
+6856,on time
+6857,on time
+6858,on time
+6859,on time
+6860,on time
+6861,on time
+6862,on time
+6863,on time
+6864,on time
+6865,delayed
+6866,on time
+6867,on time
+6868,delayed
+6869,on time
+6870,on time
+6871,on time
+6872,delayed
+6873,on time
+6874,on time
+6875,on time
+6876,on time
+6877,on time
+6878,delayed
+6879,on time
+6880,on time
+6881,on time
+6882,on time
+6883,on time
+6884,on time
+6885,on time
+6886,on time
+6887,on time
+6888,on time
+6889,on time
+6890,on time
+6891,on time
+6892,on time
+6893,on time
+6894,on time
+6895,on time
+6896,on time
+6897,on time
+6898,on time
+6899,on time
+6900,on time
+6901,on time
+6902,on time
+6903,on time
+6904,on time
+6905,on time
+6906,on time
+6907,on time
+6908,on time
+6909,on time
+6910,on time
+6911,on time
+6912,on time
+6913,on time
+6914,on time
+6915,on time
+6916,on time
+6917,on time
+6918,on time
+6919,on time
+6920,on time
+6921,on time
+6922,on time
+6923,on time
+6924,on time
+6925,on time
+6926,on time
+6927,on time
+6928,on time
+6929,on time
+6930,on time
+6931,on time
+6932,on time
+6933,on time
+6934,on time
+6935,on time
+6936,on time
+6937,on time
+6938,on time
+6939,on time
+6940,on time
+6941,on time
+6942,on time
+6943,on time
+6944,on time
+6945,on time
+6946,on time
+6947,on time
+6948,on time
+6949,on time
+6950,on time
+6951,on time
+6952,on time
+6953,on time
+6954,on time
+6955,on time
+6956,on time
+6957,on time
+6958,on time
+6959,on time
+6960,on time
+6961,on time
+6962,on time
+6963,on time
+6964,on time
+6965,on time
+6966,delayed
+6967,on time
+6968,on time
+6969,on time
+6970,on time
+6971,delayed
+6972,on time
+6973,delayed
+6974,on time
+6975,on time
+6976,on time
+6977,on time
+6978,on time
+6979,delayed
+6980,on time
+6981,on time
+6982,on time
+6983,on time
+6984,on time
+6985,on time
+6986,on time
+6987,on time
+6988,on time
+6989,on time
+6990,on time
+6991,on time
+6992,on time
+6993,on time
+6994,on time
+6995,delayed
+6996,on time
+6997,on time
+6998,on time
+6999,on time
+7000,on time
+7001,on time
+7002,on time
+7003,on time
+7004,on time
+7005,on time
+7006,on time
+7007,on time
+7008,on time
+7009,on time
+7010,on time
+7011,on time
+7012,on time
+7013,on time
+7014,on time
+7015,on time
+7016,delayed
+7017,on time
+7018,delayed
+7019,on time
+7020,on time
+7021,on time
+7022,on time
+7023,on time
+7024,on time
+7025,on time
+7026,on time
+7027,on time
+7028,on time
+7029,on time
+7030,on time
+7031,on time
+7032,on time
+7033,on time
+7034,on time
+7035,on time
+7036,on time
+7037,on time
+7038,on time
+7039,on time
+7040,on time
+7041,on time
+7042,on time
+7043,on time
+7044,on time
+7045,on time
+7046,on time
+7047,on time
+7048,on time
+7049,on time
+7050,on time
+7051,on time
+7052,on time
+7053,on time
+7054,on time
+7055,on time
+7056,on time
+7057,on time
+7058,on time
+7059,on time
+7060,on time
+7061,on time
+7062,on time
+7063,on time
+7064,on time
+7065,on time
+7066,on time
+7067,on time
+7068,on time
+7069,on time
+7070,on time
+7071,on time
+7072,on time
+7073,on time
+7074,on time
+7075,on time
+7076,on time
+7077,on time
+7078,on time
+7079,on time
+7080,on time
+7081,on time
+7082,on time
+7083,on time
+7084,on time
+7085,on time
+7086,on time
+7087,on time
+7088,on time
+7089,on time
+7090,on time
+7091,on time
+7092,on time
+7093,on time
+7094,on time
+7095,on time
+7096,on time
+7097,on time
+7098,on time
+7099,on time
+7100,on time
+7101,on time
+7102,on time
+7103,on time
+7104,on time
+7105,on time
+7106,on time
+7107,on time
+7108,on time
+7109,on time
+7110,on time
+7111,on time
+7112,on time
+7113,on time
+7114,on time
+7115,on time
+7116,on time
+7117,on time
+7118,on time
+7119,on time
+7120,on time
+7121,on time
+7122,on time
+7123,on time
+7124,on time
+7125,on time
+7126,on time
+7127,on time
+7128,on time
+7129,on time
+7130,on time
+7131,on time
+7132,on time
+7133,on time
+7134,on time
+7135,on time
+7136,on time
+7137,on time
+7138,on time
+7139,on time
+7140,on time
+7141,on time
+7142,on time
+7143,on time
+7144,on time
+7145,on time
+7146,on time
+7147,on time
+7148,on time
+7149,on time
+7150,on time
+7151,on time
+7152,on time
+7153,on time
+7154,on time
+7155,on time
+7156,on time
+7157,on time
+7158,on time
+7159,on time
+7160,on time
+7161,on time
+7162,on time
+7163,on time
+7164,on time
+7165,on time
+7166,on time
+7167,on time
+7168,on time
+7169,on time
+7170,on time
+7171,on time
+7172,on time
+7173,on time
+7174,on time
+7175,on time
+7176,on time
+7177,on time
+7178,on time
+7179,on time
+7180,on time
+7181,on time
+7182,on time
+7183,on time
+7184,on time
+7185,on time
+7186,on time
+7187,on time
+7188,on time
+7189,on time
+7190,on time
+7191,on time
+7192,on time
+7193,on time
+7194,on time
+7195,on time
+7196,on time
+7197,on time
+7198,on time
+7199,on time
+7200,on time
+7201,on time
+7202,on time
+7203,on time
+7204,on time
+7205,on time
+7206,on time
+7207,on time
+7208,on time
+7209,on time
+7210,on time
+7211,on time
+7212,on time
+7213,on time
+7214,on time
+7215,delayed
+7216,on time
+7217,on time
+7218,on time
+7219,on time
+7220,on time
+7221,on time
+7222,on time
+7223,delayed
+7224,on time
+7225,on time
+7226,on time
+7227,on time
+7228,on time
+7229,on time
+7230,on time
+7231,on time
+7232,on time
+7233,on time
+7234,on time
+7235,on time
+7236,on time
+7237,on time
+7238,on time
+7239,on time
+7240,on time
+7241,on time
+7242,delayed
+7243,on time
+7244,on time
+7245,on time
+7246,on time
+7247,on time
+7248,on time
+7249,on time
+7250,on time
+7251,on time
+7252,on time
+7253,on time
+7254,on time
+7255,delayed
+7256,on time
+7257,on time
+7258,on time
+7259,on time
+7260,on time
+7261,on time
+7262,on time
+7263,on time
+7264,on time
+7265,on time
+7266,on time
+7267,on time
+7268,on time
+7269,on time
+7270,on time
+7271,on time
+7272,on time
+7273,on time
+7274,on time
+7275,on time
+7276,on time
+7277,on time
+7278,on time
+7279,on time
+7280,on time
+7281,on time
+7282,on time
+7283,on time
+7284,on time
+7285,on time
+7286,on time
+7287,on time
+7288,on time
+7289,on time
+7290,on time
+7291,on time
+7292,on time
+7293,on time
+7294,on time
+7295,on time
+7296,on time
+7297,on time
+7298,on time
+7299,on time
+7300,on time
+7301,on time
+7302,on time
+7303,on time
+7304,on time
+7305,on time
+7306,on time
+7307,on time
+7308,on time
+7309,on time
+7310,on time
+7311,on time
+7312,on time
+7313,on time
+7314,on time
+7315,on time
+7316,on time
+7317,on time
+7318,on time
+7319,on time
+7320,on time
+7321,on time
+7322,on time
+7323,on time
+7324,on time
+7325,on time
+7326,on time
+7327,on time
+7328,on time
+7329,on time
+7330,on time
+7331,on time
+7332,on time
+7333,on time
+7334,on time
+7335,on time
+7336,on time
+7337,on time
+7338,on time
+7339,on time
+7340,on time
+7341,on time
+7342,on time
+7343,on time
+7344,on time
+7345,on time
+7346,on time
+7347,on time
+7348,on time
+7349,on time
+7350,on time
+7351,on time
+7352,on time
+7353,on time
+7354,on time
+7355,on time
+7356,on time
+7357,on time
+7358,on time
+7359,on time
+7360,on time
+7361,on time
+7362,on time
+7363,on time
+7364,on time
+7365,on time
+7366,on time
+7367,on time
+7368,on time
+7369,delayed
+7370,delayed
+7371,on time
+7372,on time
+7373,on time
+7374,delayed
+7375,on time
+7376,delayed
+7377,on time
+7378,on time
+7379,delayed
+7380,on time
+7381,on time
+7382,on time
+7383,on time
+7384,on time
+7385,delayed
+7386,on time
+7387,delayed
+7388,on time
+7389,delayed
+7390,delayed
+7391,on time
+7392,on time
+7393,delayed
+7394,delayed
+7395,delayed
+7396,delayed
+7397,delayed
+7398,delayed
+7399,delayed
+7400,delayed
+7401,delayed
+7402,delayed
+7403,on time
+7404,delayed
+7405,on time
+7406,delayed
+7407,delayed
+7408,delayed
+7409,on time
+7410,on time
+7411,on time
+7412,on time
+7413,on time
+7414,on time
+7415,on time
+7416,on time
+7417,on time
+7418,on time
+7419,on time
+7420,on time
+7421,on time
+7422,on time
+7423,on time
+7424,on time
+7425,on time
+7426,on time
+7427,on time
+7428,on time
+7429,on time
+7430,on time
+7431,on time
+7432,on time
+7433,on time
+7434,on time
+7435,on time
+7436,on time
+7437,on time
+7438,on time
+7439,on time
+7440,on time
+7441,on time
+7442,on time
+7443,on time
+7444,on time
+7445,on time
+7446,on time
+7447,delayed
+7448,delayed
+7449,on time
+7450,delayed
+7451,delayed
+7452,delayed
+7453,delayed
+7454,delayed
+7455,on time
+7456,delayed
+7457,delayed
+7458,delayed
+7459,delayed
+7460,delayed
+7461,on time
+7462,on time
+7463,on time
+7464,on time
+7465,on time
+7466,delayed
+7467,on time
+7468,on time
+7469,on time
+7470,delayed
+7471,on time
+7472,on time
+7473,on time
+7474,on time
+7475,on time
+7476,on time
+7477,on time
+7478,on time
+7479,on time
+7480,delayed
+7481,delayed
+7482,delayed
+7483,delayed
+7484,delayed
+7485,delayed
+7486,delayed
+7487,delayed
+7488,delayed
+7489,delayed
+7490,delayed
+7491,delayed
+7492,delayed
+7493,delayed
+7494,delayed
+7495,delayed
+7496,delayed
+7497,delayed
+7498,delayed
+7499,delayed
+7500,delayed
+7501,delayed
+7502,delayed
+7503,delayed
+7504,delayed
+7505,delayed
+7506,delayed
+7507,delayed
+7508,delayed
+7509,delayed
+7510,delayed
+7511,delayed
+7512,delayed
+7513,delayed
+7514,delayed
+7515,delayed
+7516,delayed
+7517,delayed
+7518,delayed
+7519,delayed
+7520,delayed
+7521,delayed
+7522,delayed
+7523,delayed
+7524,delayed
+7525,delayed
+7526,delayed
+7527,delayed
+7528,delayed
+7529,delayed
+7530,delayed
+7531,delayed
+7532,delayed
+7533,delayed
+7534,delayed
+7535,delayed
+7536,delayed
+7537,delayed
+7538,delayed
+7539,delayed
+7540,delayed
+7541,delayed
+7542,delayed
+7543,delayed
+7544,delayed
+7545,delayed
+7546,delayed
+7547,delayed
+7548,delayed
+7549,delayed
+7550,delayed
+7551,delayed
+7552,delayed
+7553,delayed
+7554,on time
+7555,on time
+7556,on time
+7557,on time
+7558,on time
+7559,on time
+7560,on time
+7561,on time
+7562,on time
+7563,on time
+7564,on time
+7565,on time
+7566,on time
+7567,on time
+7568,on time
+7569,on time
+7570,on time
+7571,on time
+7572,on time
+7573,on time
+7574,on time
+7575,on time
+7576,on time
+7577,on time
+7578,on time
+7579,on time
+7580,on time
+7581,on time
+7582,on time
+7583,on time
+7584,on time
+7585,on time
+7586,on time
+7587,on time
+7588,on time
+7589,on time
+7590,on time
+7591,on time
+7592,on time
+7593,on time
+7594,on time
+7595,on time
+7596,on time
+7597,on time
+7598,on time
+7599,delayed
+7600,delayed
+7601,delayed
+7602,delayed
+7603,delayed
+7604,delayed
+7605,delayed
+7606,delayed
+7607,delayed
+7608,delayed
+7609,delayed
+7610,delayed
+7611,delayed
+7612,delayed
+7613,delayed
+7614,delayed
+7615,delayed
+7616,delayed
+7617,delayed
+7618,delayed
+7619,delayed
+7620,delayed
+7621,delayed
+7622,delayed
+7623,on time
+7624,on time
+7625,delayed
+7626,on time
+7627,on time
+7628,on time
+7629,on time
+7630,delayed
+7631,on time
+7632,on time
+7633,delayed
+7634,on time
+7635,on time
+7636,on time
+7637,on time
+7638,on time
+7639,on time
+7640,on time
+7641,on time
+7642,on time
+7643,on time
+7644,on time
+7645,on time
+7646,on time
+7647,on time
+7648,on time
+7649,on time
+7650,on time
+7651,on time
+7652,on time
+7653,on time
+7654,on time
+7655,on time
+7656,on time
+7657,on time
+7658,on time
+7659,on time
+7660,on time
+7661,on time
+7662,on time
+7663,on time
+7664,on time
+7665,on time
+7666,on time
+7667,on time
+7668,on time
+7669,on time
+7670,on time
+7671,on time
+7672,on time
+7673,on time
+7674,on time
+7675,on time
+7676,on time
+7677,delayed
+7678,delayed
+7679,delayed
+7680,delayed
+7681,delayed
+7682,delayed
+7683,delayed
+7684,delayed
+7685,delayed
+7686,delayed
+7687,delayed
+7688,delayed
+7689,delayed
+7690,delayed
+7691,on time
+7692,delayed
+7693,delayed
+7694,delayed
+7695,delayed
+7696,delayed
+7697,delayed
+7698,delayed
+7699,delayed
+7700,on time
+7701,delayed
+7702,on time
+7703,on time
+7704,on time
+7705,on time
+7706,on time
+7707,on time
+7708,on time
+7709,on time
+7710,on time
+7711,on time
+7712,on time
+7713,on time
+7714,on time
+7715,on time
+7716,on time
+7717,on time
+7718,on time
+7719,on time
+7720,on time
+7721,on time
+7722,on time
+7723,on time
+7724,on time
+7725,on time
+7726,on time
+7727,on time
+7728,on time
+7729,on time
+7730,on time
+7731,on time
+7732,on time
+7733,on time
+7734,on time
+7735,on time
+7736,on time
+7737,on time
+7738,on time
+7739,on time
+7740,on time
+7741,on time
+7742,on time
+7743,on time
+7744,on time
+7745,on time
+7746,on time
+7747,on time
+7748,on time
+7749,on time
+7750,on time
+7751,on time
+7752,on time
+7753,delayed
+7754,on time
+7755,on time
+7756,on time
+7757,on time
+7758,on time
+7759,on time
+7760,on time
+7761,on time
+7762,on time
+7763,on time
+7764,on time
+7765,on time
+7766,on time
+7767,on time
+7768,on time
+7769,on time
+7770,on time
+7771,on time
+7772,on time
+7773,on time
+7774,on time
+7775,on time
+7776,on time
+7777,on time
+7778,on time
+7779,on time
+7780,on time
+7781,on time
+7782,on time
+7783,on time
+7784,on time
+7785,on time
+7786,delayed
+7787,delayed
+7788,on time
+7789,delayed
+7790,on time
+7791,delayed
+7792,on time
+7793,on time
+7794,delayed
+7795,delayed
+7796,delayed
+7797,delayed
+7798,delayed
+7799,delayed
+7800,delayed
+7801,delayed
+7802,delayed
+7803,delayed
+7804,delayed
+7805,delayed
+7806,delayed
+7807,delayed
+7808,delayed
+7809,delayed
+7810,delayed
+7811,delayed
+7812,delayed
+7813,delayed
+7814,delayed
+7815,delayed
+7816,delayed
+7817,delayed
+7818,delayed
+7819,delayed
+7820,delayed
+7821,delayed
+7822,delayed
+7823,delayed
+7824,delayed
+7825,delayed
+7826,delayed
+7827,delayed
+7828,delayed
+7829,delayed
+7830,delayed
+7831,on time
+7832,on time
+7833,on time
+7834,on time
+7835,on time
+7836,on time
+7837,on time
+7838,on time
+7839,on time
+7840,on time
+7841,on time
+7842,on time
+7843,on time
+7844,on time
+7845,on time
+7846,on time
+7847,on time
+7848,on time
+7849,on time
+7850,on time
+7851,on time
+7852,on time
+7853,on time
+7854,on time
+7855,on time
+7856,on time
+7857,on time
+7858,on time
+7859,delayed
+7860,on time
+7861,on time
+7862,on time
+7863,on time
+7864,on time
+7865,on time
+7866,on time
+7867,on time
+7868,on time
+7869,on time
+7870,on time
+7871,on time
+7872,on time
+7873,on time
+7874,on time
+7875,on time
+7876,on time
+7877,on time
+7878,on time
+7879,on time
+7880,on time
+7881,on time
+7882,on time
+7883,on time
+7884,delayed
+7885,delayed
+7886,delayed
+7887,delayed
+7888,delayed
+7889,delayed
+7890,delayed
+7891,delayed
+7892,on time
+7893,delayed
+7894,delayed
+7895,delayed
+7896,delayed
+7897,on time
+7898,delayed
+7899,on time
+7900,delayed
+7901,delayed
+7902,delayed
+7903,delayed
+7904,delayed
+7905,delayed
+7906,delayed
+7907,delayed
+7908,delayed
+7909,delayed
+7910,delayed
+7911,delayed
+7912,delayed
+7913,delayed
+7914,delayed
+7915,delayed
+7916,delayed
+7917,delayed
+7918,delayed
+7919,delayed
+7920,delayed
+7921,delayed
+7922,delayed
+7923,on time
+7924,on time
+7925,delayed
+7926,delayed
+7927,delayed
+7928,on time
+7929,on time
+7930,on time
+7931,on time
+7932,on time
+7933,on time
+7934,on time
+7935,on time
+7936,on time
+7937,on time
+7938,on time
+7939,on time
+7940,on time
+7941,on time
+7942,on time
+7943,on time
+7944,on time
+7945,on time
+7946,on time
+7947,on time
+7948,on time
+7949,on time
+7950,on time
+7951,on time
+7952,on time
+7953,on time
+7954,on time
+7955,delayed
+7956,delayed
+7957,delayed
+7958,delayed
+7959,delayed
+7960,delayed
+7961,delayed
+7962,delayed
+7963,delayed
+7964,delayed
+7965,delayed
+7966,delayed
+7967,delayed
+7968,delayed
+7969,delayed
+7970,on time
+7971,on time
+7972,on time
+7973,delayed
+7974,delayed
+7975,delayed
+7976,delayed
+7977,delayed
+7978,on time
+7979,delayed
+7980,on time
+7981,delayed
+7982,delayed
+7983,on time
+7984,delayed
+7985,on time
+7986,on time
+7987,delayed
+7988,on time
+7989,delayed
+7990,delayed
+7991,delayed
+7992,delayed
+7993,delayed
+7994,delayed
+7995,delayed
+7996,on time
+7997,delayed
+7998,delayed
+7999,delayed
+8000,delayed
+8001,delayed
+8002,delayed
+8003,delayed
+8004,delayed
+8005,delayed
+8006,delayed
+8007,delayed
+8008,delayed
+8009,delayed
+8010,delayed
+8011,on time
+8012,on time
+8013,on time
+8014,on time
+8015,on time
+8016,on time
+8017,on time
+8018,on time
+8019,on time
+8020,on time
+8021,on time
+8022,on time
+8023,on time
+8024,on time
+8025,on time
+8026,on time
+8027,on time
+8028,on time
+8029,on time
+8030,on time
+8031,on time
+8032,on time
+8033,on time
+8034,on time
+8035,on time
+8036,on time
+8037,on time
+8038,on time
+8039,on time
+8040,on time
+8041,on time
+8042,on time
+8043,on time
+8044,on time
+8045,on time
+8046,on time
+8047,on time
+8048,on time
+8049,on time
+8050,on time
+8051,on time
+8052,on time
+8053,on time
+8054,on time
+8055,on time
+8056,on time
+8057,on time
+8058,on time
+8059,on time
+8060,on time
+8061,on time
+8062,on time
+8063,on time
+8064,on time
+8065,on time
+8066,on time
+8067,on time
+8068,on time
+8069,on time
+8070,on time
+8071,on time
+8072,on time
+8073,on time
+8074,on time
+8075,on time
+8076,on time
+8077,on time
+8078,on time
+8079,on time
+8080,on time
+8081,on time
+8082,on time
+8083,on time
+8084,on time
+8085,on time
+8086,delayed
+8087,delayed
+8088,delayed
+8089,delayed
+8090,delayed
+8091,delayed
+8092,delayed
+8093,delayed
+8094,delayed
+8095,delayed
+8096,delayed
+8097,delayed
+8098,delayed
+8099,delayed
+8100,delayed
+8101,delayed
+8102,delayed
+8103,delayed
+8104,delayed
+8105,delayed
+8106,delayed
+8107,delayed
+8108,delayed
+8109,delayed
+8110,delayed
+8111,delayed
+8112,delayed
+8113,delayed
+8114,on time
+8115,on time
+8116,on time
+8117,on time
+8118,on time
+8119,on time
+8120,on time
+8121,on time
+8122,on time
+8123,on time
+8124,on time
+8125,on time
+8126,on time
+8127,on time
+8128,on time
+8129,on time
+8130,on time
+8131,on time
+8132,on time
+8133,on time
+8134,on time
+8135,on time
+8136,on time
+8137,on time
+8138,on time
+8139,on time
+8140,on time
+8141,on time
+8142,on time
+8143,on time
+8144,on time
+8145,on time
+8146,on time
+8147,on time
+8148,on time
+8149,on time
+8150,on time
+8151,on time
+8152,on time
+8153,on time
+8154,on time
+8155,on time
+8156,on time
+8157,on time
+8158,on time
+8159,on time
+8160,on time
+8161,on time
+8162,on time
+8163,on time
+8164,on time
+8165,on time
+8166,on time
+8167,on time
+8168,on time
+8169,on time
+8170,on time
+8171,on time
+8172,on time
+8173,on time
+8174,on time
+8175,on time
+8176,on time
+8177,on time
+8178,on time
+8179,on time
+8180,on time
+8181,on time
+8182,on time
+8183,on time
+8184,on time
+8185,delayed
+8186,on time
+8187,on time
+8188,on time
+8189,delayed
+8190,delayed
+8191,delayed
+8192,delayed
+8193,delayed
+8194,delayed
+8195,delayed
+8196,delayed
+8197,delayed
+8198,delayed
+8199,delayed
+8200,delayed
+8201,delayed
+8202,delayed
+8203,delayed
+8204,delayed
+8205,delayed
+8206,delayed
+8207,delayed
+8208,delayed
+8209,delayed
+8210,delayed
+8211,delayed
+8212,delayed
+8213,delayed
+8214,delayed
+8215,on time
+8216,on time
+8217,on time
+8218,on time
+8219,on time
+8220,on time
+8221,on time
+8222,on time
+8223,on time
+8224,on time
+8225,on time
+8226,on time
+8227,on time
+8228,on time
+8229,on time
+8230,on time
+8231,on time
+8232,on time
+8233,on time
+8234,on time
+8235,on time
+8236,on time
+8237,on time
+8238,on time
+8239,on time
+8240,on time
+8241,on time
+8242,on time
+8243,on time
+8244,on time
+8245,on time
+8246,on time
+8247,on time
+8248,on time
+8249,on time
+8250,on time
+8251,on time
+8252,on time
+8253,on time
+8254,delayed
+8255,on time
+8256,on time
+8257,delayed
+8258,delayed
+8259,on time
+8260,delayed
+8261,on time
+8262,on time
+8263,on time
+8264,on time
+8265,on time
+8266,delayed
+8267,on time
+8268,on time
+8269,on time
+8270,on time
+8271,delayed
+8272,on time
+8273,on time
+8274,on time
+8275,on time
+8276,on time
+8277,on time
+8278,on time
+8279,on time
+8280,on time
+8281,on time
+8282,on time
+8283,delayed
+8284,on time
+8285,on time
+8286,on time
+8287,on time
+8288,on time
+8289,on time
+8290,on time
+8291,on time
+8292,on time
+8293,on time
+8294,on time
+8295,on time
+8296,on time
+8297,on time
+8298,on time
+8299,on time
+8300,on time
+8301,on time
+8302,on time
+8303,on time
+8304,on time
+8305,on time
+8306,on time
+8307,on time
+8308,on time
+8309,on time
+8310,on time
+8311,on time
+8312,on time
+8313,on time
+8314,on time
+8315,on time
+8316,on time
+8317,on time
+8318,on time
+8319,on time
+8320,on time
+8321,on time
+8322,on time
+8323,on time
+8324,on time
+8325,on time
+8326,on time
+8327,on time
+8328,on time
+8329,on time
+8330,on time
+8331,on time
+8332,on time
+8333,delayed
+8334,on time
+8335,on time
+8336,on time
+8337,on time
+8338,on time
+8339,on time
+8340,on time
+8341,on time
+8342,on time
+8343,on time
+8344,on time
+8345,on time
+8346,on time
+8347,on time
+8348,on time
+8349,on time
+8350,on time
+8351,on time
+8352,on time
+8353,on time
+8354,on time
+8355,on time
+8356,on time
+8357,on time
+8358,on time
+8359,on time
+8360,on time
+8361,on time
+8362,on time
+8363,on time
+8364,on time
+8365,on time
+8366,on time
+8367,on time
+8368,on time
+8369,on time
+8370,on time
+8371,on time
+8372,on time
+8373,on time
+8374,on time
+8375,on time
+8376,on time
+8377,on time
+8378,on time
+8379,on time
+8380,on time
+8381,on time
+8382,on time
+8383,on time
+8384,on time
+8385,on time
+8386,on time
+8387,on time
+8388,on time
+8389,on time
+8390,on time
+8391,on time
+8392,on time
+8393,on time
+8394,on time
+8395,on time
+8396,on time
+8397,on time
+8398,on time
+8399,on time
+8400,on time
+8401,on time
+8402,on time
+8403,on time
+8404,on time
+8405,on time
+8406,on time
+8407,on time
+8408,on time
+8409,on time
+8410,on time
+8411,on time
+8412,on time
+8413,on time
+8414,on time
+8415,on time
+8416,on time
+8417,on time
+8418,on time
+8419,on time
+8420,on time
+8421,on time
+8422,on time
+8423,on time
+8424,on time
+8425,on time
+8426,on time
+8427,on time
+8428,on time
+8429,on time
+8430,on time
+8431,on time
+8432,on time
+8433,on time
+8434,on time
+8435,on time
+8436,on time
+8437,on time
+8438,on time
+8439,on time
+8440,on time
+8441,on time
+8442,on time
+8443,on time
+8444,on time
+8445,on time
+8446,on time
+8447,on time
+8448,on time
+8449,on time
+8450,on time
+8451,on time
+8452,on time
+8453,on time
+8454,on time
+8455,on time
+8456,on time
+8457,on time
+8458,on time
+8459,on time
+8460,on time
+8461,on time
+8462,on time
+8463,on time
+8464,on time
+8465,on time
+8466,delayed
+8467,on time
+8468,on time
+8469,on time
+8470,on time
+8471,on time
+8472,on time
+8473,on time
+8474,on time
+8475,on time
+8476,on time
+8477,on time
+8478,on time
+8479,delayed
+8480,on time
+8481,on time
+8482,on time
+8483,on time
+8484,on time
+8485,on time
+8486,on time
+8487,on time
+8488,on time
+8489,on time
+8490,on time
+8491,on time
+8492,on time
+8493,on time
+8494,on time
+8495,on time
+8496,on time
+8497,on time
+8498,on time
+8499,on time
+8500,on time
+8501,on time
+8502,on time
+8503,on time
+8504,on time
+8505,on time
+8506,on time
+8507,on time
+8508,on time
+8509,on time
+8510,on time
+8511,on time
+8512,on time
+8513,on time
+8514,on time
+8515,on time
+8516,on time
+8517,on time
+8518,on time
+8519,on time
+8520,on time
+8521,on time
+8522,on time
+8523,on time
+8524,on time
+8525,on time
+8526,on time
+8527,on time
+8528,on time
+8529,on time
+8530,on time
+8531,on time
+8532,on time
+8533,on time
+8534,on time
+8535,on time
+8536,on time
+8537,on time
+8538,on time
+8539,on time
+8540,on time
+8541,on time
+8542,on time
+8543,on time
+8544,on time
+8545,on time
+8546,on time
+8547,on time
+8548,on time
+8549,on time
+8550,on time
+8551,on time
+8552,on time
+8553,on time
+8554,on time
+8555,on time
+8556,on time
+8557,on time
+8558,on time
+8559,on time
+8560,on time
+8561,on time
+8562,on time
+8563,on time
+8564,on time
+8565,on time
+8566,on time
+8567,on time
+8568,on time
+8569,on time
+8570,on time
+8571,on time
+8572,on time
+8573,on time
+8574,on time
+8575,on time
+8576,on time
+8577,on time
+8578,on time
+8579,on time
+8580,on time
+8581,delayed
+8582,on time
+8583,on time
+8584,on time
+8585,on time
+8586,on time
+8587,on time
+8588,on time
+8589,on time
+8590,on time
+8591,on time
+8592,on time
+8593,on time
+8594,on time
+8595,on time
+8596,on time
+8597,on time
+8598,on time
+8599,on time
+8600,on time
+8601,on time
+8602,on time
+8603,on time
+8604,on time
+8605,on time
+8606,on time
+8607,on time
+8608,on time
+8609,on time
+8610,on time
+8611,on time
+8612,on time
+8613,on time
+8614,on time
+8615,on time
+8616,on time
+8617,on time
+8618,on time
+8619,on time
+8620,on time
+8621,on time
+8622,on time
+8623,on time
+8624,on time
+8625,on time
+8626,on time
+8627,on time
+8628,on time
+8629,on time
+8630,on time
+8631,on time
+8632,on time
+8633,on time
+8634,on time
+8635,on time
+8636,on time
+8637,on time
+8638,on time
+8639,on time
+8640,on time
+8641,on time
+8642,on time
+8643,on time
+8644,on time
+8645,on time
+8646,on time
+8647,on time
+8648,on time
+8649,on time
+8650,on time
+8651,on time
+8652,on time
+8653,on time
+8654,on time
+8655,on time
+8656,on time
+8657,on time
+8658,on time
+8659,on time
+8660,on time
+8661,on time
+8662,on time
+8663,on time
+8664,on time
+8665,on time
+8666,on time
+8667,on time
+8668,on time
+8669,on time
+8670,on time
+8671,on time
+8672,on time
+8673,on time
+8674,on time
+8675,on time
+8676,on time
+8677,on time
+8678,on time
+8679,on time
+8680,on time
+8681,on time
+8682,on time
+8683,on time
+8684,on time
+8685,on time
+8686,on time
+8687,on time
+8688,on time
+8689,on time
+8690,on time
+8691,on time
+8692,on time
+8693,on time
+8694,on time
+8695,on time
+8696,on time
+8697,on time
+8698,on time
+8699,on time
+8700,on time
+8701,on time
+8702,on time
+8703,on time
+8704,on time
+8705,on time
+8706,on time
+8707,on time
+8708,on time
+8709,on time
+8710,on time
+8711,on time
+8712,on time
+8713,on time
+8714,on time
+8715,on time
+8716,on time
+8717,on time
+8718,on time
+8719,on time
+8720,on time
+8721,on time
+8722,on time
+8723,on time
+8724,on time
+8725,on time
+8726,on time
+8727,on time
+8728,on time
+8729,on time
+8730,on time
+8731,on time
+8732,on time
+8733,on time
+8734,on time
+8735,on time
+8736,on time
+8737,on time
+8738,on time
+8739,on time
+8740,on time
+8741,on time
+8742,on time
+8743,on time
+8744,delayed
+8745,on time
+8746,on time
+8747,on time
+8748,on time
+8749,on time
+8750,on time
+8751,on time
+8752,on time
+8753,on time
+8754,on time
+8755,on time
+8756,on time
+8757,on time
+8758,on time
+8759,on time
+8760,on time
+8761,delayed
+8762,delayed
+8763,delayed
+8764,delayed
+8765,on time
+8766,on time
+8767,on time
+8768,delayed
+8769,on time
+8770,on time
+8771,delayed
+8772,on time
+8773,on time
+8774,on time
+8775,on time
+8776,on time
+8777,delayed
+8778,on time
+8779,on time
+8780,on time
+8781,on time
+8782,on time
+8783,on time
+8784,on time
+8785,on time
+8786,on time
+8787,on time
+8788,on time
+8789,on time
+8790,on time
+8791,on time
+8792,on time
+8793,on time
+8794,on time
+8795,on time
+8796,on time
+8797,on time
+8798,on time
+8799,on time
+8800,on time
+8801,on time
+8802,on time
+8803,on time
+8804,on time
+8805,on time
+8806,on time
+8807,on time
+8808,on time
+8809,on time
+8810,on time
+8811,on time
+8812,on time
+8813,on time
+8814,on time
+8815,on time
+8816,on time
+8817,on time
+8818,on time
+8819,on time
+8820,on time
+8821,on time
+8822,on time
+8823,on time
+8824,on time
+8825,on time
+8826,on time
+8827,on time
+8828,on time
+8829,on time
+8830,on time
+8831,on time
+8832,on time
+8833,on time
+8834,on time
+8835,on time
+8836,on time
+8837,on time
+8838,on time
+8839,on time
+8840,on time
+8841,on time
+8842,on time
+8843,on time
+8844,on time
+8845,on time
+8846,on time
+8847,on time
+8848,on time
+8849,on time
+8850,on time
+8851,on time
+8852,on time
+8853,on time
+8854,on time
+8855,on time
+8856,on time
+8857,on time
+8858,on time
+8859,on time
+8860,on time
+8861,on time
+8862,on time
+8863,on time
+8864,on time
+8865,on time
+8866,on time
+8867,on time
+8868,on time
+8869,on time
+8870,on time
+8871,on time
+8872,on time
+8873,on time
+8874,on time
+8875,on time
+8876,on time
+8877,on time
+8878,on time
+8879,on time
+8880,on time
+8881,on time
+8882,on time
+8883,on time
+8884,on time
+8885,on time
+8886,on time
+8887,on time
+8888,on time
+8889,on time
+8890,on time
+8891,on time
+8892,on time
+8893,on time
+8894,on time
+8895,on time
+8896,on time
+8897,on time
+8898,on time
+8899,on time
+8900,on time
+8901,delayed
+8902,on time
+8903,on time
+8904,on time
+8905,on time
+8906,on time
+8907,on time
+8908,on time
+8909,on time
+8910,on time
+8911,delayed
+8912,delayed
+8913,on time
+8914,on time
+8915,on time
+8916,delayed
+8917,on time
+8918,delayed
+8919,delayed
+8920,on time
+8921,on time
+8922,on time
+8923,on time
+8924,on time
+8925,on time
+8926,on time
+8927,on time
+8928,on time
+8929,on time
+8930,on time
+8931,on time
+8932,on time
+8933,on time
+8934,on time
+8935,delayed
+8936,on time
+8937,on time
+8938,on time
+8939,on time
+8940,on time
+8941,on time
+8942,on time
+8943,on time
+8944,on time
+8945,delayed
+8946,on time
+8947,on time
+8948,on time
+8949,delayed
+8950,delayed
+8951,delayed
+8952,delayed
+8953,delayed
+8954,delayed
+8955,on time
+8956,on time
+8957,delayed
+8958,on time
+8959,delayed
+8960,delayed
+8961,delayed
+8962,delayed
+8963,delayed
+8964,delayed
+8965,delayed
+8966,on time
+8967,delayed
+8968,delayed
+8969,delayed
+8970,delayed
+8971,delayed
+8972,delayed
+8973,delayed
+8974,delayed
+8975,delayed
+8976,delayed
+8977,delayed
+8978,delayed
+8979,delayed
+8980,delayed
+8981,delayed
+8982,delayed
+8983,delayed
+8984,delayed
+8985,delayed
+8986,delayed
+8987,delayed
+8988,delayed
+8989,delayed
+8990,delayed
+8991,delayed
+8992,delayed
+8993,delayed
+8994,delayed
+8995,delayed
+8996,delayed
+8997,delayed
+8998,delayed
+8999,delayed
+9000,delayed
+9001,delayed
+9002,delayed
+9003,delayed
+9004,delayed
+9005,delayed
+9006,delayed
+9007,delayed
+9008,delayed
+9009,delayed
+9010,delayed
+9011,delayed
+9012,delayed
+9013,delayed
+9014,delayed
+9015,delayed
+9016,delayed
+9017,delayed
+9018,delayed
+9019,delayed
+9020,delayed
+9021,delayed
+9022,delayed
+9023,delayed
+9024,delayed
+9025,delayed
+9026,delayed
+9027,delayed
+9028,delayed
+9029,delayed
+9030,delayed
+9031,delayed
+9032,delayed
+9033,delayed
+9034,delayed
+9035,delayed
+9036,delayed
+9037,delayed
+9038,delayed
+9039,delayed
+9040,delayed
+9041,delayed
+9042,delayed
+9043,delayed
+9044,delayed
+9045,delayed
+9046,on time
+9047,on time
+9048,on time
+9049,on time
+9050,on time
+9051,delayed
+9052,on time
+9053,delayed
+9054,on time
+9055,delayed
+9056,delayed
+9057,delayed
+9058,on time
+9059,delayed
+9060,on time
+9061,on time
+9062,delayed
+9063,on time
+9064,delayed
+9065,delayed
+9066,on time
+9067,on time
+9068,on time
+9069,delayed
+9070,on time
+9071,delayed
+9072,delayed
+9073,on time
+9074,on time
+9075,on time
+9076,on time
+9077,on time
+9078,on time
+9079,on time
+9080,on time
+9081,on time
+9082,on time
+9083,on time
+9084,on time
+9085,on time
+9086,on time
+9087,on time
+9088,on time
+9089,on time
+9090,on time
+9091,on time
+9092,on time
+9093,on time
+9094,on time
+9095,on time
+9096,on time
+9097,on time
+9098,on time
+9099,on time
+9100,on time
+9101,on time
+9102,on time
+9103,on time
+9104,on time
+9105,on time
+9106,on time
+9107,on time
+9108,on time
+9109,on time
+9110,on time
+9111,on time
+9112,on time
+9113,on time
+9114,on time
+9115,on time
+9116,on time
+9117,on time
+9118,on time
+9119,on time
+9120,on time
+9121,on time
+9122,on time
+9123,on time
+9124,on time
+9125,on time
+9126,on time
+9127,on time
+9128,on time
+9129,on time
+9130,on time
+9131,on time
+9132,on time
+9133,on time
+9134,on time
+9135,on time
+9136,on time
+9137,on time
+9138,on time
+9139,on time
+9140,on time
+9141,on time
+9142,on time
+9143,on time
+9144,on time
+9145,on time
+9146,on time
+9147,on time
+9148,on time
+9149,on time
+9150,on time
+9151,on time
+9152,on time
+9153,on time
+9154,delayed
+9155,on time
+9156,on time
+9157,on time
+9158,on time
+9159,on time
+9160,on time
+9161,on time
+9162,on time
+9163,on time
+9164,on time
+9165,on time
+9166,on time
+9167,on time
+9168,on time
+9169,on time
+9170,on time
+9171,on time
+9172,on time
+9173,on time
+9174,on time
+9175,on time
+9176,on time
+9177,on time
+9178,on time
+9179,on time
+9180,on time
+9181,on time
+9182,on time
+9183,on time
+9184,on time
+9185,delayed
+9186,delayed
+9187,delayed
+9188,delayed
+9189,delayed
+9190,delayed
+9191,delayed
+9192,delayed
+9193,delayed
+9194,delayed
+9195,delayed
+9196,delayed
+9197,delayed
+9198,delayed
+9199,delayed
+9200,delayed
+9201,delayed
+9202,delayed
+9203,delayed
+9204,delayed
+9205,delayed
+9206,delayed
+9207,delayed
+9208,delayed
+9209,delayed
+9210,delayed
+9211,delayed
+9212,delayed
+9213,delayed
+9214,delayed
+9215,delayed
+9216,delayed
+9217,delayed
+9218,delayed
+9219,delayed
+9220,delayed
+9221,delayed
+9222,on time
+9223,on time
+9224,on time
+9225,on time
+9226,on time
+9227,on time
+9228,on time
+9229,on time
+9230,on time
+9231,on time
+9232,on time
+9233,on time
+9234,on time
+9235,on time
+9236,on time
+9237,on time
+9238,on time
+9239,on time
+9240,on time
+9241,delayed
+9242,on time
+9243,delayed
+9244,delayed
+9245,delayed
+9246,on time
+9247,delayed
+9248,on time
+9249,on time
+9250,on time
+9251,on time
+9252,on time
+9253,on time
+9254,on time
+9255,delayed
+9256,delayed
+9257,delayed
+9258,on time
+9259,delayed
+9260,on time
+9261,on time
+9262,on time
+9263,on time
+9264,on time
+9265,on time
+9266,on time
+9267,on time
+9268,on time
+9269,on time
+9270,on time
+9271,on time
+9272,on time
+9273,on time
+9274,on time
+9275,delayed
+9276,delayed
+9277,on time
+9278,on time
+9279,on time
+9280,on time
+9281,on time
+9282,on time
+9283,on time
+9284,on time
+9285,on time
+9286,on time
+9287,on time
+9288,on time
+9289,on time
+9290,on time
+9291,on time
+9292,on time
+9293,on time
+9294,on time
+9295,on time
+9296,on time
+9297,on time
+9298,delayed
+9299,on time
+9300,on time
+9301,on time
+9302,on time
+9303,on time
+9304,on time
+9305,on time
+9306,delayed
+9307,on time
+9308,delayed
+9309,delayed
+9310,on time
+9311,on time
+9312,on time
+9313,delayed
+9314,on time
+9315,on time
+9316,delayed
+9317,on time
+9318,on time
+9319,on time
+9320,on time
+9321,on time
+9322,on time
+9323,on time
+9324,on time
+9325,on time
+9326,on time
+9327,delayed
+9328,delayed
+9329,delayed
+9330,delayed
+9331,delayed
+9332,delayed
+9333,delayed
+9334,delayed
+9335,delayed
+9336,delayed
+9337,delayed
+9338,delayed
+9339,delayed
+9340,delayed
+9341,delayed
+9342,delayed
+9343,delayed
+9344,delayed
+9345,delayed
+9346,delayed
+9347,delayed
+9348,delayed
+9349,delayed
+9350,delayed
+9351,delayed
+9352,delayed
+9353,delayed
+9354,delayed
+9355,delayed
+9356,delayed
+9357,delayed
+9358,delayed
+9359,delayed
+9360,on time
+9361,on time
+9362,on time
+9363,on time
+9364,on time
+9365,on time
+9366,on time
+9367,on time
+9368,on time
+9369,on time
+9370,on time
+9371,on time
+9372,on time
+9373,on time
+9374,on time
+9375,on time
+9376,on time
+9377,on time
+9378,on time
+9379,on time
+9380,on time
+9381,on time
+9382,on time
+9383,on time
+9384,delayed
+9385,on time
+9386,on time
+9387,on time
+9388,on time
+9389,delayed
+9390,delayed
+9391,delayed
+9392,on time
+9393,delayed
+9394,delayed
+9395,delayed
+9396,delayed
+9397,delayed
+9398,delayed
+9399,delayed
+9400,delayed
+9401,on time
+9402,on time
+9403,on time
+9404,on time
+9405,on time
+9406,on time
+9407,on time
+9408,on time
+9409,on time
+9410,on time
+9411,on time
+9412,on time
+9413,delayed
+9414,delayed
+9415,delayed
+9416,on time
+9417,on time
+9418,on time
+9419,on time
+9420,on time
+9421,on time
+9422,on time
+9423,on time
+9424,on time
+9425,on time
+9426,on time
+9427,delayed
+9428,on time
+9429,delayed
+9430,delayed
+9431,delayed
+9432,on time
+9433,on time
+9434,delayed
+9435,on time
+9436,on time
+9437,on time
+9438,on time
+9439,on time
+9440,on time
+9441,on time
+9442,on time
+9443,on time
+9444,on time
+9445,on time
+9446,on time
+9447,on time
+9448,on time
+9449,on time
+9450,on time
+9451,on time
+9452,on time
+9453,on time
+9454,on time
+9455,on time
+9456,on time
+9457,on time
+9458,on time
+9459,on time
+9460,on time
+9461,on time
+9462,on time
+9463,on time
+9464,on time
+9465,on time
+9466,on time
+9467,on time
+9468,on time
+9469,on time
+9470,on time
+9471,on time
+9472,on time
+9473,on time
+9474,on time
+9475,on time
+9476,delayed
+9477,on time
+9478,on time
+9479,on time
+9480,on time
+9481,on time
+9482,on time
+9483,on time
+9484,on time
+9485,on time
+9486,on time
+9487,on time
+9488,on time
+9489,on time
+9490,on time
+9491,on time
+9492,on time
+9493,on time
+9494,on time
+9495,on time
+9496,on time
+9497,on time
+9498,on time
+9499,on time
+9500,on time
+9501,on time
+9502,on time
+9503,on time
+9504,on time
+9505,on time
+9506,on time
+9507,on time
+9508,on time
+9509,on time
+9510,on time
+9511,on time
+9512,on time
+9513,on time
+9514,on time
+9515,on time
+9516,on time
+9517,on time
+9518,on time
+9519,on time
+9520,on time
+9521,on time
+9522,on time
+9523,on time
+9524,on time
+9525,on time
+9526,on time
+9527,on time
+9528,on time
+9529,on time
+9530,on time
+9531,on time
+9532,on time
+9533,on time
+9534,on time
+9535,on time
+9536,on time
+9537,on time
+9538,on time
+9539,on time
+9540,on time
+9541,on time
+9542,on time
+9543,on time
+9544,on time
+9545,on time
+9546,on time
+9547,on time
+9548,on time
+9549,on time
+9550,on time
+9551,on time
+9552,on time
+9553,on time
+9554,on time
+9555,on time
+9556,on time
+9557,on time
+9558,on time
+9559,on time
+9560,on time
+9561,on time
+9562,on time
+9563,on time
+9564,on time
+9565,on time
+9566,on time
+9567,on time
+9568,on time
+9569,on time
+9570,on time
+9571,on time
+9572,on time
+9573,on time
+9574,on time
+9575,on time
+9576,on time
+9577,on time
+9578,on time
+9579,on time
+9580,on time
+9581,on time
+9582,on time
+9583,on time
+9584,on time
+9585,on time
+9586,on time
+9587,on time
+9588,on time
+9589,on time
+9590,on time
+9591,on time
+9592,on time
+9593,on time
+9594,on time
+9595,on time
+9596,on time
+9597,on time
+9598,on time
+9599,on time
+9600,on time
+9601,on time
+9602,on time
+9603,on time
+9604,on time
+9605,on time
+9606,on time
+9607,on time
+9608,on time
+9609,on time
+9610,on time
+9611,on time
+9612,on time
+9613,on time
+9614,on time
+9615,on time
+9616,on time
+9617,on time
+9618,on time
+9619,on time
+9620,on time
+9621,on time
+9622,on time
+9623,on time
+9624,on time
+9625,on time
+9626,on time
+9627,on time
+9628,on time
+9629,on time
+9630,on time
+9631,on time
+9632,on time
+9633,on time
+9634,on time
+9635,on time
+9636,on time
+9637,on time
+9638,on time
+9639,on time
+9640,on time
+9641,on time
+9642,on time
+9643,on time
+9644,on time
+9645,on time
+9646,on time
+9647,on time
+9648,on time
+9649,on time
+9650,on time
+9651,on time
+9652,on time
+9653,on time
+9654,on time
+9655,on time
+9656,on time
+9657,on time
+9658,on time
+9659,on time
+9660,on time
+9661,on time
+9662,on time
+9663,on time
+9664,on time
+9665,on time
+9666,on time
+9667,on time
+9668,on time
+9669,on time
+9670,on time
+9671,on time
+9672,on time
+9673,on time
+9674,on time
+9675,on time
+9676,on time
+9677,on time
+9678,on time
+9679,on time
+9680,on time
+9681,on time
+9682,on time
+9683,on time
+9684,on time
+9685,on time
+9686,on time
+9687,on time
+9688,on time
+9689,on time
+9690,on time
+9691,on time
+9692,on time
+9693,on time
+9694,delayed
+9695,on time
+9696,on time
+9697,on time
+9698,on time
+9699,delayed
+9700,on time
+9701,on time
+9702,on time
+9703,on time
+9704,on time
+9705,on time
+9706,on time
+9707,on time
+9708,on time
+9709,delayed
+9710,on time
+9711,delayed
+9712,on time
+9713,on time
+9714,on time
+9715,on time
+9716,on time
+9717,on time
+9718,on time
+9719,on time
+9720,delayed
+9721,on time
+9722,on time
+9723,delayed
+9724,delayed
+9725,delayed
+9726,delayed
+9727,delayed
+9728,delayed
+9729,delayed
+9730,delayed
+9731,delayed
+9732,delayed
+9733,delayed
+9734,delayed
+9735,delayed
+9736,delayed
+9737,delayed
+9738,delayed
+9739,on time
+9740,delayed
+9741,delayed
+9742,delayed
+9743,delayed
+9744,delayed
+9745,delayed
+9746,delayed
+9747,delayed
+9748,delayed
+9749,delayed
+9750,delayed
+9751,delayed
+9752,on time
+9753,delayed
+9754,delayed
+9755,delayed
+9756,on time
+9757,on time
+9758,delayed
+9759,delayed
+9760,delayed
+9761,delayed
+9762,delayed
+9763,on time
+9764,on time
+9765,on time
+9766,on time
+9767,on time
+9768,on time
+9769,on time
+9770,on time
+9771,on time
+9772,on time
+9773,on time
+9774,on time
+9775,on time
+9776,on time
+9777,on time
+9778,on time
+9779,on time
+9780,on time
+9781,on time
+9782,on time
+9783,on time
+9784,on time
+9785,on time
+9786,on time
+9787,on time
+9788,on time
+9789,on time
+9790,on time
+9791,on time
+9792,on time
+9793,on time
+9794,on time
+9795,delayed
+9796,on time
+9797,on time
+9798,on time
+9799,on time
+9800,on time
+9801,on time
+9802,on time
+9803,on time
+9804,on time
+9805,on time
+9806,on time
+9807,on time
+9808,delayed
+9809,delayed
+9810,on time
+9811,delayed
+9812,delayed
+9813,on time
+9814,delayed
+9815,delayed
+9816,delayed
+9817,delayed
+9818,on time
+9819,on time
+9820,on time
+9821,delayed
+9822,delayed
+9823,on time
+9824,delayed
+9825,delayed
+9826,on time
+9827,delayed
+9828,delayed
+9829,delayed
+9830,delayed
+9831,delayed
+9832,delayed
+9833,delayed
+9834,delayed
+9835,delayed
+9836,delayed
+9837,delayed
+9838,delayed
+9839,delayed
+9840,delayed
+9841,delayed
+9842,on time
+9843,on time
+9844,on time
+9845,on time
+9846,on time
+9847,on time
+9848,on time
+9849,on time
+9850,on time
+9851,on time
+9852,on time
+9853,on time
+9854,on time
+9855,on time
+9856,on time
+9857,on time
+9858,on time
+9859,on time
+9860,on time
+9861,on time
+9862,on time
+9863,on time
+9864,on time
+9865,on time
+9866,on time
+9867,on time
+9868,on time
+9869,on time
+9870,on time
+9871,on time
+9872,on time
+9873,on time
+9874,on time
+9875,on time
+9876,on time
+9877,delayed
+9878,delayed
+9879,delayed
+9880,delayed
+9881,delayed
+9882,delayed
+9883,delayed
+9884,delayed
+9885,delayed
+9886,delayed
+9887,delayed
+9888,delayed
+9889,delayed
+9890,delayed
+9891,delayed
+9892,delayed
+9893,delayed
+9894,delayed
+9895,delayed
+9896,delayed
+9897,delayed
+9898,delayed
+9899,delayed
+9900,delayed
+9901,delayed
+9902,delayed
+9903,delayed
+9904,on time
+9905,on time
+9906,delayed
+9907,on time
+9908,on time
+9909,on time
+9910,on time
+9911,on time
+9912,on time
+9913,on time
+9914,on time
+9915,on time
+9916,on time
+9917,on time
+9918,on time
+9919,on time
+9920,on time
+9921,on time
+9922,on time
+9923,on time
+9924,on time
+9925,on time
+9926,on time
+9927,on time
+9928,on time
+9929,on time
+9930,on time
+9931,on time
+9932,on time
+9933,on time
+9934,on time
+9935,on time
+9936,on time
+9937,on time
+9938,on time
+9939,on time
+9940,on time
+9941,on time
+9942,on time
+9943,on time
+9944,on time
+9945,on time
+9946,on time
+9947,on time
+9948,on time
+9949,on time
+9950,on time
+9951,on time
+9952,on time
+9953,on time
+9954,on time
+9955,on time
+9956,on time
+9957,on time
+9958,on time
+9959,on time
+9960,on time
+9961,on time
+9962,on time
+9963,on time
+9964,on time
+9965,on time
+9966,on time
+9967,on time
+9968,on time
+9969,on time
+9970,on time
+9971,on time
+9972,on time
+9973,on time
+9974,on time
+9975,on time
+9976,on time
+9977,on time
+9978,on time
+9979,on time
+9980,on time
+9981,on time
+9982,on time
+9983,on time
+9984,on time
+9985,on time
+9986,on time
+9987,on time
+9988,on time
+9989,on time
+9990,on time
+9991,on time
+9992,on time
+9993,on time
+9994,on time
+9995,on time
+9996,on time
+9997,on time
+9998,on time
+9999,on time
+10000,on time
+10001,on time
+10002,on time
+10003,on time
+10004,on time
+10005,on time
+10006,on time
+10007,on time
+10008,on time
+10009,on time
+10010,on time
+10011,on time
+10012,on time
+10013,delayed
+10014,delayed
+10015,delayed
+10016,on time
+10017,delayed
+10018,delayed
+10019,delayed
+10020,delayed
+10021,delayed
+10022,delayed
+10023,delayed
+10024,delayed
+10025,delayed
+10026,delayed
+10027,delayed
+10028,delayed
+10029,delayed
+10030,delayed
+10031,delayed
+10032,delayed
+10033,delayed
+10034,delayed
+10035,delayed
+10036,delayed
+10037,delayed
+10038,delayed
+10039,delayed
+10040,on time
+10041,on time
+10042,on time
+10043,on time
+10044,on time
+10045,on time
+10046,on time
+10047,on time
+10048,on time
+10049,on time
+10050,on time
+10051,on time
+10052,on time
+10053,on time
+10054,on time
+10055,on time
+10056,on time
+10057,on time
+10058,on time
+10059,on time
+10060,on time
+10061,on time
+10062,on time
+10063,on time
+10064,on time
+10065,on time
+10066,on time
+10067,on time
+10068,on time
+10069,on time
+10070,on time
+10071,on time
+10072,on time
+10073,on time
+10074,on time
+10075,on time
+10076,on time
+10077,on time
+10078,on time
+10079,on time
+10080,on time
+10081,on time
+10082,on time
+10083,on time
+10084,on time
+10085,on time
+10086,on time
+10087,on time
+10088,on time
+10089,on time
+10090,on time
+10091,on time
+10092,on time
+10093,on time
+10094,on time
+10095,on time
+10096,on time
+10097,on time
+10098,on time
+10099,on time
+10100,on time
+10101,on time
+10102,on time
+10103,on time
+10104,on time
+10105,on time
+10106,on time
+10107,on time
+10108,on time
+10109,on time
+10110,on time
+10111,on time
+10112,on time
+10113,on time
+10114,on time
+10115,on time
+10116,on time
+10117,on time
+10118,on time
+10119,on time
+10120,on time
+10121,on time
+10122,on time
+10123,on time
+10124,on time
+10125,on time
+10126,on time
+10127,on time
+10128,on time
+10129,on time
+10130,on time
+10131,on time
+10132,on time
+10133,on time
+10134,on time
+10135,on time
+10136,on time
+10137,on time
+10138,on time
+10139,on time
+10140,on time
+10141,on time
+10142,on time
+10143,on time
+10144,on time
+10145,on time
+10146,on time
+10147,on time
+10148,on time
+10149,on time
+10150,on time
+10151,on time
+10152,on time
+10153,on time
+10154,on time
+10155,on time
+10156,on time
+10157,on time
+10158,on time
+10159,on time
+10160,on time
+10161,on time
+10162,on time
+10163,on time
+10164,on time
+10165,on time
+10166,on time
+10167,on time
+10168,on time
+10169,on time
+10170,on time
+10171,on time
+10172,on time
+10173,on time
+10174,on time
+10175,on time
+10176,on time
+10177,on time
+10178,on time
+10179,on time
+10180,on time
+10181,on time
+10182,on time
+10183,on time
+10184,on time
+10185,on time
+10186,on time
+10187,on time
+10188,on time
+10189,on time
+10190,on time
+10191,on time
+10192,on time
+10193,on time
+10194,on time
+10195,on time
+10196,on time
+10197,on time
+10198,on time
+10199,on time
+10200,on time
+10201,on time
+10202,on time
+10203,on time
+10204,on time
+10205,on time
+10206,on time
+10207,on time
+10208,on time
+10209,on time
+10210,on time
+10211,on time
+10212,on time
+10213,on time
+10214,on time
+10215,on time
+10216,on time
+10217,on time
+10218,on time
+10219,on time
+10220,on time
+10221,on time
+10222,on time
+10223,on time
+10224,on time
+10225,on time
+10226,on time
+10227,on time
+10228,on time
+10229,on time
+10230,on time
+10231,on time
+10232,on time
+10233,delayed
+10234,on time
+10235,on time
+10236,on time
+10237,on time
+10238,on time
+10239,on time
+10240,on time
+10241,on time
+10242,on time
+10243,on time
+10244,on time
+10245,on time
+10246,on time
+10247,on time
+10248,on time
+10249,on time
+10250,on time
+10251,on time
+10252,on time
+10253,on time
+10254,on time
+10255,on time
+10256,on time
+10257,on time
+10258,on time
+10259,on time
+10260,on time
+10261,on time
+10262,on time
+10263,on time
+10264,on time
+10265,on time
+10266,on time
+10267,on time
+10268,on time
+10269,on time
+10270,on time
+10271,on time
+10272,on time
+10273,on time
+10274,on time
+10275,on time
+10276,on time
+10277,on time
+10278,on time
+10279,on time
+10280,on time
+10281,on time
+10282,on time
+10283,on time
+10284,on time
+10285,on time
+10286,on time
+10287,on time
+10288,on time
+10289,on time
+10290,on time
+10291,on time
+10292,on time
+10293,on time
+10294,on time
+10295,on time
+10296,on time
+10297,on time
+10298,on time
+10299,on time
+10300,on time
+10301,on time
+10302,on time
+10303,on time
+10304,on time
+10305,on time
+10306,on time
+10307,on time
+10308,on time
+10309,on time
+10310,on time
+10311,on time
+10312,on time
+10313,on time
+10314,on time
+10315,on time
+10316,on time
+10317,on time
+10318,on time
+10319,on time
+10320,on time
+10321,on time
+10322,on time
+10323,on time
+10324,on time
+10325,on time
+10326,on time
+10327,on time
+10328,on time
+10329,delayed
+10330,on time
+10331,on time
+10332,on time
+10333,on time
+10334,on time
+10335,delayed
+10336,delayed
+10337,on time
+10338,on time
+10339,delayed
+10340,on time
+10341,on time
+10342,on time
+10343,on time
+10344,on time
+10345,on time
+10346,on time
+10347,on time
+10348,on time
+10349,on time
+10350,on time
+10351,on time
+10352,on time
+10353,on time
+10354,on time
+10355,on time
+10356,on time
+10357,on time
+10358,on time
+10359,on time
+10360,on time
+10361,on time
+10362,on time
+10363,on time
+10364,on time
+10365,on time
+10366,on time
+10367,on time
+10368,on time
+10369,on time
+10370,on time
+10371,on time
+10372,on time
+10373,on time
+10374,on time
+10375,on time
+10376,on time
+10377,on time
+10378,on time
+10379,on time
+10380,on time
+10381,on time
+10382,on time
+10383,on time
+10384,on time
+10385,on time
+10386,on time
+10387,on time
+10388,on time
+10389,on time
+10390,on time
+10391,on time
+10392,on time
+10393,on time
+10394,on time
+10395,on time
+10396,on time
+10397,on time
+10398,on time
+10399,on time
+10400,on time
+10401,on time
+10402,on time
+10403,on time
+10404,on time
+10405,on time
+10406,on time
+10407,on time
+10408,on time
+10409,on time
+10410,on time
+10411,on time
+10412,on time
+10413,on time
+10414,on time
+10415,on time
+10416,on time
+10417,on time
+10418,on time
+10419,on time
+10420,on time
+10421,on time
+10422,on time
+10423,on time
+10424,on time
+10425,on time
+10426,on time
+10427,on time
+10428,on time
+10429,on time
+10430,on time
+10431,on time
+10432,on time
+10433,on time
+10434,on time
+10435,on time
+10436,on time
+10437,on time
+10438,on time
+10439,on time
+10440,on time
+10441,on time
+10442,on time
+10443,on time
+10444,on time
+10445,on time
+10446,on time
+10447,on time
+10448,on time
+10449,on time
+10450,on time
+10451,on time
+10452,on time
+10453,on time
+10454,on time
+10455,on time
+10456,on time
+10457,on time
+10458,on time
+10459,on time
+10460,on time
+10461,on time
+10462,on time
+10463,on time
+10464,on time
+10465,on time
+10466,on time
+10467,on time
+10468,on time
+10469,on time
+10470,on time
+10471,on time
+10472,on time
+10473,on time
+10474,on time
+10475,on time
+10476,on time
+10477,on time
+10478,on time
+10479,on time
+10480,on time
+10481,on time
+10482,on time
+10483,on time
+10484,on time
+10485,on time
+10486,on time
+10487,on time
+10488,on time
+10489,on time
+10490,on time
+10491,on time
+10492,on time
+10493,on time
+10494,delayed
+10495,delayed
+10496,on time
+10497,on time
+10498,on time
+10499,on time
+10500,on time
+10501,on time
+10502,on time
+10503,delayed
+10504,on time
+10505,delayed
+10506,on time
+10507,on time
+10508,on time
+10509,on time
+10510,on time
+10511,on time
+10512,on time
+10513,on time
+10514,on time
+10515,on time
+10516,on time
+10517,on time
+10518,on time
+10519,on time
+10520,on time
+10521,on time
+10522,on time
+10523,on time
+10524,on time
+10525,on time
+10526,on time
+10527,on time
+10528,on time
+10529,on time
+10530,on time
+10531,on time
+10532,on time
+10533,on time
+10534,on time
+10535,on time
+10536,on time
+10537,on time
+10538,on time
+10539,on time
+10540,on time
+10541,delayed
+10542,on time
+10543,delayed
+10544,on time
+10545,delayed
+10546,delayed
+10547,on time
+10548,on time
+10549,on time
+10550,on time
+10551,on time
+10552,on time
+10553,delayed
+10554,on time
+10555,on time
+10556,on time
+10557,on time
+10558,on time
+10559,on time
+10560,on time
+10561,delayed
+10562,delayed
+10563,on time
+10564,delayed
+10565,delayed
+10566,delayed
+10567,delayed
+10568,delayed
+10569,delayed
+10570,delayed
+10571,delayed
+10572,delayed
+10573,delayed
+10574,delayed
+10575,delayed
+10576,delayed
+10577,delayed
+10578,delayed
+10579,delayed
+10580,on time
+10581,delayed
+10582,delayed
+10583,delayed
+10584,delayed
+10585,delayed
+10586,delayed
+10587,delayed
+10588,delayed
+10589,delayed
+10590,delayed
+10591,delayed
+10592,delayed
+10593,on time
+10594,delayed
+10595,delayed
+10596,delayed
+10597,delayed
+10598,delayed
+10599,delayed
+10600,delayed
+10601,delayed
+10602,delayed
+10603,delayed
+10604,delayed
+10605,delayed
+10606,delayed
+10607,delayed
+10608,delayed
+10609,delayed
+10610,delayed
+10611,delayed
+10612,delayed
+10613,on time
+10614,delayed
+10615,delayed
+10616,delayed
+10617,on time
+10618,delayed
+10619,delayed
+10620,on time
+10621,on time
+10622,delayed
+10623,delayed
+10624,delayed
+10625,delayed
+10626,delayed
+10627,delayed
+10628,delayed
+10629,delayed
+10630,delayed
+10631,delayed
+10632,delayed
+10633,on time
+10634,delayed
+10635,delayed
+10636,delayed
+10637,delayed
+10638,on time
+10639,delayed
+10640,delayed
+10641,delayed
+10642,delayed
+10643,on time
+10644,on time
+10645,delayed
+10646,on time
+10647,on time
+10648,on time
+10649,on time
+10650,delayed
+10651,delayed
+10652,delayed
+10653,delayed
+10654,delayed
+10655,on time
+10656,delayed
+10657,delayed
+10658,delayed
+10659,on time
+10660,delayed
+10661,delayed
+10662,delayed
+10663,delayed
+10664,delayed
+10665,delayed
+10666,delayed
+10667,delayed
+10668,delayed
+10669,delayed
+10670,delayed
+10671,delayed
+10672,delayed
+10673,delayed
+10674,delayed
+10675,delayed
+10676,delayed
+10677,delayed
+10678,delayed
+10679,delayed
+10680,delayed
+10681,delayed
+10682,delayed
+10683,delayed
+10684,delayed
+10685,delayed
+10686,delayed
+10687,delayed
+10688,delayed
+10689,delayed
+10690,delayed
+10691,delayed
+10692,delayed
+10693,delayed
+10694,delayed
+10695,delayed
+10696,delayed
+10697,delayed
+10698,delayed
+10699,delayed
+10700,delayed
+10701,delayed
+10702,delayed
+10703,delayed
+10704,delayed
+10705,delayed
+10706,delayed
+10707,delayed
+10708,delayed
+10709,delayed
+10710,delayed
+10711,delayed
+10712,delayed
+10713,delayed
+10714,delayed
+10715,delayed
+10716,delayed
+10717,delayed
+10718,delayed
+10719,delayed
+10720,delayed
+10721,delayed
+10722,delayed
+10723,delayed
+10724,delayed
+10725,on time
+10726,on time
+10727,on time
+10728,on time
+10729,on time
+10730,on time
+10731,on time
+10732,on time
+10733,on time
+10734,on time
+10735,on time
+10736,on time
+10737,delayed
+10738,delayed
+10739,delayed
+10740,on time
+10741,on time
+10742,delayed
+10743,on time
+10744,on time
+10745,on time
+10746,on time
+10747,delayed
+10748,on time
+10749,on time
+10750,on time
+10751,on time
+10752,on time
+10753,delayed
+10754,delayed
+10755,on time
+10756,delayed
+10757,on time
+10758,on time
+10759,on time
+10760,on time
+10761,on time
+10762,on time
+10763,on time
+10764,on time
+10765,on time
+10766,on time
+10767,on time
+10768,on time
+10769,on time
+10770,on time
+10771,on time
+10772,on time
+10773,on time
+10774,on time
+10775,on time
+10776,on time
+10777,on time
+10778,on time
+10779,on time
+10780,on time
+10781,on time
+10782,on time
+10783,on time
+10784,on time
+10785,on time
+10786,on time
+10787,on time
+10788,on time
+10789,on time
+10790,on time
+10791,on time
+10792,on time
+10793,on time
+10794,on time
+10795,on time
+10796,on time
+10797,on time
+10798,on time
+10799,on time
+10800,on time
+10801,on time
+10802,on time
+10803,on time
+10804,on time
+10805,delayed
+10806,delayed
+10807,delayed
+10808,on time
+10809,on time
+10810,on time
+10811,delayed
+10812,on time
+10813,on time
+10814,on time
+10815,on time
+10816,on time
+10817,on time
+10818,on time
+10819,on time
+10820,on time
+10821,delayed
+10822,delayed
+10823,delayed
+10824,delayed
+10825,delayed
+10826,delayed
+10827,delayed
+10828,delayed
+10829,delayed
+10830,on time
+10831,delayed
+10832,delayed
+10833,delayed
+10834,delayed
+10835,delayed
+10836,delayed
+10837,delayed
+10838,delayed
+10839,delayed
+10840,delayed
+10841,on time
+10842,on time
+10843,on time
+10844,on time
+10845,on time
+10846,on time
+10847,on time
+10848,on time
+10849,on time
+10850,on time
+10851,on time
+10852,on time
+10853,on time
+10854,on time
+10855,on time
+10856,on time
+10857,on time
+10858,on time
+10859,on time
+10860,on time
+10861,on time
+10862,on time
+10863,on time
+10864,on time
+10865,on time
+10866,on time
+10867,on time
+10868,on time
+10869,on time
+10870,on time
+10871,on time
+10872,on time
+10873,on time
+10874,on time
+10875,on time
+10876,on time
+10877,on time
+10878,on time
+10879,on time
+10880,on time
+10881,on time
+10882,on time
+10883,on time
+10884,on time
+10885,on time
+10886,on time
+10887,delayed
+10888,on time
+10889,delayed
+10890,on time
+10891,on time
+10892,on time
+10893,on time
+10894,on time
+10895,on time
+10896,on time
+10897,on time
+10898,on time
+10899,on time
+10900,on time
+10901,on time
+10902,on time
+10903,on time
+10904,delayed
+10905,delayed
+10906,delayed
+10907,delayed
+10908,delayed
+10909,delayed
+10910,delayed
+10911,delayed
+10912,delayed
+10913,delayed
+10914,delayed
+10915,on time
+10916,delayed
+10917,delayed
+10918,delayed
+10919,delayed
+10920,delayed
+10921,delayed
+10922,on time
+10923,delayed
+10924,delayed
+10925,delayed
+10926,delayed
+10927,delayed
+10928,delayed
+10929,delayed
+10930,delayed
+10931,delayed
+10932,on time
+10933,on time
+10934,on time
+10935,on time
+10936,on time
+10937,on time
+10938,on time
+10939,on time
+10940,on time
+10941,on time
+10942,on time
+10943,on time
+10944,on time
+10945,on time
+10946,on time
+10947,on time
+10948,on time
+10949,on time
+10950,on time
+10951,on time
+10952,on time
+10953,on time
+10954,on time
+10955,on time
+10956,on time
+10957,on time
+10958,on time
+10959,on time
+10960,on time
+10961,on time
+10962,on time
+10963,on time
+10964,on time
+10965,on time
+10966,on time
+10967,on time
+10968,on time
+10969,on time
+10970,on time
+10971,on time
+10972,on time
+10973,on time
+10974,on time
+10975,on time
+10976,on time
+10977,on time
+10978,on time
+10979,on time
+10980,on time
+10981,on time
+10982,on time
+10983,on time
+10984,on time
+10985,on time
+10986,on time
+10987,on time
+10988,on time
+10989,on time
+10990,on time
+10991,on time
+10992,on time
+10993,on time
+10994,on time
+10995,on time
+10996,on time
+10997,on time
+10998,on time
+10999,on time
+11000,on time
+11001,on time
+11002,on time
+11003,on time
+11004,on time
+11005,on time
+11006,on time
+11007,on time
+11008,on time
+11009,on time
+11010,on time
+11011,on time
+11012,on time
+11013,on time
+11014,delayed
+11015,delayed
+11016,delayed
+11017,delayed
+11018,delayed
+11019,delayed
+11020,delayed
+11021,delayed
+11022,delayed
+11023,delayed
+11024,delayed
+11025,on time
+11026,delayed
+11027,delayed
+11028,on time
+11029,on time
+11030,delayed
+11031,on time
+11032,delayed
+11033,delayed
+11034,delayed
+11035,delayed
+11036,delayed
+11037,delayed
+11038,delayed
+11039,delayed
+11040,delayed
+11041,delayed
+11042,delayed
+11043,delayed
+11044,delayed
+11045,delayed
+11046,on time
+11047,on time
+11048,on time
+11049,on time
+11050,on time
+11051,on time
+11052,on time
+11053,on time
+11054,on time
+11055,on time
+11056,on time
+11057,on time
+11058,on time
+11059,on time
+11060,on time
+11061,on time
+11062,on time
+11063,on time
+11064,on time
+11065,on time
+11066,on time
+11067,on time
+11068,on time
+11069,on time
+11070,on time
+11071,on time
+11072,on time
+11073,on time
+11074,on time
+11075,on time
+11076,delayed
+11077,on time
+11078,on time
+11079,on time
+11080,on time
+11081,on time
+11082,on time
+11083,on time
+11084,on time
+11085,on time
+11086,on time
+11087,on time
+11088,on time
+11089,on time
+11090,on time
+11091,on time
+11092,on time
+11093,on time
+11094,on time
+11095,on time
+11096,on time
+11097,on time
+11098,on time
+11099,on time
+11100,on time
+11101,on time
+11102,on time
+11103,on time
+11104,on time
+11105,on time
+11106,on time
+11107,on time
+11108,on time
+11109,on time
+11110,on time
+11111,delayed
+11112,on time
+11113,on time
+11114,delayed
+11115,delayed
+11116,on time
+11117,delayed
+11118,on time
+11119,on time
+11120,delayed
+11121,on time
+11122,delayed
+11123,on time
+11124,on time
+11125,on time
+11126,on time
+11127,on time
+11128,on time
+11129,on time
+11130,on time
+11131,on time
+11132,on time
+11133,on time
+11134,on time
+11135,on time
+11136,on time
+11137,on time
+11138,on time
+11139,on time
+11140,on time
+11141,on time
+11142,on time
+11143,on time
+11144,on time
+11145,on time
+11146,on time
+11147,on time
+11148,on time
+11149,on time
+11150,on time
+11151,on time
+11152,on time
+11153,on time
+11154,on time
+11155,on time
+11156,on time
+11157,on time
+11158,on time
+11159,on time
+11160,on time
+11161,on time
+11162,on time
+11163,on time
+11164,on time
+11165,on time
+11166,on time
+11167,on time
+11168,on time
+11169,on time
+11170,on time
+11171,on time
+11172,on time
+11173,on time
+11174,on time
+11175,on time
+11176,on time
+11177,on time
+11178,on time
+11179,on time
+11180,on time
+11181,on time
+11182,on time
+11183,on time
+11184,on time
+11185,on time
+11186,on time
+11187,on time
+11188,delayed
+11189,delayed
+11190,delayed
+11191,delayed
+11192,delayed
+11193,delayed
+11194,delayed
+11195,delayed
+11196,delayed
+11197,delayed
+11198,delayed
+11199,delayed
+11200,delayed
+11201,delayed
+11202,delayed
+11203,delayed
+11204,delayed
+11205,delayed
+11206,delayed
+11207,delayed
+11208,delayed
+11209,delayed
+11210,delayed
+11211,delayed
+11212,on time
+11213,on time
+11214,delayed
+11215,delayed
+11216,delayed
+11217,delayed
+11218,on time
+11219,on time
+11220,delayed
+11221,delayed
+11222,delayed
+11223,on time
+11224,on time
+11225,on time
+11226,delayed
+11227,on time
+11228,on time
+11229,on time
+11230,delayed
+11231,on time
+11232,delayed
+11233,on time
+11234,on time
+11235,on time
+11236,delayed
+11237,on time
+11238,on time
+11239,on time
+11240,on time
+11241,on time
+11242,on time
+11243,on time
+11244,on time
+11245,on time
+11246,on time
+11247,on time
+11248,on time
+11249,on time
+11250,on time
+11251,on time
+11252,on time
+11253,on time
+11254,on time
+11255,on time
+11256,on time
+11257,on time
+11258,on time
+11259,on time
+11260,on time
+11261,on time
+11262,on time
+11263,on time
+11264,on time
+11265,on time
+11266,on time
+11267,on time
+11268,on time
+11269,on time
+11270,on time
+11271,on time
+11272,on time
+11273,delayed
+11274,on time
+11275,delayed
+11276,on time
+11277,on time
+11278,on time
+11279,on time
+11280,on time
+11281,on time
+11282,on time
+11283,on time
+11284,on time
+11285,on time
+11286,on time
+11287,on time
+11288,on time
+11289,on time
+11290,on time
+11291,on time
+11292,on time
+11293,on time
+11294,on time
+11295,on time
+11296,on time
+11297,on time
+11298,delayed
+11299,on time
+11300,on time
+11301,delayed
+11302,on time
+11303,delayed
+11304,delayed
+11305,on time
+11306,on time
+11307,delayed
+11308,on time
+11309,on time
+11310,on time
+11311,delayed
+11312,on time
+11313,delayed
+11314,on time
+11315,delayed
+11316,on time
+11317,on time
+11318,delayed
+11319,on time
+11320,on time
+11321,delayed
+11322,delayed
+11323,delayed
+11324,delayed
+11325,on time
+11326,delayed
+11327,delayed
+11328,delayed
+11329,delayed
+11330,delayed
+11331,delayed
+11332,delayed
+11333,delayed
+11334,delayed
+11335,delayed
+11336,delayed
+11337,delayed
+11338,delayed
+11339,delayed
+11340,delayed
+11341,delayed
+11342,delayed
+11343,delayed
+11344,delayed
+11345,delayed
+11346,delayed
+11347,delayed
+11348,delayed
+11349,delayed
+11350,delayed
+11351,delayed
+11352,delayed
+11353,delayed
+11354,delayed
+11355,delayed
+11356,delayed
+11357,delayed
+11358,delayed
+11359,delayed
+11360,delayed
+11361,delayed
+11362,delayed
+11363,delayed
+11364,delayed
+11365,delayed
+11366,delayed
+11367,delayed
+11368,delayed
+11369,delayed
+11370,delayed
+11371,delayed
+11372,delayed
+11373,on time
+11374,on time
+11375,on time
+11376,on time
+11377,on time
+11378,delayed
+11379,on time
+11380,on time
+11381,delayed
+11382,on time
+11383,on time
+11384,on time
+11385,on time
+11386,on time
+11387,on time
+11388,on time
+11389,on time
+11390,on time
+11391,on time
+11392,on time
+11393,delayed
+11394,on time
+11395,delayed
+11396,on time
+11397,on time
+11398,on time
+11399,delayed
+11400,on time
+11401,on time
+11402,on time
+11403,on time
+11404,on time
+11405,on time
+11406,on time
+11407,on time
+11408,on time
+11409,on time
+11410,on time
+11411,on time
+11412,on time
+11413,on time
+11414,on time
+11415,on time
+11416,on time
+11417,on time
+11418,on time
+11419,on time
+11420,on time
+11421,on time
+11422,on time
+11423,on time
+11424,on time
+11425,on time
+11426,on time
+11427,on time
+11428,on time
+11429,on time
+11430,on time
+11431,on time
+11432,on time
+11433,on time
+11434,on time
+11435,on time
+11436,on time
+11437,on time
+11438,on time
+11439,on time
+11440,on time
+11441,on time
+11442,on time
+11443,on time
+11444,on time
+11445,on time
+11446,on time
+11447,on time
+11448,on time
+11449,on time
+11450,on time
+11451,on time
+11452,on time
+11453,on time
+11454,on time
+11455,on time
+11456,on time
+11457,on time
+11458,on time
+11459,on time
+11460,on time
+11461,on time
+11462,on time
+11463,on time
+11464,on time
+11465,on time
+11466,on time
+11467,on time
+11468,on time
+11469,on time
+11470,on time
+11471,on time
+11472,on time
+11473,on time
+11474,on time
+11475,on time
+11476,on time
+11477,on time
+11478,on time
+11479,on time
+11480,on time
+11481,on time
+11482,on time
+11483,on time
+11484,on time
+11485,on time
+11486,on time
+11487,on time
+11488,on time
+11489,on time
+11490,on time
+11491,on time
+11492,on time
+11493,on time
+11494,on time
+11495,on time
+11496,on time
+11497,on time
+11498,on time
+11499,on time
+11500,on time
+11501,on time
+11502,on time
+11503,on time
+11504,delayed
+11505,delayed
+11506,on time
+11507,on time
+11508,on time
+11509,on time
+11510,delayed
+11511,on time
+11512,on time
+11513,on time
+11514,on time
+11515,on time
+11516,delayed
+11517,on time
+11518,on time
+11519,on time
+11520,on time
+11521,on time
+11522,on time
+11523,on time
+11524,on time
+11525,on time
+11526,on time
+11527,on time
+11528,on time
+11529,on time
+11530,on time
+11531,on time
+11532,delayed
+11533,on time
+11534,on time
+11535,on time
+11536,delayed
+11537,delayed
+11538,on time
+11539,on time
+11540,on time
+11541,on time
+11542,on time
+11543,on time
+11544,on time
+11545,on time
+11546,on time
+11547,on time
+11548,on time
+11549,on time
+11550,on time
+11551,on time
+11552,on time
+11553,delayed
+11554,delayed
+11555,delayed
+11556,delayed
+11557,delayed
+11558,delayed
+11559,delayed
+11560,delayed
+11561,delayed
+11562,delayed
+11563,delayed
+11564,delayed
+11565,delayed
+11566,delayed
+11567,delayed
+11568,delayed
+11569,delayed
+11570,delayed
+11571,delayed
+11572,delayed
+11573,delayed
+11574,delayed
+11575,delayed
+11576,delayed
+11577,delayed
+11578,delayed
+11579,delayed
+11580,delayed
+11581,delayed
+11582,on time
+11583,on time
+11584,on time
+11585,on time
+11586,on time
+11587,on time
+11588,on time
+11589,delayed
+11590,on time
+11591,on time
+11592,on time
+11593,on time
+11594,on time
+11595,on time
+11596,on time
+11597,on time
+11598,on time
+11599,on time
+11600,on time
+11601,on time
+11602,on time
+11603,on time
+11604,on time
+11605,on time
+11606,on time
+11607,on time
+11608,on time
+11609,on time
+11610,delayed
+11611,on time
+11612,on time
+11613,on time
+11614,delayed
+11615,delayed
+11616,delayed
+11617,delayed
+11618,delayed
+11619,delayed
+11620,delayed
+11621,delayed
+11622,delayed
+11623,delayed
+11624,delayed
+11625,delayed
+11626,delayed
+11627,delayed
+11628,delayed
+11629,delayed
+11630,delayed
+11631,delayed
+11632,delayed
+11633,delayed
+11634,delayed
+11635,delayed
+11636,delayed
+11637,delayed
+11638,delayed
+11639,delayed
+11640,delayed
+11641,delayed
+11642,delayed
+11643,delayed
+11644,delayed
+11645,delayed
+11646,delayed
+11647,delayed
+11648,delayed
+11649,delayed
+11650,delayed
+11651,delayed
+11652,delayed
+11653,delayed
+11654,on time
+11655,delayed
+11656,delayed
+11657,delayed
+11658,on time
+11659,delayed
+11660,delayed
+11661,delayed
+11662,delayed
+11663,delayed
+11664,delayed
+11665,delayed
+11666,on time
+11667,delayed
+11668,delayed
+11669,delayed
+11670,delayed
+11671,delayed
+11672,delayed
+11673,delayed
+11674,delayed
+11675,delayed
+11676,delayed
+11677,delayed
+11678,delayed
+11679,delayed
+11680,delayed
+11681,delayed
+11682,on time
+11683,on time
+11684,on time
+11685,on time
+11686,on time
+11687,on time
+11688,on time
+11689,on time
+11690,on time
+11691,on time
+11692,on time
+11693,on time
+11694,on time
+11695,on time
+11696,on time
+11697,on time
+11698,on time
+11699,on time
+11700,on time
+11701,on time
+11702,on time
+11703,on time
+11704,on time
+11705,on time
+11706,on time
+11707,on time
+11708,on time
+11709,on time
+11710,on time
+11711,on time
+11712,on time
+11713,on time
+11714,on time
+11715,on time
+11716,on time
+11717,on time
+11718,on time
+11719,on time
+11720,on time
+11721,on time
+11722,on time
+11723,on time
+11724,on time
+11725,on time
+11726,delayed
+11727,on time
+11728,on time
+11729,on time
+11730,on time
+11731,on time
+11732,on time
+11733,on time
+11734,delayed
+11735,on time
+11736,on time
+11737,on time
+11738,delayed
+11739,delayed
+11740,delayed
+11741,on time
+11742,delayed
+11743,on time
+11744,delayed
+11745,delayed
+11746,on time
+11747,delayed
+11748,delayed
+11749,delayed
+11750,delayed
+11751,delayed
+11752,on time
+11753,delayed
+11754,on time
+11755,on time
+11756,on time
+11757,on time
+11758,on time
+11759,on time
+11760,on time
+11761,on time
+11762,on time
+11763,on time
+11764,on time
+11765,on time
+11766,on time
+11767,on time
+11768,on time
+11769,on time
+11770,on time
+11771,on time
+11772,on time
+11773,on time
+11774,on time
+11775,on time
+11776,on time
+11777,on time
+11778,on time
+11779,on time
+11780,on time
+11781,on time
+11782,on time
+11783,delayed
+11784,on time
+11785,on time
+11786,on time
+11787,on time
+11788,on time
+11789,on time
+11790,on time
+11791,on time
+11792,on time
+11793,on time
+11794,on time
+11795,on time
+11796,on time
+11797,on time
+11798,on time
+11799,on time
+11800,on time
+11801,on time
+11802,on time
+11803,on time
+11804,on time
+11805,on time
+11806,on time
+11807,on time
+11808,on time
+11809,on time
+11810,on time
+11811,on time
+11812,on time
+11813,on time
+11814,on time
+11815,delayed
+11816,on time
+11817,delayed
+11818,delayed
+11819,delayed
+11820,delayed
+11821,delayed
+11822,on time
+11823,delayed
+11824,delayed
+11825,delayed
+11826,delayed
+11827,delayed
+11828,delayed
+11829,delayed
+11830,delayed
+11831,delayed
+11832,delayed
+11833,delayed
+11834,delayed
+11835,delayed
+11836,delayed
+11837,delayed
+11838,delayed
+11839,delayed
+11840,delayed
+11841,delayed
+11842,delayed
+11843,delayed
+11844,on time
+11845,delayed
+11846,delayed
+11847,delayed
+11848,delayed
+11849,delayed
+11850,delayed
+11851,delayed
+11852,on time
+11853,on time
+11854,on time
+11855,on time
+11856,on time
+11857,on time
+11858,on time
+11859,on time
+11860,on time
+11861,on time
+11862,on time
+11863,on time
+11864,on time
+11865,on time
+11866,on time
+11867,on time
+11868,on time
+11869,on time
+11870,on time
+11871,on time
+11872,on time
+11873,on time
+11874,on time
+11875,on time
+11876,on time
+11877,on time
+11878,on time
+11879,on time
+11880,on time
+11881,on time
+11882,on time
+11883,on time
+11884,on time
+11885,on time
+11886,on time
+11887,on time
+11888,on time
+11889,on time
+11890,on time
+11891,on time
+11892,on time
+11893,on time
+11894,on time
+11895,on time
+11896,on time
+11897,on time
+11898,on time
+11899,on time
+11900,on time
+11901,on time
+11902,on time
+11903,on time
+11904,on time
+11905,on time
+11906,on time
+11907,on time
+11908,on time
+11909,on time
+11910,on time
+11911,on time
+11912,on time
+11913,on time
+11914,on time
+11915,on time
+11916,on time
+11917,on time
+11918,on time
+11919,on time
+11920,on time
+11921,on time
+11922,on time
+11923,on time
+11924,on time
+11925,on time
+11926,on time
+11927,on time
+11928,on time
+11929,on time
+11930,on time
+11931,on time
+11932,on time
+11933,on time
+11934,on time
+11935,on time
+11936,on time
+11937,on time
+11938,on time
+11939,on time
+11940,on time
+11941,on time
+11942,on time
+11943,on time
+11944,on time
+11945,on time
+11946,on time
+11947,on time
+11948,on time
+11949,on time
+11950,on time
+11951,on time
+11952,on time
+11953,on time
+11954,on time
+11955,on time
+11956,on time
+11957,on time
+11958,on time
+11959,on time
+11960,on time
+11961,on time
+11962,on time
+11963,on time
+11964,on time
+11965,on time
+11966,on time
+11967,on time
+11968,on time
+11969,on time
+11970,on time
+11971,on time
+11972,on time
+11973,on time
+11974,on time
+11975,on time
+11976,on time
+11977,on time
+11978,on time
+11979,on time
+11980,on time
+11981,on time
+11982,on time
+11983,on time
+11984,on time
+11985,on time
+11986,on time
+11987,on time
+11988,on time
+11989,on time
+11990,on time
+11991,on time
+11992,on time
+11993,on time
+11994,on time
+11995,on time
+11996,on time
+11997,on time
+11998,on time
+11999,on time
+12000,on time
+12001,on time
+12002,on time
+12003,on time
+12004,on time
+12005,on time
+12006,on time
+12007,on time
+12008,on time
+12009,on time
+12010,on time
+12011,on time
+12012,on time
+12013,on time
+12014,on time
+12015,on time
+12016,on time
+12017,on time
+12018,on time
+12019,on time
+12020,delayed
+12021,delayed
+12022,delayed
+12023,delayed
+12024,delayed
+12025,delayed
+12026,delayed
+12027,delayed
+12028,delayed
+12029,delayed
+12030,delayed
+12031,delayed
+12032,delayed
+12033,delayed
+12034,delayed
+12035,delayed
+12036,delayed
+12037,delayed
+12038,delayed
+12039,delayed
+12040,delayed
+12041,delayed
+12042,delayed
+12043,delayed
+12044,delayed
+12045,on time
+12046,delayed
+12047,delayed
+12048,delayed
+12049,delayed
+12050,on time
+12051,delayed
+12052,delayed
+12053,delayed
+12054,delayed
+12055,delayed
+12056,delayed
+12057,delayed
+12058,delayed
+12059,delayed
+12060,delayed
+12061,on time
+12062,delayed
+12063,delayed
+12064,delayed
+12065,delayed
+12066,delayed
+12067,delayed
+12068,delayed
+12069,delayed
+12070,delayed
+12071,delayed
+12072,delayed
+12073,delayed
+12074,delayed
+12075,delayed
+12076,delayed
+12077,delayed
+12078,delayed
+12079,delayed
+12080,delayed
+12081,delayed
+12082,delayed
+12083,delayed
+12084,delayed
+12085,delayed
+12086,delayed
+12087,delayed
+12088,delayed
+12089,delayed
+12090,on time
+12091,on time
+12092,on time
+12093,on time
+12094,on time
+12095,on time
+12096,on time
+12097,on time
+12098,on time
+12099,on time
+12100,on time
+12101,on time
+12102,on time
+12103,on time
+12104,on time
+12105,on time
+12106,on time
+12107,on time
+12108,on time
+12109,on time
+12110,on time
+12111,on time
+12112,on time
+12113,on time
+12114,on time
+12115,on time
+12116,on time
+12117,on time
+12118,on time
+12119,on time
+12120,on time
+12121,on time
+12122,on time
+12123,on time
+12124,on time
+12125,on time
+12126,on time
+12127,on time
+12128,on time
+12129,on time
+12130,on time
+12131,on time
+12132,on time
+12133,on time
+12134,on time
+12135,on time
+12136,on time
+12137,on time
+12138,on time
+12139,on time
+12140,delayed
+12141,on time
+12142,delayed
+12143,on time
+12144,on time
+12145,on time
+12146,on time
+12147,on time
+12148,on time
+12149,on time
+12150,on time
+12151,on time
+12152,on time
+12153,on time
+12154,on time
+12155,on time
+12156,delayed
+12157,on time
+12158,on time
+12159,on time
+12160,on time
+12161,on time
+12162,on time
+12163,delayed
+12164,on time
+12165,on time
+12166,on time
+12167,on time
+12168,on time
+12169,on time
+12170,on time
+12171,on time
+12172,on time
+12173,on time
+12174,delayed
+12175,delayed
+12176,delayed
+12177,delayed
+12178,delayed
+12179,delayed
+12180,delayed
+12181,delayed
+12182,delayed
+12183,delayed
+12184,delayed
+12185,delayed
+12186,delayed
+12187,delayed
+12188,delayed
+12189,delayed
+12190,delayed
+12191,delayed
+12192,delayed
+12193,delayed
+12194,delayed
+12195,delayed
+12196,delayed
+12197,delayed
+12198,delayed
+12199,delayed
+12200,delayed
+12201,delayed
+12202,delayed
+12203,delayed
+12204,delayed
+12205,on time
+12206,on time
+12207,on time
+12208,on time
+12209,on time
+12210,on time
+12211,on time
+12212,on time
+12213,on time
+12214,on time
+12215,on time
+12216,on time
+12217,on time
+12218,on time
+12219,on time
+12220,on time
+12221,on time
+12222,on time
+12223,on time
+12224,on time
+12225,on time
+12226,on time
+12227,on time
+12228,on time
+12229,on time
+12230,on time
+12231,on time
+12232,on time
+12233,on time
+12234,on time
+12235,on time
+12236,on time
+12237,on time
+12238,on time
+12239,on time
+12240,on time
+12241,on time
+12242,on time
+12243,on time
+12244,on time
+12245,on time
+12246,on time
+12247,on time
+12248,on time
+12249,on time
+12250,on time
+12251,on time
+12252,on time
+12253,on time
+12254,on time
+12255,on time
+12256,on time
+12257,on time
+12258,on time
+12259,on time
+12260,on time
+12261,on time
+12262,on time
+12263,on time
+12264,on time
+12265,on time
+12266,on time
+12267,on time
+12268,on time
+12269,on time
+12270,on time
+12271,on time
+12272,on time
+12273,on time
+12274,on time
+12275,on time
+12276,on time
+12277,on time
+12278,on time
+12279,on time
+12280,on time
+12281,on time
+12282,on time
+12283,on time
+12284,on time
+12285,on time
+12286,on time
+12287,on time
+12288,on time
+12289,delayed
+12290,delayed
+12291,delayed
+12292,delayed
+12293,delayed
+12294,delayed
+12295,delayed
+12296,delayed
+12297,delayed
+12298,delayed
+12299,delayed
+12300,delayed
+12301,delayed
+12302,delayed
+12303,delayed
+12304,on time
+12305,delayed
+12306,delayed
+12307,delayed
+12308,delayed
+12309,delayed
+12310,on time
+12311,delayed
+12312,delayed
+12313,delayed
+12314,delayed
+12315,delayed
+12316,delayed
+12317,delayed
+12318,delayed
+12319,delayed
+12320,delayed
+12321,delayed
+12322,delayed
+12323,delayed
+12324,delayed
+12325,on time
+12326,delayed
+12327,on time
+12328,delayed
+12329,delayed
+12330,on time
+12331,delayed
+12332,delayed
+12333,delayed
+12334,delayed
+12335,on time
+12336,delayed
+12337,delayed
+12338,on time
+12339,delayed
+12340,on time
+12341,on time
+12342,on time
+12343,delayed
+12344,delayed
+12345,on time
+12346,delayed
+12347,delayed
+12348,on time
+12349,delayed
+12350,delayed
+12351,on time
+12352,delayed
+12353,delayed
+12354,delayed
+12355,delayed
+12356,delayed
+12357,delayed
+12358,delayed
+12359,delayed
+12360,delayed
+12361,delayed
+12362,delayed
+12363,on time
+12364,on time
+12365,on time
+12366,on time
+12367,on time
+12368,on time
+12369,on time
+12370,on time
+12371,on time
+12372,on time
+12373,on time
+12374,on time
+12375,on time
+12376,on time
+12377,on time
+12378,on time
+12379,on time
+12380,on time
+12381,on time
+12382,on time
+12383,on time
+12384,on time
+12385,on time
+12386,on time
+12387,on time
+12388,on time
+12389,on time
+12390,on time
+12391,on time
+12392,delayed
+12393,delayed
+12394,delayed
+12395,delayed
+12396,delayed
+12397,delayed
+12398,delayed
+12399,delayed
+12400,delayed
+12401,delayed
+12402,delayed
+12403,on time
+12404,delayed
+12405,on time
+12406,on time
+12407,on time
+12408,delayed
+12409,delayed
+12410,delayed
+12411,on time
+12412,delayed
+12413,on time
+12414,delayed
+12415,delayed
+12416,delayed
+12417,delayed
+12418,delayed
+12419,delayed
+12420,delayed
+12421,delayed
+12422,delayed
+12423,delayed
+12424,delayed
+12425,on time
+12426,on time
+12427,on time
+12428,on time
+12429,on time
+12430,on time
+12431,on time
+12432,on time
+12433,on time
+12434,on time
+12435,on time
+12436,on time
+12437,on time
+12438,on time
+12439,on time
+12440,on time
+12441,on time
+12442,on time
+12443,on time
+12444,on time
+12445,on time
+12446,on time
+12447,on time
+12448,on time
+12449,on time
+12450,on time
+12451,on time
+12452,on time
+12453,on time
+12454,on time
+12455,on time
+12456,on time
+12457,on time
+12458,on time
+12459,delayed
+12460,on time
+12461,on time
+12462,delayed
+12463,on time
+12464,on time
+12465,delayed
+12466,delayed
+12467,on time
+12468,delayed
+12469,on time
+12470,on time
+12471,on time
+12472,on time
+12473,delayed
+12474,delayed
+12475,on time
+12476,delayed
+12477,on time
+12478,delayed
+12479,delayed
+12480,delayed
+12481,delayed
+12482,on time
+12483,on time
+12484,on time
+12485,delayed
+12486,on time
+12487,delayed
+12488,on time
+12489,delayed
+12490,delayed
+12491,delayed
+12492,on time
+12493,on time
+12494,on time
+12495,delayed
+12496,on time
+12497,on time
+12498,on time
+12499,on time
+12500,on time
+12501,delayed
+12502,on time
+12503,delayed
+12504,delayed
+12505,on time
+12506,on time
+12507,delayed
+12508,delayed
+12509,delayed
+12510,on time
+12511,delayed
+12512,delayed
+12513,delayed
+12514,on time
+12515,delayed
+12516,delayed
+12517,delayed
+12518,delayed
+12519,delayed
+12520,on time
+12521,delayed
+12522,delayed
+12523,on time
+12524,on time
+12525,on time
+12526,on time
+12527,on time
+12528,on time
+12529,delayed
+12530,on time
+12531,on time
+12532,on time
+12533,on time
+12534,on time
+12535,on time
+12536,on time
+12537,on time
+12538,on time
+12539,on time
+12540,on time
+12541,on time
+12542,on time
+12543,on time
+12544,on time
+12545,on time
+12546,on time
+12547,on time
+12548,on time
+12549,on time
+12550,on time
+12551,on time
+12552,on time
+12553,on time
+12554,on time
+12555,on time
+12556,on time
+12557,on time
+12558,on time
+12559,on time
+12560,on time
+12561,on time
+12562,on time
+12563,on time
+12564,on time
+12565,on time
+12566,on time
+12567,on time
+12568,on time
+12569,on time
+12570,on time
+12571,on time
+12572,on time
+12573,delayed
+12574,on time
+12575,delayed
+12576,on time
+12577,on time
+12578,on time
+12579,delayed
+12580,delayed
+12581,on time
+12582,delayed
+12583,delayed
+12584,delayed
+12585,delayed
+12586,delayed
+12587,delayed
+12588,delayed
+12589,delayed
+12590,delayed
+12591,delayed
+12592,delayed
+12593,delayed
+12594,on time
+12595,on time
+12596,on time
+12597,delayed
+12598,on time
+12599,on time
+12600,on time
+12601,delayed
+12602,on time
+12603,on time
+12604,delayed
+12605,delayed
+12606,on time
+12607,delayed
+12608,delayed
+12609,delayed
+12610,on time
+12611,on time
+12612,on time
+12613,delayed
+12614,on time
+12615,on time
+12616,on time
+12617,on time
+12618,delayed
+12619,on time
+12620,on time
+12621,on time
+12622,on time
+12623,on time
+12624,delayed
+12625,on time
+12626,on time
+12627,delayed
+12628,on time
+12629,delayed
+12630,on time
+12631,on time
+12632,delayed
+12633,on time
+12634,delayed
+12635,on time
+12636,on time
+12637,on time
+12638,on time
+12639,on time
+12640,on time
+12641,on time
+12642,on time
+12643,on time
+12644,on time
+12645,on time
+12646,on time
+12647,on time
+12648,on time
+12649,on time
+12650,on time
+12651,on time
+12652,on time
+12653,on time
+12654,on time
+12655,on time
+12656,on time
+12657,delayed
+12658,on time
+12659,on time
+12660,on time
+12661,on time
+12662,on time
+12663,on time
+12664,on time
+12665,on time
+12666,on time
+12667,on time
+12668,on time
+12669,on time
+12670,on time
+12671,on time
+12672,on time
+12673,on time
+12674,on time
+12675,on time
+12676,on time
+12677,on time
+12678,on time
+12679,on time
+12680,on time
+12681,on time
+12682,on time
+12683,on time
+12684,on time
+12685,on time
+12686,on time
+12687,on time
+12688,on time
+12689,on time
+12690,on time
+12691,on time
+12692,on time
+12693,on time
+12694,on time
+12695,on time
+12696,on time
+12697,on time
+12698,on time
+12699,on time
+12700,on time
+12701,delayed
+12702,delayed
+12703,delayed
+12704,delayed
+12705,delayed
+12706,delayed
+12707,delayed
+12708,delayed
+12709,delayed
+12710,delayed
+12711,on time
+12712,delayed
+12713,delayed
+12714,delayed
+12715,on time
+12716,delayed
+12717,delayed
+12718,delayed
+12719,delayed
+12720,delayed
+12721,delayed
+12722,on time
+12723,on time
+12724,delayed
+12725,delayed
+12726,delayed
+12727,delayed
+12728,delayed
+12729,delayed
+12730,delayed
+12731,delayed
+12732,delayed
+12733,on time
+12734,delayed
+12735,delayed
+12736,delayed
+12737,delayed
+12738,delayed
+12739,delayed
+12740,delayed
+12741,delayed
+12742,delayed
+12743,delayed
+12744,delayed
+12745,delayed
+12746,delayed
+12747,delayed
+12748,delayed
+12749,delayed
+12750,delayed
+12751,delayed
+12752,delayed
+12753,delayed
+12754,delayed
+12755,delayed
+12756,delayed
+12757,delayed
+12758,delayed
+12759,delayed
+12760,delayed
+12761,delayed
+12762,delayed
+12763,delayed
+12764,delayed
+12765,delayed
+12766,delayed
+12767,delayed
+12768,delayed
+12769,delayed
+12770,delayed
+12771,delayed
+12772,delayed
+12773,delayed
+12774,delayed
+12775,delayed
+12776,delayed
+12777,on time
+12778,on time
+12779,on time
+12780,on time
+12781,on time
+12782,on time
+12783,on time
+12784,on time
+12785,on time
+12786,on time
+12787,on time
+12788,on time
+12789,on time
+12790,on time
+12791,on time
+12792,on time
+12793,on time
+12794,on time
+12795,on time
+12796,on time
+12797,on time
+12798,on time
+12799,on time
+12800,on time
+12801,on time
+12802,on time
+12803,on time
+12804,on time
+12805,on time
+12806,on time
+12807,on time
+12808,on time
+12809,on time
+12810,on time
+12811,on time
+12812,on time
+12813,on time
+12814,on time
+12815,on time
+12816,delayed
+12817,delayed
+12818,delayed
+12819,delayed
+12820,delayed
+12821,delayed
+12822,delayed
+12823,delayed
+12824,delayed
+12825,delayed
+12826,delayed
+12827,delayed
+12828,delayed
+12829,delayed
+12830,delayed
+12831,delayed
+12832,delayed
+12833,delayed
+12834,delayed
+12835,delayed
+12836,delayed
+12837,delayed
+12838,delayed
+12839,delayed
+12840,on time
+12841,delayed
+12842,delayed
+12843,delayed
+12844,delayed
+12845,delayed
+12846,delayed
+12847,delayed
+12848,on time
+12849,on time
+12850,on time
+12851,on time
+12852,on time
+12853,on time
+12854,on time
+12855,on time
+12856,on time
+12857,on time
+12858,on time
+12859,on time
+12860,on time
+12861,on time
+12862,on time
+12863,on time
+12864,on time
+12865,on time
+12866,on time
+12867,on time
+12868,on time
+12869,on time
+12870,on time
+12871,on time
+12872,on time
+12873,on time
+12874,on time
+12875,on time
+12876,on time
+12877,on time
+12878,on time
+12879,on time
+12880,on time
+12881,on time
+12882,on time
+12883,on time
+12884,delayed
+12885,delayed
+12886,delayed
+12887,delayed
+12888,delayed
+12889,delayed
+12890,delayed
+12891,delayed
+12892,delayed
+12893,delayed
+12894,delayed
+12895,delayed
+12896,delayed
+12897,delayed
+12898,delayed
+12899,delayed
+12900,delayed
+12901,delayed
+12902,delayed
+12903,delayed
+12904,delayed
+12905,delayed
+12906,delayed
+12907,delayed
+12908,delayed
+12909,delayed
+12910,delayed
+12911,delayed
+12912,delayed
+12913,delayed
+12914,delayed
