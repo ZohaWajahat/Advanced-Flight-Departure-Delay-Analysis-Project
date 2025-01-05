@@ -51,7 +51,7 @@ Flight delays are a critical challenge in the aviation industry, affecting passe
 
 ## 5. Model Testing and Submission
 • Use trained models to predict delays on the test dataset.<br>
-• Save predictions in Kaggle competition format:
-    • Regression: Predict exact delays.
-    • Classification: Predict delay categories or binary outcomes.
-• Submit results to Kaggle for evaluation
+• Save predictions in Kaggle competition format:<br>
+    1. Regression: Predict exact delays.<br>
+    2. Classification: Predict delay categories or binary outcomes.<br>
+• Submit results to Kaggle for evaluation<br>
