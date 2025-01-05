@@ -15,11 +15,11 @@ Flight delays are a critical challenge in the aviation industry, affecting passe
 
 ## Phases
 ### Data Preprocessing and Feature Engineering
-#### • Data Integration
+#### Data Integration:
 • Combine flight and weather datasets for analysis.
-#### • Data Cleaning
+#### Data Cleaning:
 • Handle missing values and standardize time fields.
-#### • Feature Engineering
+#### Feature Engineering:
 • Calculate departure delays.
 • Extract temporal features (e.g., day of the week, hour of the day).
 • Merge relevant weather attributes (e.g., temperature, wind speed).
