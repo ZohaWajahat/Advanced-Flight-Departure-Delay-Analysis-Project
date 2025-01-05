@@ -33,14 +33,14 @@ Flight delays are a critical challenge in the aviation industry, affecting passe
 ### 3. Predictive Modeling
 #### Classificarion Tasks
   ##### 1. Binary Classification
-    Predict whether a flight is "on-time" or "delayed."
+   Predict whether a flight is "on-time" or "delayed."
 
   ##### 2. Multi-class Classification
-    Categorize delays into:<br>
-  • No Delay (0 min)<br>
-  • Short Delay (<45 min)<br>
-  • Moderate Delay (45–175 min)<br>
-  • Long Delay (>175 min)<br>
+   Categorize delays into:<br>
+   • No Delay (0 min)<br>
+   • Short Delay (<45 min)<br>
+   • Moderate Delay (45–175 min)<br>
+   • Long Delay (>175 min)<br>
 
 ### Regression Task
-• Predict the exact delay duration in minutes.
+  • Predict the exact delay duration in minutes.
