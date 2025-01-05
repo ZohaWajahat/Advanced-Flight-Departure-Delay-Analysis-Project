@@ -43,4 +43,15 @@ Flight delays are a critical challenge in the aviation industry, affecting passe
    • Long Delay (>175 min)<br>
 
 ### Regression Task
-  • Predict the exact delay duration in minutes.
+  • Predict the exact delay duration in minutes.<br>
+
+## 4. Model Optimization
+• Perform hyperparameter tuning using grid search/random search.<br>
+• Apply k-fold cross-validation to evaluate model performance.<br>
+
+## 5. Model Testing and Submission
+• Use trained models to predict delays on the test dataset.<br>
+• Save predictions in Kaggle competition format:
+    • Regression: Predict exact delays.
+    • Classification: Predict delay categories or binary outcomes.
+• Submit results to Kaggle for evaluation
